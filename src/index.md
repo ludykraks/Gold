@@ -3,7 +3,7 @@
 title: "GoldChest Tech"
 layout: "layouts/home.html"
 intro:
-  main: "Get a website designed for you"
+  main: "Get the Perfect Website For You"
   eyebrow: "Hey Y'all"
   summary: >
    "Your brand is unique.You know what you represent. Let's help you creatwebsite that represents you and your business.Put your brand online and attract new customers."

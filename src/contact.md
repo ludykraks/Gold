@@ -1,3 +1,4 @@
+---
 title: 'About GoldChest Technologies'
 layout: 'layouts/contact.html'
 

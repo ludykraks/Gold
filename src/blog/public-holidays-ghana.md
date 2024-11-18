@@ -22,7 +22,7 @@ title: "Holidays in Ghana 2024"
        <li>Eid al-Adha - <span style="color:#ff4200">Monday, 17th June</span>*</li>
        <li>Founders' Day - <span style="color:#ff4200">Sunday, 4th August</span></li>
        <li>Kwame Nkrumah Memorial Day - <span style="color:#ff4200">Saturday, 21st September</span></li>
-       <li>Farmers' Day - <span style="color:#ff4200">Friday, 8th November</span></li>
+       <li>Farmers' Day - <span style="color:#ff4200">Friday, 6th December</span></li>
        <li>Christmas Day - <span style="color:#ff4200">Wednesday, 25th December</span></li>
        <li>Boxing Day - <span style="color:#ff4200">Thursday, 26th December/span></li>
      </ol>
@@ -64,4 +64,4 @@ title: "Holidays in Ghana 2024"
       <h3>Do Banks in Ghana work on holidays?</h3>
       <p>No, banks in Ghana don't work on holidays.</p>
       <h3>When is Farmers Day 2024?</h3>
-      <p>This year's Farmers Day has been moved to Friday 8th November, 2024. This is because of the 2024 Elections.</p>
+      <p>This year's Farmers' Day statutory public holiday is on Friday 6th December, 2024, although it will be observed on 8th November, 2024.</p>

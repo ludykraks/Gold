@@ -33,7 +33,7 @@ title: "Holidays in Ghana 2025"
   <blockquote>Popular Post: <a href= "shortcodes-for-mobile-networks"><em>Short Codes for All Mobile Networks in Ghana</em></a>
      </blockquote>
 
-<h2>Other notable days in Ghana 2024</h2>
+<h2>Other notable days in Ghana 2025</h2>
      <p>The holidays below are not official public holidays in Ghana.</p>
      <ul>
       <li>Valentine's/Chocolate Day - <span style="color:#ff4200">Friday, 14th February</span></li>
@@ -45,7 +45,7 @@ title: "Holidays in Ghana 2025"
       <li>Republic Day - <span style="color:#ff4200">Tuesday, 1st July</span></li>
      </ul>
      <p>Click on the image below to save it</p>
-     <p><a href="/images/blogpics/holidays-2024.jpg" download= "Ghana Holidays 2024" rel= "noopener"> <img src= "/images/blogpics/holidays-ghana-2024.jpg" alt= "Holidays in Ghana 2024" class= "img-responsive center-block" title="Click to save holidays" loading="lazy"></a></p>
+     <p><a href="/images/blogpics/holidays-2025.jpg" download= "Ghana Holidays 2025" rel= "noopener"> <img src= "/images/blogpics/holidays-ghana-2025.jpg" alt= "Holidays in Ghana 2025" class= "img-responsive center-block" title="Click to save holidays" loading="lazy"></a></p>
    
      <hr>
 

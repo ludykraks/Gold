@@ -9,7 +9,7 @@ title: "Holidays in Ghana 2025"
         are no longer holidays in Ghana.</a></p>
       <p><em>Note:</em> When a public holiday falls on a Saturday or  Sunday in Ghana, 
        the following Monday is usually declared a holiday and observed.</p>
-      <p>The following are the official public holidays in Ghana <strong>2024</strong>.</p>
+      <p>The following are the official public holidays in Ghana <strong>2025</strong>.</p>
 
   <ol>
        <li>New Year's Day - <span style="color:#ff4200">Wednesday, 1st January</span></li>
@@ -24,7 +24,7 @@ title: "Holidays in Ghana 2025"
        <li>Kwame Nkrumah Memorial Day - <span style="color:#ff4200">Sunday, 21st September</span></li>
        <li>Farmers' Day - <span style="color:#ff4200">Friday, 5th December</span></li>
        <li>Christmas Day - <span style="color:#ff4200">Thursday, 25th December</span></li>
-       <li>Boxing Day - <span style="color:#ff4200">Friday, 26th December/span></li>
+       <li>Boxing Day - <span style="color:#ff4200">Friday, 26th December</span></li>
      </ol>
      
   <p> * Subject to visibility of the moon.</p>

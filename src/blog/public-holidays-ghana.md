@@ -51,7 +51,7 @@ title: "Holidays in Ghana 2025"
 
 <h2>FAQs</h2>
       <h3>When are the Easter Holidays in Ghana?</h3>
-      <p>The Easter holidays in Ghana start on Good Friday, 18th April and ends on Easter Monday, 21st April, 2024</p>  
+      <p>The Easter holidays in Ghana start on Good Friday, 18th April and ends on Easter Monday, 21st April, 2025</p>  
       <h3>Is 7th January a holiday in Ghana?</h3>
       <p>Yes, 7th January is a holiday in Ghana - Constitution Day.</p>
       <h3>Is 1st July a holiday in Ghana?</h3>

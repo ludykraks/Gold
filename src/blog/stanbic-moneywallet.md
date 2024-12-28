@@ -15,7 +15,7 @@ title: "Get and Activate Stanbic Bank MasterCard MoneyWallet in Ghana"
 
 <p>You can also use the card internationally and in US Dollar, British Pound Sterling, Euro and many more, wherever MasterCard is accepted.</p>
 
-  <p> The card is also contactless meaning you can use it for contactless payments.</p>
+  <p> The MasterCard is also contactless meaning you can use it for contactless payments.</p>
 
 <h2>How to Get Stanbic Bank MasterCard MoneyWallet Card</h2>
 

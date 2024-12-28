@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2024"
+title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2025"
 
 ---
 

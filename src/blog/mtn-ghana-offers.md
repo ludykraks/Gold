@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "MTN promotions: MTN Sunday Special, Free after 1 Extra, MTN Just4U (2024)"
+title: "MTN promotions: MTN Sunday Special, Free after 1 Extra, MTN Just4U (2025)"
 
 ---
 

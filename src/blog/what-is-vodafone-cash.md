@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Telecel Cash: All You Need to Know"
+title: "Telecel Cash: All You Need to Know (2025)"
 
 ---
   <img src= "/images/blogpics/vodafone-cash-code.jpg" alt= "Vodafone Cash code" class= "img-responsive center-block" loading="lazy">

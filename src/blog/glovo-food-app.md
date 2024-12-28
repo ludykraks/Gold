@@ -6,7 +6,7 @@ title: "Glovo App: Food Delivery Service in Ghana"
 
 <img src= "/images/blogpics/glovo-food-ghana.jpg" alt= "Glovo App Ghana" class= "img-responsive center-block" loading="lazy">
       
-  <p><em>Glovo <strong>are no longer</strong>operating in Ghana.</em></p>
+  <p><em>Glovo <strong>are no longer</strong> operating in Ghana.</em></p>
       <p>Well, well, well, there is a new big delivery player in the industry and it's Glovo.</p>
       <p>If you're in Accra and haven't heard <a href="https://about.glovoapp.com/en/" target="_blank" rel="noreferrer"> about Glovo app</a> yet, 
         then you are probably living under a rock.</p>

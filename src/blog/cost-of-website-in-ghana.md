@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Cost of Website Design in Ghana: A 2024 Guide"
+title: "Cost of Website Design in Ghana: A 2025 Guide"
 
 ---
 
@@ -46,7 +46,7 @@ title: "Cost of Website Design in Ghana: A 2024 Guide"
          <a href="https://www.namecheap.com" target="_blank">Namecheap</a>
         are registrars where you can easily purchase your domain name.
         Registering a domain name that ends with a <em>.com or .org</em> should cost you
-        between GH₵ 60 and GH₵ 90 per year, .com.gh however costs more.</p>
+        between GH₵ 260 and GH₵ 320 per year, .com.gh however costs more.</p>
       <p>You can personally purchase your domain name on any of the above sites or let
         a <a href="5-top-web-agencies-ghana">web agency in Ghana</a> take care of it for you.</p>
       <p>There are other local Ghanaian companies like Nacrotek and WopeDigital who can register a domain name for you.</p>
@@ -79,7 +79,7 @@ title: "Cost of Website Design in Ghana: A 2024 Guide"
         on their websites, and web agencies would have to listen and develop the website
         according to their clients' preferences.</p>
       <p>Web agencies therefore charge for designing and building websites. In
-        Ghana, some may charge as low as GH₵ 300 or a high as GH₵ 1000 for the development process.</p>
+        Ghana, some may charge as low as GH₵ 600 or a high as GH₵ 2000 for the development process.</p>
       <p><a href="https://www.fastcompany.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry" rel="noopener nofollow">User 
        experience (UX) and User interface (UI)</a> are very important when it comes developing a website.</p>
       <h2>Web Maintenance</h2>

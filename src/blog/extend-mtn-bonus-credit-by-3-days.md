@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "MTN Promotions: Free After 1, Kokrokoo, Mashup, Special Data [2024]"
+title: "MTN Promotions: Free After 1, Kokrokoo, Mashup, Special Data [2025]"
 
 ---
 

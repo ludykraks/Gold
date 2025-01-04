@@ -23,7 +23,7 @@ title: "How to buy MTN Shares / MTN Ghana Shares Login"
       <p>For the first time ever anywhere, you can use mobile money wallet to buy shares. Follow the steps below to buy MTN Ghana shares:</p>
 
 <p>1. Dial MTN Mobile Money short code: *170# </p>
-      <p>2. Select <em>Buy MTN Shares</em></p>
+      <p>2. Select <em> Trade Shares</em> and enter your PIN.</p>
       <p>3. Choose Option 1 to <em>Buy MTN Shares</em></p>
       <p>4. Enter the number of shares you want to buy. You can buy in multiples
         of 10, minimum of 10 shares. Each share costs 75 Ghana pesewas</p>

@@ -11,7 +11,7 @@ title: "How to Use MTN Mobile Money to Buy Apps on Google Play Store"
          online without debit cards or bank transfers makes it difficult to shop online.
       </p>
       <p>Thankfully, mobile money is here, accessible to many Ghanaians.
-         Here is how you can use your <a href="what-is-mtn-momo" target="_blank">MTN Mobile Money (MoMo)</a> account to pay for
+         Here is how you can use your <a href="/blog/what-is-mtn-momo" target="_blank">MTN Mobile Money (MoMo)</a> account to pay for
          apps and games on Play Store.</p>
       <p>1. Open <em>Google Play Store</em> app on your phone</p>
       <p>2. Tap the menu icon and select <em>Account</em></p>

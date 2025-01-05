@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Send Airtime from MTN to Vodafone and AirtelTigo"
+title: "Send Airtime from MTN to Vodafone / Telecel and AirtelTigo"
 
 ---
 

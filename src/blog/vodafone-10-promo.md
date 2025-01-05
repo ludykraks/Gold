@@ -5,7 +5,7 @@ title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 M
 ---
   <img src= "/images/blogpics/vodafone-promos-1.jpg" alt= "Vodafone Made For You, Vodafone 2 Moorch" class= "img-responsive center-block">
     
-  <p>Are you looking for ways to get more Vodafone (Now Telecel) airtime and enjoy extra data <a href="vodafone-ghana-4g">(now with 4G speed)</a>?</p>
+  <p>Are you looking for ways to get more Vodafone (Now Telecel) airtime and enjoy extra data <a href="/blog/vodafone-ghana-4g">(now with 4G speed)</a>?</p>
       <p>Yes!</p> 
       <p>Then find out about exciting Vodafone (Now Telecel) promos below.</p>
       <h2>Vodafone 2 Moorch Data</h2>
@@ -21,7 +21,7 @@ title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 M
   <h2>Vodafone/Telecel Free after One / Vodafone Baako Pe</h2>
        <p>Vodafone Free After One also known as Vodafone Kasa Tenten Talk 
        promo gives customers the freedom to talk "saaa".</p> 
-       <p>This promo is quite similar to <a href="extend-mtn-bonus-credit-by-3-days">MTN's Free After 1 offer</a>.</p>
+       <p>This promo is quite similar to <a href="/blog/extend-mtn-bonus-credit-by-3-days">MTN's Free After 1 offer</a>.</p>
        <p>With this promo you can make free calls to MTN, Vodafone, AirtelTigo and Glo after paying for only the first minute.</p>
        <p>Dial Vodafone Free After One code *135# or 135 to subscribe now.</p>
 
@@ -41,7 +41,7 @@ title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 M
       exciting offers in the forms of data and airtime each day.</p>
       <p>Vodafone Made For Me offer includes Vodafone 2GB for 3 days, 5GB for 5 days and many more.</p>
       <p>Dial Vodafone Made For Me code *530# and select the offer you want to enjoy.</p>
-      <blockquote>Related Post: <a href= "transfer-vodafone-cash-to-mtn-airteltigo">
+      <blockquote>Related Post: <a href= "/blog/transfer-vodafone-cash-to-mtn-airteltigo">
         <em>How to Send Money From Vodafone Cash to MTN Mobile Money or AirtelTigo Money</em></a>
       </blockquote>
       
@@ -67,10 +67,10 @@ title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 M
        <p>Transfer any amount of money from Vodafone Cash to any network 
        as many times as you want, and still pay no charges. Dial the Vodafone 
        Cash short code *110# to start now. If you haven't yet registered for 
-       <a href="what-is-vodafone-cash">Vodafone Cash, you would need to register first</a>. </p>
+       <a href="/blog/what-is-vodafone-cash">Vodafone Cash, you would need to register first</a>. </p>
 
    <h3>How to Register for Vodafone/Telecel Cash</h3>
-      <p>If you haven't yet registered for <a href="transfer-mobile-money-to-bank">Vodafone Cash</a>, all you 
+      <p>If you haven't yet registered for <a href="/blog/transfer-mobile-money-to-bank">Vodafone Cash</a>, all you 
          have to do is to visit any Vodafone office with a valid
          ID card and request to be registered as a subscriber.</p>
       <p>After registration, you get to enjoy the Vodafone Special Bundles.</p>  

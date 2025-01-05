@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "What You Need to Know about Airbnb Ghana 2024"
+title: "What You Need to Know about Airbnb Ghana 2025"
 
 ---
 

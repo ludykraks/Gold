@@ -6,7 +6,7 @@ title: "How to buy MTN Shares / MTN Ghana Shares Login"
 
 <img src= "/images/blogpics/mtn-ghana-shares-buy.jpg" alt= "Buy MTN Ghana Shares" class= "img-responsive center-block">\
 
-<blockquote><a href="sell-mtn-ghana-shares">Learn how to sell your MTN Ghana shares</a></blockquote>
+<blockquote><a href="https://goldchestgh.com/blog/sell-mtn-ghana-shares">Learn how to sell your MTN Ghana shares</a></blockquote>
 
 <p>MTN Ghana is offering its shares to the general public. This means 
        that you can own shares in MTN Ghana and enjoy the benefits that come with it.
@@ -15,7 +15,7 @@ title: "How to buy MTN Shares / MTN Ghana Shares Login"
       </p>
       <h2>When can I buy the MTN Ghana (IPO) shares?</h2>
       <p>You can start buying the MTN shares from 29th May, 2018 to 31st July, 2018.</p>
-      <p>Find out more about the <a href="mtn-ipo-timetable">MTN IPO activity dates here</a>.</p>
+      <p>Find out more about the <a href="/blog/mtn-ipo-timetable">MTN IPO activity dates here</a>.</p>
 
 <h2>How many MTN shares can I buy?</h2>
       <p>A share costs 75 Ghana pesewas and you can buy a minimum of 10 shares (costing you just GHC 7.50).</p>

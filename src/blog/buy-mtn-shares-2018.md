@@ -4,7 +4,7 @@ title: "How to buy MTN Shares / MTN Ghana Shares Login"
 
 ---
 
-<img src= "/images/blogpics/mtn-ghana-shares-buy.jpg" alt= "Buy MTN Ghana Shares" class= "img-responsive center-block">\
+<img src= "/images/blogpics/mtn-ghana-shares-buy.jpg" alt= "Buy MTN Ghana Shares" class= "img-responsive center-block">
 
 <blockquote><a href="https://goldchestgh.com/blog/sell-mtn-ghana-shares">Learn how to sell your MTN Ghana shares</a></blockquote>
 

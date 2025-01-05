@@ -4,7 +4,6 @@ title: "MTN TurboNet and 4G+ [New Price and Packages]"
 
 ---
      
-     
 <img src= "/images/blogpics/mtn-turbonet.jpg" alt= "MTN TurboNet" class= "img-responsive center-block" loading="lazy">
     
   <p>Before we talk about the MTN 4G+, let's discuss MTN's TurboNet, it's the new kid on the block.</p>
@@ -14,6 +13,7 @@ title: "MTN TurboNet and 4G+ [New Price and Packages]"
        to 32 people and it's actually super fast. Reviews by users so far have been 
        very favourable and adoption is steadily growing.</p>
       <h2>How much is MTN TurboNet?</h2>
+      <p>MTN TurboNet is no longer available to buy from MTN Ghana. To get the TurboNet you need to visit Jiji marketplace.</p>
       <p>MTN TurboNet costs GHc 499.00. </p>
 
   <h3>MTN TurboNet Packages:</h3>
@@ -27,7 +27,7 @@ title: "MTN TurboNet and 4G+ [New Price and Packages]"
       <p>Visit any MTN Ghana shop to purchase your TurboNet device.</p>
 
   <h3>MTN 4G+</h3>
-      <p><a href="mtn-ghana-4g">MTN becomes the first again</a>. Just when you thought <a href="vodafone-ghana-4g">Vodafone
+      <p><a href="/blog/mtn-ghana-4g">MTN becomes the first again</a>. Just when you thought <a href="/blog/vodafone-ghana-4g">Vodafone
         Ghana was catching up with its 4G service</a>.</p>
       <p>MTN Ghana has launched its 4G+ service to its users. MTN Ghana's CEO Mr Adadevoh announced
         this new service during his presentation at this year's Springboard 2019 event in Ghana.</p>

@@ -35,7 +35,7 @@ title: "7 Websites you can Download Free Ghanaian Music"
         searching, listening and downloading music very easy. Navigating the site was smooth.</p>
       <p>They have all the latest free Ghanaian hiplife, highlife and afrobeat songs here. While on their site,
         check the <a href="https://www.blissgh.com/music/ghana/" rel="noopener"> popular Ghanaian Songs.</a></p>
-      <blockquote>Popular Post: <a href= "pay-for-android-apps-mtn-mobile-money"><em>How to Buy 
+      <blockquote>Popular Post: <a href= "/blog/pay-for-android-apps-mtn-mobile-money"><em>How to Buy 
        Apps and Games Using MTN Mobile Money on Google Play Store </em></a>
       </blockquote> 
 

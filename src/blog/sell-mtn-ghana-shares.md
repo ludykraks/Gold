@@ -7,14 +7,14 @@ title: "How to Sell MTN Shares Using MTN Mobile Money"
   <img src= "/images/blogpics/trade-mtn-shares.jpg" alt= "Sell MTN Shares" class= "img-responsive center-block" loading="lazy">
      
   <p>Click this link to head straight to the 
-      <a href="https://tradelive.icsecurities.com/trading/login.xhtml" rel="noopener nofollow" target="_blank">MTN 
-      Ghana Shares login</a> page. Note: The login page is hosted by Tradelive ICSecurities Ghana.</p>
+      <a href="https://onboarding.ic.africa/register" rel="noopener nofollow" target="_blank">MTN 
+      Ghana Shares login</a> page. Note: The login page is hosted by ICSecurities Ghana.</p>
       <p>So you were able to buy some shares during the MTN Share Offer, good.
        But now you are thinking of selling or buying additional shares.</p>
       <h2>When can I Trade my MTN Ghana Shares?</h2> 
       <p><em>Note: You can only begin trading MTN Ghana shares
         after MTN Ghana has been officially listed on the Ghana Stock Exchange. Assuming the
-        IPO is successful, you can begin trading <a href="mtn-ipo-timetable" target="_blank" rel="noopener"> starting 5th September 2018</a>.</em></p>
+        IPO is successful, you can begin trading <a href="/blog/mtn-ipo-timetable" target="_blank" rel="noopener"> starting 5th September 2018</a>.</em></p>
       <p>The trade market is open Monday - Friday between the hours 10am to 3pm.</p>  
       <p>Follow the steps below to sell or buy MTN Ghana shares using MTN Mobile Money.</p>
 
@@ -76,9 +76,9 @@ title: "How to Sell MTN Shares Using MTN Mobile Money"
       <a href="https://www.csd.com.gh/about-us/partners/brokerage-firms.html" rel="noopener">official brokerage firms in Ghana</a> here.</p>
      <p>Note that this option is available to all shareholders.</p>
      <h2>Check your MTN Ghana Shares Online</h2>
-     <p>Alternatively, you can visit <a href="https://tradelive.icsecurities.com/trading/login.xhtml" rel="noopener" target="_blank">MTN Ghana 
+     <p>Alternatively, you can visit <a href="https://onboarding.ic.africa/register" rel="noopener" target="_blank">MTN Ghana 
       Shares Website</a> to view your account. 
-      Just <a href="https://tradelive.icsecurities.com/trading/login.xhtml" rel="noopener" target="_blank">log 
-      in </a> to see your subscriptions. MTNGhanashares.com has been replaced by Tradelive.icsecurities.com.</p>             
+      Just <a href="https://onboarding.ic.africa/register" rel="noopener" target="_blank">log 
+      in </a> to see your subscriptions. MTNGhanashares.com has been replaced by https://onboarding.ic.africa/register</p>             
       <p>For further information please contact MTN Ghana on 100. 
       <a href="https://goldchestgh.com/blog/check-share-price-gse">Check MTN Ghana Share Price</a> here.</p> 

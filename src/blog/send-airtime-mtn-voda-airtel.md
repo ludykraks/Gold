@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Send Airtime from MTN to Vodafone and AirtelTigo"
+title: "Send Airtime from MTN to Vodafone / Telecel and AirtelTigo"
 
 ---
 
@@ -9,7 +9,7 @@ title: "Send Airtime from MTN to Vodafone and AirtelTigo"
 
    <p>You can now transfer airtime from your MTN to Vodafone/Telecel and AirtelTigo.</p>
 
-  <p>But first you need to download the <a href="telcos-mobile-app-ghana">MyMTN mobile app</a>.</p>
+  <p>But first you need to download the <a href="/blog/telcos-mobile-app-ghana">MyMTN mobile app</a>.</p>
 
   <p>If you already have the app, follow the simple steps below.</p>
 

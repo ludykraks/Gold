@@ -6,13 +6,13 @@ title: "Mobile Money Loans in Ghana: QwikLoan, FIDO"
   <img src= "/images/blogpics/mobile-money-loan.jpg" alt= "FIDO loan, MTN QwikLoan" class= "img-responsive center-block" loading="lazy">
  
   <p>Mobile Money has been a blessing to a lot of people since its introduction to Ghana some years ago.</p>
-      <p>And aside from being able to use <a href="transfer-mobile-money-to-bank">mobile money to conveniently save money and seamlessly transfer</a>
+      <p>And aside from being able to use <a href="/blog/transfer-mobile-money-to-bank">mobile money to conveniently save money and seamlessly transfer</a>
         money to family and friends, users can also get loans from their mobile money service operators.</p>
       <p>Below are ways you can get loans using your mobile money account in Ghana.</p>
       <h2>1. MTN Mobile Money QwikLoan</h2>
       <p>If you are an active MTN Mobile Money user, you can easily apply for a
         short term loan by using the QWIKLOAN service on your mobile phone.</p>
-      <p>Dial the <a href="what-is-mtn-momo" target="_blank">MTN Mobile Money</a> short code *170#, choose <em>Financial services</em>, <em>Loan</em>
+      <p>Dial the <a href="/blog/what-is-mtn-momo" target="_blank">MTN Mobile Money</a> short code *170#, choose <em>Financial services</em>, <em>Loan</em>
         and select <em>Option 1</em> to register and apply for loan.</p>
       <p>If your application is successful, you will instantly receive the money into your MTN MoMo wallet.</p>
       <p>This method of receiving loans is fast, convenient and requires no paperwork.</p>

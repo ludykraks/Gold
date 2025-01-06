@@ -6,7 +6,7 @@ title: "Mobile Banking Apps in Ghana: StanChart, GCB, UMB, Ecobank, NIB ..."
 
 <img src= "/images/blogpics/mobile-app-ghana.jpg" alt= "Mobile Apps in Ghana, Ecobank, Fidelity, UMB, CalBank" class= "img-responsive center-block">
 
-<p>It's 2021 and if your bank doesn't have a mobile app to digitise your banking
+<p>It's 2025 and if your bank doesn't have a mobile app to digitise your banking
        experience, then I'm sorry you have to reconsider your options.</p>
       <p>Ghana is gradually moving from a cash-based economy
        to a cash-lite economy and this is being spearheaded by the government of Ghana,
@@ -43,7 +43,7 @@ title: "Mobile Banking Apps in Ghana: StanChart, GCB, UMB, Ecobank, NIB ..."
        <li>Mobile banking code for Fidelity Bank *776#</li>
       </ul>
 
-<blockquote>Popular Post: <a href= "pay-for-android-apps-mtn-mobile-money"><em>How to Buy 
+<blockquote>Popular Post: <a href="/blog/pay-for-android-apps-mtn-mobile-money"><em>How to Buy 
        Apps and Games Using MTN Mobile Money on Google Play Store </em></a>
       </blockquote>
 
@@ -104,7 +104,7 @@ title: "Mobile Banking Apps in Ghana: StanChart, GCB, UMB, Ecobank, NIB ..."
        <li>Short code for CalBank *771#</li>
       </ul>
 
-<blockquote>Related Post: <a href= "transfer-mobile-money-to-bank"><em>How to send Money to a Bank Account without Using an App</em></a>
+<blockquote>Related Post: <a href= "/blog/transfer-mobile-money-to-bank"><em>How to send Money to a Bank Account without Using an App</em></a>
       </blockquote>
 
 <h2>ADB Mobile Banking App</h2>

@@ -37,7 +37,7 @@ title: "How to Transfer Money from Bank to MTN, Vodafone or AirtelTigo Money"
       <p>Dial AirtelTigo Money short code: *110#, select Send Money, choose Bank account and follow prompt.</p>
       <p>You can now do everything from the comfort of your home.</p> 
       <p>Once you have transferred the money to your mobile money wallet, 
-       you can cash out or <a href="transfer-mobile-money-to-bank">send it to any other other mobile money/bank account.</a></p>
+       you can cash out or <a href="/blog/transfer-mobile-money-to-bank">send it to any other other mobile money/bank account.</a></p>
 
 
       

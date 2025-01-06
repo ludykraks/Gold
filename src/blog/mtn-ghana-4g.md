@@ -3,7 +3,7 @@ layout: "layouts/blog-base.html"
 title: "MTN 4G: All You Need to Know [Code, Data Plan, Sim Card]"
 
 ---
-  <img src= "../images/blogpics/mtn-4g-network-code.jpg" alt= "MTN Ghana 4G LTE" class= "img-responsive center-block">
+  <img src= "/images/blogpics/mtn-4g-network-code.jpg" alt= "MTN Ghana 4G LTE" class= "img-responsive center-block">
    
   <p><strong>Quick Tip: To enjoy MTN Ghana's 4G Data plan, just dial the MTN 4G code *138#, 
       select <em>Internet Packs</em>, and choose your package.</strong></p>
@@ -33,7 +33,7 @@ title: "MTN 4G: All You Need to Know [Code, Data Plan, Sim Card]"
       <p>And I bet you on this one, once you use MTN's 4G network,
         you are not likely to return to their/any other 2G/3G/3.5G network. It's kind of like
         returning to snail mail after using email.</p>
-      <blockquote>Popular Post: <a href= "pay-for-android-apps-mtn-mobile-money"><em>How to Buy 
+      <blockquote>Popular Post: <a href="/blog/pay-for-android-apps-mtn-mobile-money"><em>How to Buy 
        Apps and Games Using MTN Mobile Money on Google Play Store </em></a>
       </blockquote>
       <h2>2. Same Price</h2>
@@ -59,7 +59,7 @@ title: "MTN 4G: All You Need to Know [Code, Data Plan, Sim Card]"
         option 5 and give your consent.</p>
       <h2>4. Convenience</h2>
       <p>MTN Ghana is currently the <del>only</del> mobile network operator in Ghana that provides 4G
-        service. AirtelTigo and Glo do not offer 4G. <a href="vodafone-ghana-4g">Vodafone Ghana now offers 4G internet</a> service.</p>
+        service. AirtelTigo and Glo do not offer 4G. <a href="/blog/vodafone-ghana-4g">Vodafone Ghana now offers 4G internet</a> service.</p>
       <p>This means that with MTN, you get faster internet speed on the go. No need
         to be carrying a portable mobile Wi-Fi device with you all the time.</p>
       <h2>5. Share your internet data with other devices</h2>

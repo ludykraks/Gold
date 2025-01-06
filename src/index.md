@@ -1,6 +1,6 @@
 ---
 
-title: "GoldChest Tech"
+title: "GoldChest Technologies"
 layout: "layouts/home.html"
 intro:
   main: "Get the Perfect Website For You"

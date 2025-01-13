@@ -13,7 +13,7 @@ title: "Websites you can Download Ghanaian and Other Ebooks for Free (Online Boo
         To access these ebooks you may download Opera Mini onto your device, Worldreader is already
         bookmarked on Opera Mini's favourites so you can have quick access to the ebooks.</p>
       <p>If you are not a fan of Opera Mini browser, you can read the ebooks on any mobile browser of your choice by following this
-        <a href= "http://read.worldreader.org/" target="_blank" rel="noopener"> Worldreader link</a> on 
+        <a href= "https://www.worldreader.org/booklists/" target="_blank" rel="noopener"> Worldreader link</a> on 
         your mobile phone. What's great about Worldreader is
         that you can access it on any mobile phone with internet connection. They have over 40,000 ebooks in their library
         and you may download the ebooks on your phone for offline reading as well.</p>
@@ -21,7 +21,7 @@ title: "Websites you can Download Ghanaian and Other Ebooks for Free (Online Boo
         Faceless by <em>Amma Darko</em>, Kwame Nkrumah: The great African, Some popular Ananse Stories, Caine 
         Prize books and many other books. They also have story books for toddlers and young adults.</p>
       <h2>Ghana Library App</h2> 
-      <p><a href="https://ghanalibrary.org/"  target="_blank" rel="noopener">The Ghana Library Authority</a> recently 
+      <p><a href="https://www.library.gov.gh/"  target="_blank" rel="noopener">The Ghana Library Authority</a> recently 
       released its own mobile app with a wide collection of ebooks. You can download the  
        <a href="https://apps.apple.com/gh/app/ghana-library/id1464674859"  target="_blank" rel="noopener">Ghana Library App on 
        App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.ghanalibrary.ghanalibrary"  target="_blank" rel="noopener"> Google Play 
@@ -43,7 +43,7 @@ title: "Websites you can Download Ghanaian and Other Ebooks for Free (Online Boo
         choose the ebooks you want to read. Currently, when you sign up, you get <em>$5</em> to buy any ebook of your choice.
         You will find popular books by Ghanaian authors like Ama Ata Aidoo, Yaa Gyasi, Kwei Quartey and others,
         although they have price tags on them.</p>
-      <blockquote>Popular Post: <a href= "pay-for-android-apps-mtn-mobile-money"><em>How to Buy Books and Apps Using MTN MoMo on Google Play Store 
+      <blockquote>Popular Post: <a href= "/blog/pay-for-android-apps-mtn-mobile-money"><em>How to Buy Books and Apps Using MTN MoMo on Google Play Store 
       </em></a>
       </blockquote>        
       <h2>Project Gutenberg</h2>
@@ -54,6 +54,7 @@ title: "Websites you can Download Ghanaian and Other Ebooks for Free (Online Boo
         the ebooks onto your phone or pc</a>. I will suggest
         downloading the epub version of the ebooks.</p>
        <h2>Onicha Books</h2>
+       <em>Oniocha is no longer operating.</em>
       <p>Let's say, you are not a fan of digital books and you still prefer the good 
       old-fashioned hardcopy/paperback books. Well, worry not, online bookshop 
       <a href= "https://oniocha.com/" target="_blank" rel="noopener">Oniocha 

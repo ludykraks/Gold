@@ -5,7 +5,7 @@ title: "Web.dev: Google Introduces New Web Performance Tool"
 ---
 
 <p>Google has introduced a new modern web performance tool
-      <a href="https://web.dev">web.dev</a>. This new website will be
+      <a href="https://web.dev/measure/">web.dev</a>. This new website will be
       good for all web developers who want to improve upon thier
       clients' websites and apps. Web.dev has different learning materials on:</p>
       <ul>

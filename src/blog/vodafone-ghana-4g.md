@@ -10,7 +10,7 @@ title: "Vodafone Ghana 4G Settings"
   <p>Vodafone/Telecel Ghana has finally rolled out it's 4G network to its users, 
        days earlier than we anticipated.</p>
       <p>This thus makes Vodafone/Telecel the second telecommunication company 
-       in Ghana to offer 4G mobile service to its customers, after <a href= "mtn-4g-plus"> MTN Ghana rolled out its 4G</a> in 2016.</p>
+       in Ghana to offer 4G mobile service to its customers, after <a href= "/blog/mtn-4g-plus"> MTN Ghana rolled out its 4G</a> in 2016.</p>
       <p>Let's get started...</p>
       <h2>Do I need a new sim card to use Vodafone's 4G network?</h2> 
       <p>Not necessarily, first check if your smartphone is compatible and 
@@ -33,7 +33,7 @@ title: "Vodafone Ghana 4G Settings"
      <p>Select <em>Voice & Data</em></p>
      <p>Choose <em>LTE, 3G & 2G and select LTE</em></p>
 
-  <blockquote>Popular Post: <a href= "vodafone-10-promo"><em>Check out Vodafone Ghana's Special Data Offer</em></a>
+  <blockquote>Popular Post: <a href= "/blog/vodafone-10-promo"><em>Check out Vodafone Ghana's Special Data Offer</em></a>
      </blockquote>
 
  <p>If your phone is 4G compatible but you are unable to get the 

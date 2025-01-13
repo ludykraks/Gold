@@ -10,7 +10,7 @@ title: "Bolt Food Ghana Launches Food Delivery Service in Accra"
        order food and drinks from your favourite restaurants right on your mobile phone.  
      </p>     
       <p>Bolt then becomes the first taxi service company in Ghana to offer a food delivery service.</p>
-      <p>Uber and <a href="yango-ghana-app">Yango</a>, we are watching you.</p>
+      <p>Uber and <a href="/blog/yango-ghana-app">Yango</a>, we are watching you.</p>
       <h2>How to make your first order using Bolt Food app</h2>    
       <p>First, you have to download the Bolt Food App to make an order</p>
       <ul>

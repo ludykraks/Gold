@@ -10,7 +10,7 @@ title: "Renew Business Registration Ghana"
       <p>If you did, it means that you haven't renewed your business or filed your annual returns.</p>
       <p><strong>So what do you do now?</strong></p>
       <p>You can renew it <a href="https://www.ghana.gov.gh/rgd/annual-renewal/"  rel="noopener">online</a> like the 
-      <a href="nhis-ghana-shortcode-renew">NHIS Renewal</a>, fortunately the Registrar General 
+      <a href="/blog/nhis-ghana-shortcode-renew">NHIS Renewal</a>, fortunately the Registrar General 
       Department has gone online with this. Regardless of where you are, visit the Ghana.gov website and create an account to begin.</p>
       <h2>How do you renew your business registration offline?</h2>
       <p>Before you head to the RGD office to begin the process, you will need</p> 
@@ -34,8 +34,8 @@ title: "Renew Business Registration Ghana"
       <p>And do so annually to avoid trouble.<p>
       <hr>
       <h2>Download Annual Renewal / Returns Forms</h2>
-      <p>You can download the <a href="https://rgd.gov.gh/forms/renewal/annual%20renewal%20notice%20of%20registration%20A1.pdf" rel="noopener noreferrer">Annual Renewal (Sole Proprietorship) form here</a>. Make sure you print 2 copies.</p>
-      <p>You can download the <a href="https://rgd.gov.gh/forms/renewal/Filling-Of-Annual-Return-Form-.pdf" rel="noopener noreferrer">Annual Returns Forms(Company Limited by Shares).</a></p>
+      <p>You can download the <a href="https://drive.google.com/file/d/1gzkCRGzFlhvox5fER2RfHs7aTVja4Z7y/view?usp=sharing" rel="noopener noreferrer">Annual Renewal (Sole Proprietorship) form here</a>. Make sure you print 2 copies.</p>
+      <p>You can download the <a href="https://drive.google.com/file/d/1OU1PkD2nPemTAmKHHnX3trJte7s2AO1V/view?usp=sharing" rel="noopener noreferrer">Annual Returns Forms(Company Limited by Shares).</a></p>
       <p>If you want to be reminded to file your annual renewal earlier on in the year (January & February) when there is less traffic
        at the RGD office, you can subscribe to our
        <a href="mailto:goldchestgh@gmail.com?subject=Reminder:%20Annual%20Renewal%20of%20Business%20&body=Hi,%0d%0dI%20would%20like%20to%20be%20reminded%20earlier%20next%20year.">

@@ -26,7 +26,7 @@ title: "How to Send Money from Vodafone/Telecel Cash to MTN Mobile Money and Air
 
   <p>Done. Money Sent. As seamless as possible.</p>
 
-   <blockquote>Related Post: <a href= "transfer-mtn-mobile-money-to-vodafone-airteltigo">
+   <blockquote>Related Post: <a href= "/blog/transfer-mtn-mobile-money-to-vodafone-airteltigo">
         <em>How to Send Money From MTN MoMo to Vodafone/Telecel Cash or AirtelTigo Money</em></a>
       </blockquote>
       

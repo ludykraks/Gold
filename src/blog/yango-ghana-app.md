@@ -7,7 +7,7 @@ title: "Yango Ghana App: The Newest Ride-Hailing Service in Ghana"
   <img src= "/images/blogpics/yango-ghana.jpg" alt= "Yango Ghana" class= 
       <p><strong>Yango has officially launched in Ghana!</strong></p>
       <p>Ghana now has a new ride hailing service: Yango.</p>
-      <p>In addition to <a href="uber-ghana-ride">Uber Ghana,</a> Taxify and a few
+      <p>In addition to <a href="/blog/uber-ghana-ride">Uber Ghana,</a> Taxify and a few
         other services already operating in Accra and Kumasi, you now have the option of
         using your smartphone to conveniently order rides using the Yango app.</p>
       <p>Just like Uber, Yango is relatively cheaper than our regular taxis. The Yango app automatically 
@@ -31,7 +31,7 @@ title: "Yango Ghana App: The Newest Ride-Hailing Service in Ghana"
       <p>4. Select contact from your phone or type the number to order</p>
       <p> Make sure the number has the country code i.e 233.</p>
 
-   <blockquote>Popular Post: <a href= "transfer-vodafone-cash-to-mtn-airteltigo">
+   <blockquote>Popular Post: <a href= "/blog/transfer-vodafone-cash-to-mtn-airteltigo">
        <em>How to Send Money From Vodafone Cash to MTN Mobile Money or AirtelTigo Money</em></a>
       </blockquote>
 

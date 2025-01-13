@@ -13,7 +13,7 @@ title: "Websites you can Download Ghanaian and Other Ebooks for Free (Online Boo
         To access these ebooks you may download Opera Mini onto your device, Worldreader is already
         bookmarked on Opera Mini's favourites so you can have quick access to the ebooks.</p>
       <p>If you are not a fan of Opera Mini browser, you can read the ebooks on any mobile browser of your choice by following this
-        <a href= "https://www.worldreader.org/booklists/" target="_blank" rel="noopener"> Worldreader link</a> on 
+        <a href= "https://booksmart.world/free" target="_blank" rel="noopener"> Worldreader link</a> on 
         your mobile phone. What's great about Worldreader is
         that you can access it on any mobile phone with internet connection. They have over 40,000 ebooks in their library
         and you may download the ebooks on your phone for offline reading as well.</p>

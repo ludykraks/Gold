@@ -1,12 +1,12 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Pay 3 Ghana Cedis and send money for FREE - Vodafone Cash Ahotor Bundle"
+title: "Pay 3 Ghana Cedis and send money for FREE - Vodafone / Telecel Cash Ahotor Bundle"
 
 ---
     
   <img src= "/images/blogpics/vodafone-cash-ahotor.jpg" alt= "Vodafone Cash Ahotor Bundle" class= "img-responsive center-block">
       <div class= "pic-cred"> Image Credit: Vodafone Ghana </div>
-
+  <p><em>This promo has been discontinued.</em></p>
   <p><strong>It is now free to send money from Vodafone/Telecel to Vodafone/Telecel Cash Accounts.</strong></p>
       <p>Well, the future looks exciting. Vodafone Ghana just launched an
         innovative product called "Ahotor Bundle" for its Vodafone Cash users.</p>
@@ -30,6 +30,6 @@ title: "Pay 3 Ghana Cedis and send money for FREE - Vodafone Cash Ahotor Bundle"
       <p>After registration, you get to enjoy the convenience and all other benefits 
        that come with Vodafone Ghana's mobile money services.</p>     
       <p>*Note: Vodafone's terms and conditions apply.</p>
-      <p>For further information <a href="https://support.vodafone.com.gh/customer/en/portal/articles/2934112-vodafone-cash-ahotor-offer">visit Vodafone's support page</a>.</p>
+      
 
   

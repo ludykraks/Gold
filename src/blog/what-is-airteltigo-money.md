@@ -32,13 +32,13 @@ title: "About AirtelTigo Money"
       <p>1. Send and receive money anywhere in Ghana</p>
       <p>2. Buy airtime and internet bundles</p>
       <p>3. Pay bills (e.g. DSTV, ECG, GoTV, Ghana Water, StarTimes, box office, school fees and many more)</p>
-      <p>4. Transfer <a href="transfer-mobile-money-to-bank">money to and from banks</a></p>
+      <p>4. Transfer <a href="/blog/transfer-mobile-money-to-bank">money to and from banks</a></p>
       <p>5. Pay for airline tickets</p>
-      <p>6. Buy <a href= "pay-for-android-apps-airteltigo-money">apps and games on Google Play Store</a></p>
-      <p>7. Directly <a href="transfer-mtn-mobile-money-to-vodafone-airteltigo">send and receive money to and from Vodafone and MTN</a></p>
+      <p>6. Buy <a href= "/blog/pay-for-android-apps-airteltigo-money">apps and games on Google Play Store</a></p>
+      <p>7. Directly <a href="/blog/transfer-mtn-mobile-money-to-vodafone-airteltigo">send and receive money to and from Vodafone and MTN</a></p>
       <p>8. Buy online tickets for events</p>
       <p>9. Receive remittances from abroad</p>
-      <blockquote>Popular Post: <a href= "shortcodes-for-mobile-networks"><em>Short Codes for All Mobile Networks in Ghana</em></a>
+      <blockquote>Popular Post: <a href= "/blog/shortcodes-for-mobile-networks"><em>Short Codes for All Mobile Networks in Ghana</em></a>
       </blockquote>
       <p>Note: To increase wallet limit to cash out more than 2000 a day, you must
        provide at least one of the following: registered Tenancy Agreement,

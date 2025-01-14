@@ -49,7 +49,7 @@ title: "Bolt Ghana: All you Need to Know as a Rider or Driver [Guide]"
       <p>You can find Bolt Ghana within the Bolt app</p>
 
 <h2>Have you tried Bolt Food yet?</h2>
-      <p> <a href="bolt-food-ghana">Bolt Food app</a> is now available in Ghana and that means you can 
+      <p> <a href="/blog/bolt-food-ghana">Bolt Food app</a> is now available in Ghana and that means you can 
        order food and drinks from popular restaurants right on your mobile phone.  
       </p> 
 

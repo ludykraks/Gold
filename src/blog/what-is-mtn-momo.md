@@ -30,16 +30,16 @@ title: "What is MTN MoMo? How to Register & Uses"
       <p>3. Pay bills (e.g. DSTV, ECG, GoTV, Ghana Water, MTN Post Paid, StarTimes, box office, school fees and many more)</p>
       <p>4. Transfer money to and from banks and make withdrawals from ATMs</p>
       <p>5. Receive remittances from abroad</p>
-      <p>6. Buy <a href= "pay-for-android-apps-mtn-mobile-money">apps and games on Google Play Store</a></p>
+      <p>6. Buy <a href= "/blog/pay-for-android-apps-mtn-mobile-money">apps and games on Google Play Store</a></p>
       <p>7. Buy treasury bills</p>
       <p>8. Apply for loan <a href="http://afb.com.gh/products/qwikloan/" target="_blank" rel="noopener">(QwikLoan)</a></p>
-      <p>9. Buy and sell <a href= "sell-mtn-ghana-shares"> MTN Ghana shares</a></p>
+      <p>9. Buy and sell <a href= "/blog/sell-mtn-ghana-shares"> MTN Ghana shares</a></p>
       <p>10. Buy insurance policies</p>
       <p>11. Make savings (Y'ello Save) </p>
-      <p>12. Directly <a href="transfer-mtn-mobile-money-to-vodafone-airteltigo">send and receive money to and from Vodafone and AirtelTigo</a></p>
+      <p>12. Directly <a href="/blog/transfer-mtn-mobile-money-to-vodafone-airteltigo">send and receive money to and from Vodafone and AirtelTigo</a></p>
       <p>13. Buy online tickets for events</p>
       <p>14. Pay for airline tickets </p>
-      <p>15. <a href="buy-shares-using-mtn-mobile-money">Trade shares listed</a> on Ghana Stock Exchange (GSE)</p>
+      <p>15. <a href="/blog/buy-shares-using-mtn-mobile-money">Trade shares listed</a> on Ghana Stock Exchange (GSE)</p>
 
   <h2>How to register for MTN Mobile Money (MTN MoMo)</h2>
       <p>To register, you will need a valid photo ID card (Voter's ID, National ID, Drivers' Licence, Passport)</p>

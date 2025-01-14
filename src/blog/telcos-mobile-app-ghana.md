@@ -23,7 +23,7 @@ title: "Telcos Apps in Ghana: MyMTN, My Vodafone, AirtelTigo"
        <li>Do all MTN Mobile Money transactions including money transfer, checking balance, paying bills etc</li>
        <li>Check all your subscriptions</li>
        <li>Bundle MTN Mashup offers</li>
-       <li>Transfer airtime <a href="transfer-airtime-mtn">from MTN to MTN</a></li>
+       <li>Transfer airtime <a href="/blog/transfer-airtime-mtn">from MTN to MTN</a></li>
        <li>Contact the customer service, find a nearby MTN office and easily make complaints.</li>
       </ol>
       <p>Download MyMTN Ghana app:</p>

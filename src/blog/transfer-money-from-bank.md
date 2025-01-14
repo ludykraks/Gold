@@ -25,8 +25,8 @@ title: "How to Transfer Money from Bank to MTN, Vodafone or AirtelTigo Money"
       <p>10. Enter amount</p>
       <p>11. Enter your PIN to confirm and complete the transaction</p>
 
-  <h2>Send money from your bank account to your Vodafone Cash wallet</h2>
-      <p>1. Dial Vodafone Cash short code: *110# </p>
+  <h2>Send money from your bank account to your Vodafone / Telecel Cash wallet</h2>
+      <p>1. Dial Vodafone / Telecel Cash short code: *110# </p>
       <p>2. Select <em>Send Money</em></p>
       <p>3. Choose  <em> From Bank Account linked to this Phone Number</em></p>
       <p>4. Select your Bank name</p>

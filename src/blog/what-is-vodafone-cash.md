@@ -6,7 +6,7 @@ title: "Telecel Cash: All You Need to Know (2025)"
   <img src= "/images/blogpics/vodafone-cash-code.jpg" alt= "Vodafone Cash code" class= "img-responsive center-block" loading="lazy">
     
    <p>It's a good time to be a Telecel Cash user, subscribers can now send money to other Vodafone Cash, MTN Mobile Money and AirtelTigo Money subscribers at zero cost. Yes, you won't be charged for sending money. </p>
-      <p>And there is <a href= "vodafone-ahotor">Vodafone Ahotor</a> even after the above offer is over.</p>
+      <p>And there is <a href= "/blog/vodafone-ahotor">Vodafone Ahotor</a> even after the above offer is over.</p>
       <p>There is a variety of things you can do with Vodafone Cash but first of all you
         need to be a registered user.</p>
       <p>Learn how...</p>
@@ -40,10 +40,10 @@ title: "Telecel Cash: All You Need to Know (2025)"
       <p>4. Transfer money to bank accounts</p>
       <p>5. Transfer money from your bank account to your Vodafone Cash account</p>
       <p>6. Pay for airline tickets</p>
-      <p>7. Directly send money to and receive money from <a href= "transfer-vodafone-cash-to-mtn-airteltigo"> MTN MoMo and AirtelTigo Money</a></p>
+      <p>7. Directly send money to and receive money from <a href= "/blog/transfer-vodafone-cash-to-mtn-airteltigo"> MTN MoMo and AirtelTigo Money</a></p>
       <p>8. Buy online tickets for events</p>
       <p>9. Receive remittances from abroad</p>
-      <p>10. <a href= "transfer-airtime">Send airtime</a> to MTN and AirtelTigo</p>
+      <p>10. <a href= "/blog/transfer-airtime">Send airtime</a> to MTN and AirtelTigo</p>
       <p> Facing any problems? Dial 100 to speak to a customer service agent.</p>
 
 

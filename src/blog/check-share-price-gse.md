@@ -29,6 +29,6 @@ title: "Current Share Price of MTN Ghana, ADB, Ecobank Ghana, Fanmilk, GCB"
       <p>You can also find all the listed companies on GSE and <a href="https://afx.kwayisi.org/gsegh" target="_blank">
         their current share prices on Kwayisi.org</a>. Kwayisi.org also shares a lot important information on
         investment opportunities in Ghana. You would also love their comment section.</p>
-      <blockquote><a href="sell-mtn-ghana-shares">Start trading: MTN Ghana shares</a></blockquote>   
+      <blockquote><a href="/blog/sell-mtn-ghana-shares">Start trading: MTN Ghana shares</a></blockquote>   
       <p>If you a newbie or a seasoned investor, this is a website you should definitely bookmark.</p>
       <p>Any other resource you would like to share? Please add to comment section.</p>

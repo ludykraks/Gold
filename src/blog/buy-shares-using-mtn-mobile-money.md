@@ -33,4 +33,9 @@ title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GCB) in Ghana
       <p>That's all, chale.</p>
       <p>For first time users, if the process above doesn't work, visit <a href="https://onboarding.ic.africa/register" 
        target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your shares.</p>
+       <p>You can check the share price of all the listed companies <a href="https://gse.com.gh/trading-and-data/" 
+       target="_blank"> on Ghana Stock Exchange's website here</a> </p>
+        
+        their current share</a>. Kwayisi.org also shares a lot important information on
+        investment opportunities in Ghana. You would also love their comment section.</p>
        

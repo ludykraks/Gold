@@ -7,7 +7,7 @@ title: "MTN Promotions: Free After 1, Kokrokoo, Mashup, Special Data [2025]"
 <img src= "/images/blogpics/mtn-ghana-logo.jpg" alt= "MTN Free After 1, Kokrooko, Mashup" class= "img-responsive center-block" loading="lazy">
 
 <p>Looking for ways to get the most out of your MTN service?</p>
-      <p>Try these <a href="mtn-4g-plus">MTN data</a> and airtime offers and promos to save money on mobile service cost.</p>
+      <p>Try these <a href="/blog/mtn-4g-plus">MTN data</a> and airtime offers and promos to save money on mobile service cost.</p>
 
 <h2>MTN Kokrooko</h2>
       <p>Are you an early bird or a night owl? If you are the former,
@@ -34,7 +34,7 @@ title: "MTN Promotions: Free After 1, Kokrokoo, Mashup, Special Data [2025]"
 <h2>MTN Free After 1 (Nkomode)</h2>
       <p>With MTN Free After 1, you get to pay only for the first 
        minute of calls; the subsequent minutes are free.</p>
-      <p>This promo is similar to <a href="vodafone-10-promo">Vodafone Kasa Tenten</a>.</p> 
+      <p>This promo is similar to <a href="/blog/vodafone-10-promo">Vodafone Kasa Tenten</a>.</p> 
       <p>In addition, MTN gives you free 50MB data (valid for a day) 
        to browse. Dial MTN Free After 1 code *315# to begin enjoying this offer.</p>
        
@@ -57,7 +57,7 @@ title: "MTN Promotions: Free After 1, Kokrokoo, Mashup, Special Data [2025]"
        today and you don't want to use all the bonus credit or top up with 1 Ghana Cedi
        or above, you can top up with 1 Ghana pesewa and get to extend your GH&#8373;20
        bonus credit by 7 more days. Follow these simple steps to do that.</p>
-      <p>Do this using your <a href="what-is-mtn-momo">MTN Mobile Money</a>.</p>
+      <p>Do this using your <a href="/blog/what-is-mtn-momo">MTN Mobile Money</a>.</p>
       <p>Dial MTN Mobile Money shortcode *170#, select <em>Buy Airtime</em> and under <em>Enter Amount,</em> type 0.01</p>
       <p>Enter your mobile number and enter your PIN to confirm transaction.</p>
       <p>That's it, your bonus credit will be extended by 7 days. And it

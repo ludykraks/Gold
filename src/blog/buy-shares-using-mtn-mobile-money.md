@@ -31,5 +31,6 @@ title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GCB,) in Ghan
       <p>10. In the event that the order expires before it is matched, 
        you will receive an SMS notification of the expired order</p>
       <p>That's all, chale.</p>
-
-      <p>For first time users, if the process above doesn't work, visit <a href="https://onboarding.ic.africa/register" target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your shares.</p>
+      <p>For first time users, if the process above doesn't work, visit <a href="https://onboarding.ic.africa/register" 
+       target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your shares.</p>
+       

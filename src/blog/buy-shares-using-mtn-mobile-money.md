@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GCB, Enterprise)"
+title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GCB,) in Ghana"
 
 ---
 
@@ -11,11 +11,11 @@ title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GCB, Enterpri
       This new way of buying shares introduced by MTN Ghana and IC Securities is really
       exciting and novel.</p>
       <p>If you can recall, this method of using mobile money to purchase shares 
-       was first piloted <a href="buy-mtn-shares-2018">during the MTN IPO</a> in 2018.</p>
+       was first piloted <a href="/blog/buy-mtn-shares-2018">during the MTN IPO</a> in 2018.</p>
       <p>And it is great that this has been extended beyond just trading MTN Ghana shares.</p>
       <p>Follow the steps listed below to learn how to purchase shares on GSE.</p>     
               
-<h2>Buy Shares from CAL Bank, GCB, Enterprise Using MTN Mobile Money</h2>   
+<h2>Buy Shares from CAL Bank, GCB, Enterprise, Ghana Using MTN Mobile Money</h2>   
       <p>1. Dial MTN Mobile Money short code: *170# </p>
       <p>2. Select <em>Financial Services</em> and choose <em>Trade MTN Shares</em></p>
       <p>3. Enter your MTN Mobile Money PIN to access the trading menu.</p>
@@ -31,3 +31,5 @@ title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GCB, Enterpri
       <p>10. In the event that the order expires before it is matched, 
        you will receive an SMS notification of the expired order</p>
       <p>That's all, chale.</p>
+
+      <p>For first time users, if the process above doesn't work, visit <a href="https://onboarding.ic.africa/register" target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your shares.</p>

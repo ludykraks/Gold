@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "How to buy MTN Shares / MTN Ghana Shares Login"
+title: "How to Buy MTN Shares in Ghana / Invest in MTN Shares"
 
 ---
 

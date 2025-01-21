@@ -37,8 +37,9 @@ title: "How to Buy MTN Shares in Ghana / Invest in MTN Shares"
       <p>11. You will also receive another message with a password to log in to https://onboarding.ic.africa/register </p>
       <p>12. You can check all other details on the ICSecurities dashboard when you sign up and log in.</p>
       <p>That's it, you have successfully completed the process.</p>
-
-      <p>For first time users, if the process above doesn't work, visit <a href="https://onboarding.ic.africa/register" target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your MTN Shares.</p>
+      <p>For first time users, if the process above doesn't work, visit <a href="https://onboarding.ic.africa/register" 
+        target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your MTN Shares.</p>
+      
       <p>Have your Ghana Card ID details ready to complete the sign up form.</p>
 
 <h2>Other places where you can buy the MTN shares / stocks </h2>

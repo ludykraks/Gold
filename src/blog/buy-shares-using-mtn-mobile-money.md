@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GCB,) in Ghana"
+title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GCB) in Ghana"
 
 ---
 

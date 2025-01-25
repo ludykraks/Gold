@@ -97,7 +97,7 @@ title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2025"
   <p>The picture below contains other important Vodafone/Telecel, Glo, AirtelTigo and MTN short codes.</p>
       <p> <img src= "/images/blogpics/shortcodes-mtn-vodafone-tigo.jpg" alt= "Short Codes for MTN, Vodafone/Telecel, AirtelTigo and Glo Ghana" 
          class= "img-responsive center-block" title= "Save Picture" loading="lazy"> </p>
-      <p>Touch on image for option to save image above.</p>
+      <p>Tap on image for option to save image above.</p>
       <p> *Note: Although Airtel and Tigo have merged to form AirtelTigo, you can continue to use their
           individual short codes.</p>
           

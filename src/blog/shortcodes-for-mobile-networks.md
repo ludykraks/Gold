@@ -46,9 +46,11 @@ title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2025"
        <li>Dial *506# to borrow credit on MTN (MTN XtraTime)</li>
       </ul>
 
-  <h2>Make International Calls at Lower Rates</h2>
+  <h2>Make International Calls (IDD) to USA, Canada, UK, South Africa, Dubai, China, India</h2>
       <ul>
        <li>Dial *151#  on AirtelTigo/Telecel</li>
+       <li>Dial *150#  on Vodafone/Telecel for Roaming</li>
+       <li>Dial *138#  on MTN</li>
       </ul>
 
   <h2>Check your Vodafone, MTN Subscriptions</h2>
@@ -77,9 +79,9 @@ title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2025"
         </li>
         <li>Vodafone:
           <ul>
-            <li> Facebook:<a href= "https://facebook.com/vodafoneghana/"> Vodafone Ghana</a></li>
-           <li> Twitter:<a href= "https://twitter.com/vodafoneghana"> @vodafoneghana</a></li>
-           <li> Twitter (Customer Care):<a href= "https://twitter.com/askvodafonegh"> @askvodafonegh</a></li>
+            <li> Facebook:<a href= "https://facebook.com/telecelghana/"> Telecel Ghana</a></li>
+           <li> Twitter:<a href= "https://twitter.com/telecelghana"> @telecelghana</a></li>
+           <li> Twitter (Customer Care):<a href= "https://twitter.com/asktelecelgh_"> @asktelecelgh_</a></li>
            <li> WhatsApp:<a href="tel:+233501000300"> 050 100 0300 </a></li>
           </ul>
        </li>

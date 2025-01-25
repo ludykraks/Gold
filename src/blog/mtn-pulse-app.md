@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "MTN Mashup and MTN Pulse App"
+title: "MTN Mashup Code and MTN Pulse App"
 
 ---
 <img src= "/images/blogpics/mtn-pulse-app-ghana-2.jpg" alt= "MTN Mashup Code" class= "img-responsive center-block" loading="lazy">
@@ -19,7 +19,7 @@ title: "MTN Mashup and MTN Pulse App"
      <p>Mashup is one of the most exciting features of the MTN Pulse app.
         The Mashup offers cost GH&#8373; 1,
         GH&#8373; 5, GH&#8373; 10 and GH&#8373; 30.</p>
-     <p><em>You can now choose your own bundle using MTN's Flexi option.</em></p>
+     <p><em>You can now choose your own bundle using MTN's Flexi option. The MTN Mashup code is *567#</em></p>
      <p>The bundles come in the following mixes:</p>
       <ul>
        <li><strong>GH&#8373; 1</strong> - SMS: 50, WhatsApp: 50 MB, Main Data: 50 MB (Maximum), Voice Call: 25 Minutes (Maximum)</li>
@@ -30,13 +30,14 @@ title: "MTN Mashup and MTN Pulse App"
       <p><em>(You are limited to balancing between the maximums of Main Data and Voice Call)</em>.</p>
       <p>Presently, you can't use the app to buy a Mashup bundle if don't have internet data.</p>
       <p>Don't worry though, you can still buy a Mashup bundle using the short code <em>*567#</em>. 
-       or the <a href="telcos-mobile-app-ghana">MyMTN App</a>.</p>
+       or the <a href="/blog/telcos-mobile-app-ghana">MyMTN App</a>.</p>
       <h2>How to bundle MTN Mashup Bundle using a Short Code</h2>
       <p>If you run out of data and still want to enjoy the MTN Mashup bundles:</p>
       <p>1. Dial the short code <em>*567#</em></p>
       <p>2. Choose Mashup for Self</p>
       <p>3. Select the amount</p>
       <p>4. Choose your package and make payment</p>
+      <p>You can also download and use the MTN Ghana app to bundle for MTN Mashup Bundles.</p>
 
 <p>Send <em>Stop</em> to 567 to unsubscribe from the MTN Mashup bundle.</p>
       <h2>MTN Pulse and Chill Promo</h2>

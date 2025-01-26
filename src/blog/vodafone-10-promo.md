@@ -1,9 +1,9 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 Moorch, Double Ntosuo, Baako Pe"
+title: "Vodafone / Telecel Ghana Promotions: Made For Me, Bossu Weekend Bundle, 2 Moorch, Baako Pe"
 
 ---
-  <img src= "/images/blogpics/vodafone-promos-1.jpg" alt= "Vodafone Made For You, Vodafone 2 Moorch" class= "img-responsive center-block">
+  <img src= "/images/blogpics/vodafone-promos-1.jpg" alt= "Telecel Made For You, Vodafone 2 Moorch" class= "img-responsive center-block">
     
   <p>Are you looking for ways to get more Vodafone (Now Telecel) airtime and enjoy extra data <a href="/blog/vodafone-ghana-4g">(now with 4G speed)</a>?</p>
       <p>Yes!</p> 
@@ -18,7 +18,7 @@ title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 M
        <h3>What time does Vodafone 2 Moorch Night bundle start?</h3>
        <p>Vodafone 2 Moorch data night bundle starts from 12AM and ends at 4AM.</p>
        
-  <h2>Vodafone/Telecel Free after One / Vodafone Baako Pe</h2>
+  <h2>Vodafone / Telecel Free after One / Vodafone Baako Pe</h2>
        <p>Vodafone Free After One also known as Vodafone Kasa Tenten Talk 
        promo gives customers the freedom to talk "saaa".</p> 
        <p>This promo is quite similar to <a href="/blog/extend-mtn-bonus-credit-by-3-days">MTN's Free After 1 offer</a>.</p>
@@ -35,7 +35,7 @@ title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 M
       <p>To redeem your Vodafone Eekoso coins dial the shortcode *533# and win instant gifts.</p>
       <p>You can also use your Vodafone Ghana app to redeem your Red Coins.</p>
 
-  <h2>Vodafone/Telecel Made For Me</h2>
+  <h2>Vodafone / Telecel Made For Me</h2>
       <p>This is a special daily offer given to Vodafone prepaid customers.
       With Vodafone/Telecel Made4Me, Vodafone Ghana presents you with new 
       exciting offers in the forms of data and airtime each day.</p>
@@ -45,16 +45,16 @@ title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 M
         <em>How to Send Money From Vodafone Cash to MTN Mobile Money or AirtelTigo Money</em></a>
       </blockquote>
       
-  <h2>Vodafone/Telecel BOSSU Daily, Data and Weekend Offers</h2>
-      <p>This may be the coolest weekend offer by any of the Telcos in Ghana thus far. Vodafone's new
+  <h2>Vodafone / Telecel BOSSU Daily, Data and Weekend Bundle Offers</h2>
+      <p>This may be the coolest weekend offer by any of the Telcos in Ghana thus far. Telecel's new
        Bossu offer gives you 300 mins of airtime to call all networks and 5GB of data to browse 
        during the weekend (Saturday and Sunday) for just GHc 6.</p> 
-       <p>Dial Vodafone Weekend Bundle code *5588# to enjoy this weekend offer.</p> 
+       <p>Dial Vodafone / Telecel Weekend Bundle code *5588# to enjoy this weekend offer.</p> 
       <p>Vodafone Ghana has now added <a href="https://www.vodafone.com.gh/personal/mobile/promos/bossu-offers/" rel="noopener" target="_blank">Bossu Daily 
       and Bossu Data offers.</a> Dial same short code *5588# to subscribe to Vodafone Bossu Daily and Data.</p>
       <p>For the data offer, you get 3.5GB at GHc 10 for 5 days and 10GB at GHc 40 for 15 days.</p>
 
-<h2>Vodafone/Telecel Special (Vodafone Cash)</h2>
+<h2>Vodafone / Telecel Special (Vodafone Cash) </h2>
       <p>If you have registered for Vodafone Cash, you get to enjoy special data and airtime bundles.</p>
       <p>For GHc 4.50, you get 1.3GB of data which is valid for 1 day, Ghc 3.50 for 800MB and GHc 2.50 
       for 450MB data valid for 1 day.</p>
@@ -90,7 +90,7 @@ title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 M
        SMSes to other Vodafone numbers.</p>
       <p>Just dial 5050 or *5050# for subscribe for this daily offer.</p>
 
-  <h2>Vodafone/Telecel Data Binge</h2>
+  <h2>Vodafone / Telecel Data Binge</h2>
       <p>Dial *5000# to enjoy this new data binge offer.</p>
       <p>This offer may come in a bundle of Ghc 10.00 for 1200 mins 
        to all Vodafone numbers, 200 mins to MTN Ghana, 
@@ -108,8 +108,8 @@ title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 M
       <p>Don't forget to download and install the My Vodafone app in your app store to 
       get a welcome <em>free Vodafone X data</em> when you "shake" your phone.</p>
 
-<h2>Vodafone/Telecel Double Ntosuo</h2>
-      <p>Vodafone Ghana is now offering you Double Ntosuo on Red bundles of GHS 1, GHS 2 
+<h2>Vodafone / Telecel Double Ntosuo</h2>
+      <p>Telecel Ghana is now offering you Double Ntosuo on Red bundles of GHS 1, GHS 2 
       and GHS 5. Dial *200# to subscribe and enjoy double talk minutes to call 
       all networks and double data to browse.</p>
       <p>This promo is now part of Vodafone Red.</p>
@@ -136,6 +136,5 @@ title: "Vodafone Ghana Promotions: Made For Me, Special Data, Bossu Weekend, 2 M
   <h2>Vodafone/Telecel Customer Care</h2>
       <p>For further enquiries, contact Vodafone Ghana customer care on 100. You can also dial *151# for other Vodafone offers.</p>
 
-  <p>Which other awesome offers haven't we mentioned above? Kindly share below.</p>
 
     

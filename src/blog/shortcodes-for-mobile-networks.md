@@ -18,7 +18,7 @@ title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2025"
       </ul>
       <h2>Short codes for internet bundles of Vodafone, MTN, AirtelTigo and Glo Ghana</h2>
       <ul>
-       <li> *700# for Vodafone (Now Telecel) internet bundle </li>
+       <li> *700# for Vodafone (Now Telecel) internet bundle code </li>
        <li> *138# for MTN bundle code </li>
        <li> *111# for AirtelTigo Bundle Code</li>
        <li> *555# for Glo</li>
@@ -35,6 +35,7 @@ title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2025"
       <ul>
        <li> *111#  for AirtelTigo Big Time Data / Sika Kokoo </li>
        <li> *530# for Vodafone/Telecel Made For Me Code</li>
+       <li> *200# for Vodafone / Telecel Mashup Bundle Code</li>
        <li> *5588# for Vodafone/Telecel Bossu</li>
        <li> *141# for MTN Extra Data</li>
       </ul>
@@ -49,8 +50,8 @@ title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2025"
   <h2>Make International Calls (IDD) to USA, Canada, UK, South Africa, Dubai, China, India</h2>
       <ul>
        <li>Dial *151#  on AirtelTigo/Telecel</li>
-       <li>Dial *150#  on Vodafone/Telecel for Roaming</li>
-       <li>Dial *138#  on MTN</li>
+       <li>Dial *150#  on Vodafone / Telecel for Roaming</li>
+       <li>Dial *138#  on MTN </li>
       </ul>
 
   <h2>Check your Vodafone, MTN Subscriptions</h2>

@@ -3,7 +3,7 @@ layout: "layouts/blog-base.html"
 title: "Mobile Money Loans in Ghana: MTN QwikLoan, FIDO Code"
 
 ---
-  <img src= "/images/blogpics/mobile-money-loan.jpg" alt= "FIDO loan, MTN QwikLoan" class= "img-responsive center-block" loading="lazy">
+  <img src= "/images/blogpics/mobile-money-loan.jpg" alt= "FIDO loan, MTN QwikLoan, MTN Quick Loan" class= "img-responsive center-block" loading="lazy">
  
   <p>Mobile Money has been a blessing to a lot of people since its introduction to Ghana some years ago.</p>
       <p>And aside from being able to use <a href="/blog/transfer-mobile-money-to-bank">mobile money to conveniently save money and seamlessly transfer</a>

@@ -60,7 +60,7 @@ title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2025"
        <li>Dial *175# to check your MTN subscriptions</li>
       </ul>      
 
-  <h2>Check your Vodafone, MTN or AirtelTigo/Telecel Number</h2>
+  <h2>Check your Vodafone / Telecel, MTN or AirtelTigo Number</h2>
       <ul>
        <li>Dial *127# to check your Vodafone/Telecel number</li>
        <li>Dial *156# to check your MTN number</li>

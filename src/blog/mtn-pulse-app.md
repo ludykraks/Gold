@@ -15,11 +15,12 @@ title: "MTN Mashup Code and MTN Pulse App"
      <h2>But really what is this app?</h2>
       <p>The app comes with different features, mainly:</p>
 
- <h2>MTN Mashup</h2>
+ <h2>MTN Mashup Code</h2>
+      <p>The MTN Mashup Code is *567#</p>
      <p>Mashup is one of the most exciting features of the MTN Pulse app.
         The Mashup offers cost GH&#8373; 1,
         GH&#8373; 5, GH&#8373; 10 and GH&#8373; 30.</p>
-     <p><em>You can now choose your own bundle using MTN's Flexi option. The MTN Mashup code is *567#</em></p>
+     <p>You can now choose your own bundle using MTN's Flexi option.<</p>
      <p>The bundles come in the following mixes:</p>
       <ul>
        <li><strong>GH&#8373; 1</strong> - SMS: 50, WhatsApp: 50 MB, Main Data: 50 MB (Maximum), Voice Call: 25 Minutes (Maximum)</li>

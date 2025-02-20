@@ -8,7 +8,7 @@ title: "How to Order from Amazon to Ghana"
       
 <p>Is there a product/s you have been searching for in Ghana but you cannot find?</p> 
       <p>You really need to get that product but it's not on Jumia Ghana, Melcom Online 
-      or any of the online stores. Well, worry no more. AmazonGlobal comes to your rescue.</p>
+      or any of the online stores. Well, worry no more. AmazonGlobal comes to your rescue. Amazon is available in Ghana.</p>
       <h2>Does Amazon deliver to Ghana?</h2>
       <p>Yes, Amazon delivers to Ghana.</p>
 

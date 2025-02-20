@@ -22,8 +22,8 @@ title: "How to Order from Amazon to Ghana"
        But for that, delivery is really fast. Post Covid lockdown, 
       AmazonShipping practically takes 2 weeks to delivery to Ghana.</p>
       <p>So...</p> 
-      <h3>How do you start placing your order via Amazon?</h3>
-      <p>You will need a shipping address (your location), phone number and a debit 
+      <h3>How do you start placing your order via Amazon Ghana?</h3>
+      <p>You will need a shipping address (your location), phone number and a debit or credit (VISA / MasterCard) 
       card to complete this process.</p>
 
   <p>1. Visit the <a href="https://amazon.com" rel="noopener">Amazon US 
@@ -36,7 +36,7 @@ title: "How to Order from Amazon to Ghana"
         price, shipping & import fees deposit to Ghana. Make sure you check and you are okay with the total price.</p>
        <p>4. After that, you can click on the cart and <em>Proceed to checkout</em>.</p>
        <p>5. Select your shipping address and place your order. You can 
-       place it in US Dollar or Ghana Cedi.</p> 
+       place it in US Dollar or Ghana Cedi. It's better to order in Ghana Cedis.</p> 
        <p>6. You will then receive an email confirming your order.</p> 
        <p>7. Money from you debit card will be deducted when you items are shipped. 
        <p>After your order has been successfully placed, visit Amazon.com, click on on menu and select <em>Order</em> to track your order.</p>

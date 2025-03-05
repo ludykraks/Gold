@@ -30,7 +30,10 @@ title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GCB) in Ghana
       the requisite shares will be credited to your account</p>
       <p>10. In the event that the order expires before it is matched, 
        you will receive an SMS notification of the expired order</p>
-      <p>That's all, chale.</p>
+      <p>That's all, chale.</p>   
+   <h2>How to Sell Your MTN Shares Using MTN Mobile Money (MoMo)</h2>
+      <p>You can also easily <a href="/blog/sell-mtn-ghana-shares"> sell your MTN Shares</a> using 
+       the same short code *170#. </p>
       <p>For first time users, if the process above doesn't work, visit <a href="https://onboarding.ic.africa/register" 
        target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your shares.</p>
        <p>You can check the share price of all the listed companies <a href="https://gse.com.gh/trading-and-data/" 

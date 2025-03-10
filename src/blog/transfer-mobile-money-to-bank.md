@@ -55,6 +55,6 @@ title: "How to Transfer Money from Mobile Money to a Bank Account"
       <p>8. Confirm name of recipient by entering your PIN to complete the transaction</p>
 
    <p>Note: Phase 3 of the mobile money interoperability has been rolled out, 
-       you can now <a href="/blog/transfer-money-from-bank">send money from your bank account to your MTN MoMo, Vodafone Cash 
-       or AirtelTigo Money wallet</a>. You can use these <a href="/blog/banking-apps-ghana">mobile 
+       you can now <a href="/blog/transfer-money-from-bank">send money from your bank account to your MTN MoMo, Vodafone / 
+        Telecel Cash or AirtelTigo Money wallet</a>. You can use these <a href="/blog/banking-apps-ghana">mobile 
        banking apps or USSD codes</a> to send money from your bank account to any mobile money wallet.</p>

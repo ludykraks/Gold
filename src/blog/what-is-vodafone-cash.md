@@ -29,10 +29,9 @@ title: "Telecel Cash: All You Need to Know (2025)"
       <h3>Dial short code *110# to access the Telecel Cash menu.</h3>
       <p>You can now deposit money into your account by visiting an agent (it's free), or by
         transferring money from  your bank account or other mobile money accounts.</p>
-
-      <p>Note: Alternatively, if you already have a registered Telecel SIM card you can 
-      register by sending an SMS with the message <em>Register</em> to 558. You will subsequently be contacted by an agent 
-      for identity confirmation and registration.</p>
+      <p>Note: Alternatively, if you already have a registered Telecel SIM card you can register by sending 
+         an SMS with the message <em>Register</em> to 558. You will subsequently be contacted by an agent 
+         for identity confirmation and registration.</p>
 
   <h2>What Can I Use Telecel Cash for?</h2>
       <p>You can use Vodafone Cash to:</p>

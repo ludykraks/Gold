@@ -6,8 +6,8 @@ title: "How to Transfer Money from Bank to MTN, Vodafone or AirtelTigo Money"
 
    <img src= "/images/blogpics/mobile-interoperability-banks.jpg" loading="lazy" alt= "Transfer Money from Mobile Money to Banks" class= "img-responsive center-block">
 
-  <p>The phase 3 of the mobile money <a href="https://ghipss.net/products-services/gh-link/mobile-money-interoperability-faqs" rel="noopener">interoperability by GHIPSS</a> is almost complete, and that means you can seamlessly transfer money from your
-        mobile money wallet to any mobile money wallet or bank account, and vice versa.</p>
+  <p>The phase 3 of the mobile money <a href="https://ghipss.net/products-services/gh-link/mobile-money-interoperability-faqs" rel="noopener">interoperability by GHIPSS</a> is complete, and that means you can seamlessly transfer money from your
+        mobile money wallet (MTN, Telecel and AT) to any mobile money wallet or bank account, and vice versa.</p>
       <p>To send money from your bank account to a mobile money account, you first
         have to visit your bank to <strong>link</strong> your bank account to
         your mobile money number.</p>

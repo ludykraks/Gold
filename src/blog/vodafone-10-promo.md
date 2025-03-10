@@ -54,7 +54,7 @@ title: "Vodafone / Telecel Ghana Promotions: Made For Me, Bossu Weekend Bundle, 
       and Bossu Data offers.</a> Dial same short code *5588# to subscribe to Vodafone Bossu Daily and Data.</p>
       <p>For the data offer, you get 3.5GB at GHc 10 for 5 days and 10GB at GHc 40 for 15 days.</p>
 
-<h2>Vodafone / Telecel Special (Vodafone Cash) </h2>
+<h2>Vodafone / Telecel Special (Telecel Cash) </h2>
       <p>If you have registered for Vodafone Cash, you get to enjoy special data and airtime bundles.</p>
       <p>For GHc 4.50, you get 1.3GB of data which is valid for 1 day, Ghc 3.50 for 800MB and GHc 2.50 
       for 450MB data valid for 1 day.</p>
@@ -63,7 +63,8 @@ title: "Vodafone / Telecel Ghana Promotions: Made For Me, Bossu Weekend Bundle, 
       <em>Special Offers</em> to enjoy the special offers.</p>
 
   <h2>Vodafone/Telecel Cash Free Transfer</h2>
-       <p>Sending money from Vodafone Cash to MTN Mobile Money and AirtelTigo Money is now free. Yes, zero charges.</p>   
+       <p>Sending money from Vodafone Cash to MTN Mobile Money and AirtelTigo Money is no longer free.</p> 
+       <p>You only get free transfer fee if you send money from your Telecel Cash to another Telecel Cash account using the Telecel App</p>
        <p>Transfer any amount of money from Vodafone Cash to any network 
        as many times as you want, and still pay no charges. Dial the Vodafone 
        Cash short code *110# to start now. If you haven't yet registered for 

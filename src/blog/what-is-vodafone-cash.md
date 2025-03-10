@@ -26,7 +26,7 @@ title: "Telecel Cash: All You Need to Know (2025)"
       <p>You will need your secret PIN to authorise all transactions.</p>
       <p>A welcome message will be sent to your phone stating that your registration is successful.</p>
       <p>Congrats, you are now a registered Telecel Cash subscriber.</p>
-      <h3>Dial short code *110# to access the Telecel Cash menu.</h3>
+      <h2>Dial short code *110# to access the Telecel Cash menu.</h2>
       <p>You can now deposit money into your account by visiting an agent (it's free), or by
         transferring money from  your bank account or other mobile money accounts.</p>
       <p>Note: Alternatively, if you already have a registered Telecel SIM card you can register by sending 

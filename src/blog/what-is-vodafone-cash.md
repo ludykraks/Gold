@@ -31,8 +31,8 @@ title: "Telecel Cash: All You Need to Know (2025)"
         transferring money from  your bank account or other mobile money accounts.</p>
 
       <p>Note: Alternatively, if you already have a registered Telecel SIM card you can 
-      register by sending an SMS with the message <em>Register</em> to 558. 
-      You will subsequently be contacted by an agent for identity confirmation and registration.</p>
+      register by sending an SMS with the message <em>Register</em> to 558. You will subsequently be contacted by an agent 
+      for identity confirmation and registration.</p>
 
   <h2>What Can I Use Telecel Cash for?</h2>
       <p>You can use Vodafone Cash to:</p>
@@ -42,7 +42,8 @@ title: "Telecel Cash: All You Need to Know (2025)"
       <p>4. Transfer money to bank accounts</p>
       <p>5. Transfer money from your bank account to your Vodafone / Telecel Cash account</p>
       <p>6. Pay for airline tickets</p>
-      <p>7. Directly send money to and receive money from <a href= "/blog/transfer-vodafone-cash-to-mtn-airteltigo"> MTN MoMo and AirtelTigo Money</a></p>
+      <p>7. Directly send money to and receive money from <a href= "/blog/transfer-vodafone-cash-to-mtn-airteltigo"> MTN MoMo 
+       and AirtelTigo Money</a></p>
       <p>8. Buy online tickets for events</p>
       <p>9. Receive remittances from abroad</p>
       <p>10. <a href= "/blog/transfer-airtime">Send airtime</a> to MTN and AirtelTigo</p>

@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Telcos Apps in Ghana: MyMTN, My Telecel, AirtelTigo"
+title: "Download Apps in Ghana: MyMTN, My Telecel Play, AirtelTigo - 2025"
 
 ---
 

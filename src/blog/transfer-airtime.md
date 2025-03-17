@@ -17,10 +17,11 @@ title: "Send Airtime/Credit from Vodafone / Telecel to MTN or AirtelTigo"
        <li><a href="https://apps.apple.com/gh/app/my-vodafone-ghana/id1440915381" rel="noopener"> Telecel Play 
          App (iOS)</a></li>
       </ul>
-
        <p>Once you have downloaded the app, sign up with your number, tap on <em>Top Up.</em> </p>
+        
        <p>Go to Other Networks, select the network, add the receiver's number, add 
         amount and approve to purchase airtime for your loved one.</p>
+        
   <h2>Send Airtime from Vodafone to MTN using short code</h2>
       <p>1. Dial Vodafone / Telecel Cash short code: *110# </p>
       <p>2. Select <em>Buy Airtime or Data</em></p>

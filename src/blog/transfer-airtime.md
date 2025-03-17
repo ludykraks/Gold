@@ -9,7 +9,12 @@ title: "Send Airtime/Credit from Vodafone / Telecel to MTN or AirtelTigo"
       <p>Follow the simple steps below to send airtime from Vodafone / Telecel. 
        You need to be a registered Vodafone Cash user to do this.</p>
    <p>To easily transfer airtime from your Telecel number to an MTN or AT number, 
-     download the Telecel app from your app store</p>   
+     download the Telecel app from your app store</p>  
+      <p>Download My Vodafone (Now Telecel Play) Ghana app:</p>
+      <ul>
+       <li><a href="https://play.google.com/store/apps/details?id=com.myvodafone.app" rel="noopener"> Telecel Play App (Android)</a></li>
+       <li><a href="https://apps.apple.com/gh/app/my-vodafone-ghana/id1440915381" rel="noopener"> Telecel Play App (iOS)</a></li>
+      </ul>
   <h2>Send Airtime from Vodafone to MTN</h2>
       <p>1. Dial Vodafone / Telecel Cash short code: *110# </p>
       <p>2. Select <em>Buy Airtime or Data</em></p>

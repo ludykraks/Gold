@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Telcos Apps in Ghana: MyMTN, My Vodafone, AirtelTigo"
+title: "Telcos Apps in Ghana: MyMTN, My Telecel, AirtelTigo"
 
 ---
 
@@ -9,7 +9,7 @@ title: "Telcos Apps in Ghana: MyMTN, My Vodafone, AirtelTigo"
 <p>Things are changing so fast and getting better, and in this fast-paced 
       technology world, you've got to tag along.</p>
       <p>That's why you have to download the various official apps by the Telcos to make your life simpler.</p>
-      <p>Below are the listed functions and download links of MyMTN, My Vodafone and AirtelTigo apps.</p>
+      <p>Below are the listed functions and download links of MyMTN 2.0, Telecel Play and AT apps.</p>
 
 <h2>My MTN</h2>
       <p>Once you download the MyMTN app that's all you will need for all you MTN activities.</p>
@@ -26,7 +26,7 @@ title: "Telcos Apps in Ghana: MyMTN, My Vodafone, AirtelTigo"
        <li>Transfer airtime <a href="/blog/transfer-airtime-mtn">from MTN to MTN</a></li>
        <li>Contact the customer service, find a nearby MTN office and easily make complaints.</li>
       </ol>
-      <p>Download MyMTN Ghana app:</p>
+      <p>Download myMTN Ghana app:</p>
       <ul>
        <li><a href="https://play.google.com/store/apps/details?id=com.mtngh.mymtn" rel="noopener">MyMTN App (Android)</a></li>
        <li><a href="https://apps.apple.com/gh/app/my-mtn-ghana/id1466214871" rel="noopener">MyMTN App (iOS)</a></li>
@@ -48,8 +48,8 @@ title: "Telcos Apps in Ghana: MyMTN, My Vodafone, AirtelTigo"
       </ol>
       <p>Download My Vodafone (Now Telecel Play) Ghana app:</p>
       <ul>
-       <li><a href="https://play.google.com/store/apps/details?id=com.myvodafone.app" rel="noopener">My Vodafone App (Android)</a></li>
-       <li><a href="https://apps.apple.com/gh/app/my-vodafone-ghana/id1440915381" rel="noopener">My Vodafone App (iOS)</a></li>
+       <li><a href="https://play.google.com/store/apps/details?id=com.myvodafone.app" rel="noopener"> Telecel Play App (Android)</a></li>
+       <li><a href="https://apps.apple.com/gh/app/my-vodafone-ghana/id1440915381" rel="noopener"> Telecel Play App (iOS)</a></li>
       </ul>
       <h2>My AirtelTigo</h2>
       <p>Download the AirtelTigo from your play store to enjoy the convenience of a truly mobile experience</p>

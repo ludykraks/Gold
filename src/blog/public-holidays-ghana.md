@@ -4,7 +4,7 @@ title: "Holidays in Ghana 2025"
 
 ---
   <p>Looking for all the official public holidays in Ghana (2025) at one place? Find them here.</p>
-      <p>In 2025, Ghana will have 13 public holidays. Ghana added 2 new holidays in 2019: Constitution 
+      <p>In 2025, Ghana will have 14 public holidays. Ghana added 2 new holidays in 2019: Constitution 
         Day which falls on 7th January and Founders' Day on 4th August. The <a href="https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Public-Holidays-Bill-passed-Minority-walks-out-again-728171" target="_blank" rel="noopener"> 25th May AU Day and the 1st July Republic Day 
         are no longer holidays in Ghana.</a></p>
       <p><em>Note:</em> When a public holiday falls on a Saturday or  Sunday in Ghana, 
@@ -15,7 +15,7 @@ title: "Holidays in Ghana 2025"
        <li>New Year's Day - <span style="color:#ff4200">Wednesday, 1st January</span></li>
        <li>Constitution Day - <span style="color:#ff4200">Tuesday, 7th January</span></li>
        <li>Independence Day - <span style="color:#ff4200">Thursday, 6th March</span></li>
-       <li>Eid al-Fitr - <span style="color:#ff4200">Monday, 31st March</span>*</li>
+       <li>Eid al-Fitr - <span style="color:#ff4200">Monday, 31st March and Tuesday, 1st April</span>*</li>
        <li>Good Friday - <span style="color:#ff4200">Friday, 18th April</span></li>
        <li>Easter Monday - <span style="color:#ff4200">Monday, 21st April</span></li>
        <li>May Day/Workers' Day - <span style="color:#ff4200">Thursday, 1st May</span></li>
@@ -52,6 +52,9 @@ title: "Holidays in Ghana 2025"
 <h2>FAQs</h2>
       <h3>When are the Easter Holidays in Ghana?</h3>
       <p>The Easter holidays in Ghana start on Good Friday, 18th April and ends on Easter Monday, 21st April, 2025</p>  
+      <h3>When are the Eid al Fitr holidays in Ghana?</h3>
+      <p>There will be 2 public holidays for 2025's Eid al-Fitr, these days are Monday, 
+        31st March and Tuesday, 1st April 2025</p>  
       <h3>Is 7th January a holiday in Ghana?</h3>
       <p>Yes, 7th January is a holiday in Ghana - Constitution Day.</p>
       <h3>Is 1st July a holiday in Ghana?</h3>

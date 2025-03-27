@@ -5,7 +5,8 @@ title: "Holidays in Ghana 2025"
 ---
   <p>Looking for all the official public holidays in Ghana (2025) at one place? Find them here.</p>
       <p>In 2025, Ghana will have 14 public holidays. Ghana added 2 new holidays in 2019: Constitution 
-        Day which falls on 7th January and Founders' Day on 4th August. The <a href="https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Public-Holidays-Bill-passed-Minority-walks-out-again-728171" target="_blank" rel="noopener"> 25th May AU Day and the 1st July Republic Day 
+        Day which falls on 7th January and Founders' Day on 4th August.</p> 
+        <p>The <a href="https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Public-Holidays-Bill-passed-Minority-walks-out-again-728171" target="_blank" rel="noopener"> 25th May AU Day and the 1st July Republic Day 
         are no longer holidays in Ghana.</a></p>
       <p><em>Note:</em> When a public holiday falls on a Saturday or  Sunday in Ghana, 
        the following Monday is usually declared a holiday and observed.</p>

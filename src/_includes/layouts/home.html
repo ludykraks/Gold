@@ -1,22 +1,221 @@
-{% extends "layouts/base.html" %} 
-{% block content %}
-<article class="intro">
-    <div>
-      <h1>
-        {{ intro.main }}
-      </h1>
-    </div>
-    <div>
-      <p>{{ intro.summary }}</p>
-      <a href="{{ intro.buttonUrl}}" class= "landbutton">{{ intro.buttonText }}</a>
-    </div>
-    <div class="[ intro__media ] [ radius dot-shadow ]">
-      <img
-        class="[ intro__image ] [ radius ]"
-        src="{{ intro.image }}"
-        alt="{{ intro.imageAlt }}"
-      />
-    </div>
-  </article>
-{% endblock %}
+{% extends "layouts/base.html" %}
 
+{% block content %}
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+    color: #1a202c;
+    margin: 0;
+    padding: 0;
+  }
+
+  .intro,
+  .section {
+    padding: 4rem 2rem;
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  .intro {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .intro h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .intro p {
+    font-size: 1.125rem;
+    color: #4a5568;
+    max-width: 600px;
+    line-height: 1.6;
+  }
+
+  .landbutton {
+    display: inline-block;
+    margin-top: 1.5rem;
+    padding: 0.75rem 1.5rem;
+    background-color: #f59e0b;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+
+  .landbutton:hover {
+    background-color: #d97706;
+  }
+
+  .intro__media {
+    max-width: 400px;
+    border-radius: 1rem;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+
+  .intro__image {
+    width: 100%;
+    display: block;
+    object-fit: cover;
+  }
+
+  .section h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .section p {
+    text-align: center;
+    margin-bottom: 3rem;
+    color: #555;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .grid {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+
+  .card {
+    background: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+  }
+
+  .card h3 {
+    margin-bottom: 0.5rem;
+    color: #1f2937;
+  }
+
+  .card p {
+    color: #4a5568;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+
+  .cta {
+    background-color: #1a202c;
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+    border-radius: 1rem;
+    margin: 4rem auto 2rem;
+  }
+
+  .cta h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .cta p {
+    font-size: 1.125rem;
+    margin-bottom: 2rem;
+  }
+
+  .cta .landbutton {
+    background-color: #facc15;
+    color: #000;
+  }
+
+  .cta .landbutton:hover {
+    background-color: #eab308;
+  }
+
+  @media (max-width: 768px) {
+    .intro {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+</style>
+
+<!-- Hero Section -->
+<article class="intro">
+  <div>
+    <h1>{{ intro.main }}</h1>
+    <p>{{ intro.summary }}</p>
+    <a href="{{ intro.buttonUrl }}" class="landbutton">{{ intro.buttonText }}</a>
+  </div>
+
+  <div class="intro__media">
+    <img
+      class="intro__image"
+      src="{{ intro.image }}"
+      alt="{{ intro.imageAlt }}"
+    />
+  </div>
+</article>
+
+<!-- Services Section -->
+<section class="section">
+  <h2>What We Do</h2>
+  <p>We design websites that don’t just look amazing — they deliver real results for your business.</p>
+  <div class="grid">
+    <div class="card">
+      <h3>Custom Website Design</h3>
+      <p>Beautiful, responsive websites tailored to reflect your brand and meet your goals.</p>
+    </div>
+    <div class="card">
+      <h3>Ecommerce Solutions</h3>
+      <p>Launch an online store that’s easy to manage and enjoyable for your customers.</p>
+    </div>
+    <div class="card">
+      <h3>Website Redesigns</h3>
+      <p>Outdated site? We’ll give it a modern, professional update that makes you proud.</p>
+    </div>
+    <div class="card">
+      <h3>SEO & Performance</h3>
+      <p>We make sure your website loads fast, ranks better, and brings in traffic that converts.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Why Choose Us Section -->
+<section class="section">
+  <h2>Why Work With GoldChest?</h2>
+  <p>We bring a personal, strategic, and results-driven approach to every project.</p>
+  <div class="grid">
+    <div class="card">
+      <h3>We Understand Small Business</h3>
+      <p>We’ve worked with startups and local businesses — we know how to make your budget count.</p>
+    </div>
+    <div class="card">
+      <h3>Local Support, Global Quality</h3>
+      <p>We’re based in Ghana but build with international standards — so you get the best of both worlds.</p>
+    </div>
+    <div class="card">
+      <h3>Fast Turnaround</h3>
+      <p>You don’t have to wait weeks. We work fast and deliver within days — so you can launch sooner.</p>
+    </div>
+    <div class="card">
+      <h3>One-on-One Attention</h3>
+      <p>No bots. No big agency drama. You’ll work directly with us to bring your vision to life.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Call To Action Section -->
+<section class="cta">
+  <h2>Let’s Build Your Website</h2>
+  <p>Your business deserves a powerful online presence. Let’s make it happen — starting today.</p>
+  <a href="{{ intro.buttonUrl }}" class="landbutton">{{ intro.buttonText }}</a>
+</section>
+
+{% endblock %}

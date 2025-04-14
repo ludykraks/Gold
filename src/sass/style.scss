@@ -156,6 +156,56 @@ main {
   }
 
 
+.gold-gradient-line {
+  height: 8px;
+  border: none;
+  border-radius: 10px;
+  background: linear-gradient(to right, #FFD700, #FFA500, #FF8C00);
+  margin: 2rem 0;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.gold-gradient-line.glow::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 100%;
+  transform: translateY(-50%);
+  background: linear-gradient(to right, #FFD700, #FFA500, #FF8C00);
+  filter: blur(8px);
+  opacity: 0.7;
+  z-index: -1;
+  border-radius: 10px;
+}
+
+.gold-gradient-line.shimmer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -150%;
+  width: 150%;
+  height: 100%;
+  background: linear-gradient(
+    120deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.4) 50%,
+    transparent 100%
+  );
+  animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    left: -150%;
+  }
+  100% {
+    left: 150%;
+  }
+}
 
 
 

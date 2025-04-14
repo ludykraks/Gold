@@ -68,6 +68,11 @@
     object-fit: cover;
   }
 
+  .intro_bg {
+    background: #ffd6b899;
+    padding: 20px;
+    border-radius: 8px;}
+
   .section h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
@@ -150,7 +155,7 @@
 
 <!-- Hero Section -->
 <article class="intro">
-  <div>
+  <div class="intro_bg">
     <h1>{{ intro.main }}</h1>
     <p>{{ intro.summary }}</p>
     <a href="{{ intro.buttonUrl }}" class="landbutton">{{ intro.buttonText }}</a>

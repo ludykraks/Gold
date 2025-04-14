@@ -295,3 +295,11 @@ h1 span {padding-left:0;}
 	width: 100%;
 	height: 100%;
 }
+
+@media (max-width:550px){
+
+.intro {
+    background: #ffffff url(/images/gc-home-bg-mob-i.jpg) no-repeat;
+    background-size: cover;
+  }
+}

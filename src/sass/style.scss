@@ -167,7 +167,7 @@ main {
   overflow: hidden;
 }
 
-.gold-gradient-line.glow::after {
+hr.gold-gradient-line.glow::after {
   content: '';
   position: absolute;
   top: 50%;
@@ -182,7 +182,7 @@ main {
   border-radius: 10px;
 }
 
-.gold-gradient-line.shimmer::before {
+hr.gold-gradient-line.shimmer::before {
   content: '';
   position: absolute;
   top: 0;

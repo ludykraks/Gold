@@ -157,17 +157,16 @@ main {
 
 
 .gold-gradient-line {
-  height: 8px;
+  height: 18px;
   border: none;
-  border-radius: 10px;
   background: linear-gradient(to right, #FFD700, #FFA500, #FF8C00);
-  margin: 2rem 0;
+  margin: 0;
   position: relative;
   z-index: 1;
   overflow: hidden;
 }
 
-hr.gold-gradient-line.glow::after {
+.gold-gradient-line.glow::after {
   content: '';
   position: absolute;
   top: 50%;
@@ -182,7 +181,7 @@ hr.gold-gradient-line.glow::after {
   border-radius: 10px;
 }
 
-hr.gold-gradient-line.shimmer::before {
+.gold-gradient-line.shimmer::before {
   content: '';
   position: absolute;
   top: 0;

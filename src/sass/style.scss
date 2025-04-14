@@ -194,7 +194,8 @@ main {
     rgba(255, 255, 255, 0.4) 50%,
     transparent 100%
   );
-  animation: shimmer 2s infinite;
+  animation: shimmer 5s infinite;
+
 }
 
 @keyframes shimmer {

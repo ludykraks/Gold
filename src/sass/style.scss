@@ -1,6 +1,10 @@
 html {scroll-behavior: smooth;}
-body {background-color:#ffffff;
-  font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+
+body {
+	background-color:#ffffff;
+        font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
 blockquote, body, dd, dl, figure {
     margin: 0;
@@ -15,6 +19,149 @@ main {
     margin-left: auto;
 }
 
+  .intro,
+  .section {
+    padding: 4rem 2rem;
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  .intro {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff url(/images/gc-home-bg-v.jpg) no-repeat;
+    background-size: cover;
+  }
+
+  .intro h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .intro p {
+    font-size: 1.18rem;
+    color: #333333;
+    max-width: 600px;
+    line-height: 1.6;
+  }
+
+  .landbutton {
+    display: inline-block;
+    margin-top: 1.5rem;
+    padding: 0.75rem 1.5rem;
+    background-color: #f59e0b;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+
+  .landbutton:hover {
+    background-color: #d97706;
+  }
+
+  .intro__media {
+    max-width: 400px;
+    border-radius: 1rem;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+
+  .intro__image {
+    width: 100%;
+    display: block;
+    object-fit: cover;
+  }
+
+  .intro_bg {
+    background: #ffd6b899;
+    padding: 20px;
+    border-radius: 8px;}
+
+  .section h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .section p {
+    text-align: center;
+    margin-bottom: 3rem;
+    color: #555;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .grid {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+
+  .card {
+    background: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+  }
+
+  .card h3 {
+    margin-bottom: 0.5rem;
+    color: #1f2937;
+  }
+
+  .card p {
+    color: #4a5568;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+
+  .cta {
+    background-color: #1a202c;
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+    border-radius: 1rem;
+    margin: 4rem auto 2rem;
+  }
+
+  .cta h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .cta p {
+    font-size: 1.125rem;
+    margin-bottom: 2rem;
+  }
+
+  .cta .landbutton {
+    background-color: #facc15;
+    color: #000;
+  }
+
+  .cta .landbutton:hover {
+    background-color: #eab308;
+  }
+
+
+
+
+
+
+
+
+
 a {color: #ff4200;}
 .mynav {text-align:center;
         margin-bottom:20px;}
@@ -28,6 +175,7 @@ header {padding:10px 0px;}
           background-color:#ffffff;
           margin:5px;
           font-size:1.07em;}
+
 /* homepage */
 .content-1 { background-color:#ffffff;
              margin:0px 0px 20px 0px;
@@ -79,6 +227,7 @@ header {padding:10px 0px;}
                  font-size:1.2em;
                  padding: 10px 22px;}
 .homeblog-link a { color:#ff4200;}
+
 /* footer */
 footer { background-color:#ffffff;
          padding: 28px 0px 0px 0px;
@@ -88,6 +237,7 @@ footer { background-color:#ffffff;
 footer ul li { display:inline-block;
                list-style-type:none;}
 footer ul li a { padding:0 9px;}
+
 /* blog content here */
 .story {background-color: #ffffff;}
 .story h1 { font-size: 2.5em;
@@ -119,6 +269,7 @@ ul.author li  { color: #7d7d7d;
                transition: 0.1s;
                text-decoration: none;}
 .recent-posts ul li a:hover, .recent-posts ul li a:focus {color: #ff4200;}
+
 #mc_embed_signup {background:#fff;
                   clear:left;
                   font:14px Helvetica,Arial,sans-serif;
@@ -130,7 +281,8 @@ ul.author li  { color: #7d7d7d;
 .mainblog a img { width:100%;
                   display:inline;}
 .mainblog a h2 { font-size: 2em;
-                 color: #ff4200;}                
+                 color: #ff4200;}  
+
 /* contact page content here */
 .contact-page {padding-top: 15px;
                padding-bottom: 15px;}
@@ -141,7 +293,8 @@ ul.author li  { color: #7d7d7d;
 .contact-page ul li {font-size: 1.2em;}
 .contact-touch { background-color:#00a4ff;
                  color: #ffffff;
-                 padding:35px 5px;}
+                 padding:35px 5px;}y
+
 /* process page content here */
 .process-page { margin-top: 35px;}
 .process-page p {text-align: center;
@@ -182,9 +335,27 @@ ul.author li  { color: #7d7d7d;
                   text-decoration: none;
                   color: #ff4200;}
 /* privacy policy content here */
+
 .privacy p { font-size: 1.24em;
              line-height: 1.72em;}
 .privacy h1, .privacy h2 {color:#ff4200;}
+
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
 /* from mc external online stylesheet */
 #mc_embed_signup form {text-align:center; padding:10px 0 10px 0;}
 .mc-field-group { display: inline-block; } /* positions input field horizontally */
@@ -198,6 +369,8 @@ ul.author li  { color: #7d7d7d;
 #mc_embed_signup #mce-error-response {display:none;}
 #mc_embed_signup #mce-success-response {color:#529214; display:none;}
 #mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
+
+
 
 
 /* New CSS */
@@ -251,10 +424,14 @@ ul.author li  { color: #7d7d7d;
 
 
 
-
-
 /* media queries here */
 @media (max-width:768px){
+
+.intro {
+      flex-direction: column;
+      text-align: center;
+    }
+	
 h1 { font-size:2.2em;}
 h1 span {padding-left:0;}
 .content-contact { background:#ffffff url("contact-girl.png") no-repeat center;
@@ -274,25 +451,17 @@ h1 span {padding-left:0;}
  #mc_embed_signup .button {width: 100%; margin:0; }
 
  .nav__list li {
-
     list-style: none;
     padding: 0 0.5em;
-
+    }
+	
 }
 
 
-}
-.videoWrapper {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
-}
-.videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
+@media (max-width:550px) {
 
+.intro {
+    background: #ffffff url(/images/gc-home-bg-mob-i.jpg) no-repeat;
+    background-size: cover;
+  }
+}

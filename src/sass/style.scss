@@ -531,6 +531,10 @@ h1 span {padding-left:0;}
 
 @media (max-width:500px) {
 
+.site-head {
+    padding: 0.8rem 0 0.3rem;
+}	
+
 .intro {
     background: #ffffff url(/images/gc-home-bg-mob-i.jpg) no-repeat;
     background-size: cover;

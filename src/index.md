@@ -1,6 +1,6 @@
 ---
 
-title: "GoldChest Technologies"
+title: "GoldChest Technologies - Digital Marketing Agency"
 layout: "layouts/home.html"
 intro:
   main: "Your Business Deserves an Online Presence That Works"

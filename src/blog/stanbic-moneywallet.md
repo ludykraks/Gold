@@ -7,13 +7,13 @@ title: "Get and Activate Stanbic Bank MasterCard MoneyWallet in Ghana"
   <img src= "/images/blogpics/stanbic-mastercard-moneywallet.png" alt= "Stanbic Bank MasterCard MoneyWallet" class= "img-responsive center-block" loading="lazy">
 
 
-<p>Looking for a reliable and low transaction fee multi-currency debit prepaid card to use in Ghana?</p>
+<p>Looking for a reliable and low transaction fee multi-currency debit prepaid card to use in Ghana and internationally?</p>
 
 <p>Well, the Stanbic Bank MasterCard MoneyWallet card does the job.</p>
 
 <p>And you don't need a Stanbic account to get one.</p>
 
-<p>You can also use the card internationally and in US Dollar, British Pound Sterling, Euro and many more, wherever MasterCard is accepted.</p>
+<p>You can also use the card internationally and in US Dollar, British Pound Sterling, Euro, South African Rand and many more, wherever MasterCard is accepted.</p>
 
   <p> The MasterCard is also contactless meaning you can use it for contactless payments.</p>
 
@@ -27,7 +27,7 @@ title: "Get and Activate Stanbic Bank MasterCard MoneyWallet in Ghana"
 
   <p>4. Enter your name, address, security details</p>
 
-  <p>5. The MasterCard is free and you will need to make an initial deposit. Ghc 50.00 would do. You can always reload</p>
+  <p>5. The MasterCard is free and you will need to make an initial deposit. Ghana Cedi is no longer accepted as initial deposit. You will have to load in a foreign currency</p>
 
   <p>6. You will be handed your Stanbic Bank MasterCard MoneyWallet card, make sure to sign the back</p> 
 
@@ -36,7 +36,7 @@ title: "Get and Activate Stanbic Bank MasterCard MoneyWallet in Ghana"
 
 <h2>Activate Stanbic Bank MasterCard MoneyWallet</h2>
 
-   <p>1. Visit Stanbic Bank MasterCard MoneyWallet webpage at <a href="https://travelprepaid.mastercard.com/stanbicghana/login/" rel="noopener noreferrer">www.stanbicbank.com.gh/moneywallet</a> </p>
+   <p>1. Visit Stanbic Bank MasterCard MoneyWallet webpage at <a href="https://travelprepaid.mastercard.com/stanbicghana/login/" rel="noopener noreferrer">www.stanbicbank.com.gh/moneywallet</a> or download the MoneyWallet app (recommended)</p>
 
   <p>2 Click on the <em>Register</em> button at the top of the page to register</p>
 
@@ -48,6 +48,6 @@ title: "Get and Activate Stanbic Bank MasterCard MoneyWallet in Ghana"
 
   <p>That's it, your card is activated.</p> 
 
-<p>The will be charged 1% fee whenever you load your MasterCard in Ghanaian Cedi.</p>
+<p>You will be charged 2% fee (minimum USD 15) whenever you load your MasterCard.</p>
 
-  <p>Local online and POS transactions are free. Local withdrawal fee is GHC 19.00.</p>
+  <p>Local online and POS transactions are free. Local withdrawal fee is GHC 20.00.</p>

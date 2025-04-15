@@ -402,45 +402,61 @@ ul.author li  { color: #7d7d7d;
                  color: #ffffff;
                  padding:35px 5px;}y
 
-/* process page content here */
-.process-page { margin-top: 35px;}
-.process-page p {text-align: center;
-                  padding: 25px 5px;
-                  font-size: 1.2em;
-                  line-height:1.5em;}
-.process-faq {margin: 10px 25px;}
-.process-faq h2 { font-size: 1.9em;
-                   color: #333333;}
-.process-faq p { font-size: 1.23em;
-                 line-height:1.5em;
-                 color: #333333; }
-.process-pack { background-color:#ffffff;
-                padding:15px;
-                border-radius:16px;
-                margin:35px 0px 14px 0px;
-                min-height: 324px;}
-.process-pack ul li { font-size: 1.2em;
-                      line-height:1.5em;}
-.process-pack h3 {color:#ffffff;
-                  font-size:1.6em;
-                  padding:5px 0px;
-                  background-color:#35c443;
-                  border-radius:15px 0px 15px 0px;}
-.process-pack h3.pack2 {background-color:#dc143c;
-                        border-radius: 0px 15px 0px 15px;}
-.process-pack p {font-size:1.8em;
-                 color:#005108;
-                 border-bottom:2px #00a4ff solid;}
-.con-now {display:inline-block;
-          border-radius: 8px;
-          padding: 4px 18px;
-          background-color: #ffffff;
-          margin-bottom: 15px;
-          font-size: 1.35em;
-          color: #ff4200;}
-.con-now:hover  { background-color: #e6e6e6;
-                  text-decoration: none;
-                  color: #ff4200;}
+/* Contact Page */
+.contact-section {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #ffffff;
+  padding: 40px 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-content {
+  flex: 1 1 500px;
+  max-width: 600px;
+  padding: 20px;
+}
+
+.contact-content h1 {
+  color: #ff4200;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.contact-content p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #333333;
+  margin-bottom: 15px;
+}
+
+.contact-content ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+
+.contact-content ul li {
+  font-size: 1.1em;
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+.contact-content a {
+  color: #ff4200;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact-content a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
 /* privacy policy content here */
 
 .privacy p { font-size: 1.24em;

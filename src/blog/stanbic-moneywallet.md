@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Get and Activate Stanbic Bank MasterCard MoneyWallet in Ghana"
+title: "Get & Activate Stanbic Bank MasterCard MoneyWallet Multi-Currency in Ghana"
 
 ---
 

@@ -53,6 +53,14 @@ title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2025"
        <li>Dial *150#  on Vodafone / Telecel for Roaming</li>
        <li>Dial *138#  on MTN </li>
       </ul>
+      
+  <h2>Roaming Bundles for USA, Canada, UK, South Africa, Dubai, China, India & World </h2>
+      <ul>
+       <li>Dial Telecel Roaming Code *150#  or use the Telecel Play app for better offers. Go to 
+        Mobile Bundles -> Roaming Bundles</li>
+       <li>Dial *550#  on MTN </li>
+      </ul>
+      
 
   <h2>Check your Vodafone, MTN Subscriptions</h2>
       <ul>

@@ -6,7 +6,7 @@ title: "How to Sell MTN Shares Using MTN Mobile Money"
 
   <img src= "/images/blogpics/trade-mtn-shares.jpg" alt= "Sell MTN Shares" class= "img-responsive center-block" loading="lazy">
      
-  <p>Click this link to head straight to the 
+  <p>Visit the following link to head straight to the 
       <a href="https://onboarding.ic.africa/register" rel="noopener nofollow" target="_blank">MTN 
       Ghana Shares login</a> page. Note: The login page is hosted by ICSecurities Ghana.</p>
       <p>So you were able to buy some shares during the MTN Share Offer, good.

@@ -82,3 +82,4 @@ title: "How to Sell MTN Shares Using MTN Mobile Money"
       in </a> to see your subscriptions. MTNGhanashares.com has been replaced by https://onboarding.ic.africa/register</p>             
       <p>For further information please contact MTN Ghana on 100. 
       <a href="https://goldchestgh.com/blog/check-share-price-gse">Check MTN Ghana Share Price</a> here.</p> 
+       <p>Disclaimer: The content of this webpage is not financial advice.</p>

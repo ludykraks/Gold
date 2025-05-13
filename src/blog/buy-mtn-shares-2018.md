@@ -17,7 +17,7 @@ title: "How to Buy MTN Shares in Ghana / Invest in MTN Shares"
       <p>You can start buying the MTN shares from 29th May, 2018 to 31st July, 2018.</p>
       <p>Find out more about the <a href="/blog/mtn-ipo-timetable">MTN IPO activity dates here</a>.</p>
        <p>For first time users, if the process below doesn't work, visit <a href="https://onboarding.ic.africa/register" target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your MTN Shares in Ghana.</p>
-       <p>Disclaimer: The content of this webpage is not financial advice.</p>
+      <p>You will need your Ghana Card ID to complete the form.</p>
 
 <h2>How many MTN shares can I buy?</h2>
       <p>A share costs 75 Ghana pesewas (2018 price) and you can buy a minimum of 10 shares.</p>
@@ -55,3 +55,4 @@ title: "How to Buy MTN Shares in Ghana / Invest in MTN Shares"
      <p>Yes, you can buy additional shares after your initial purchase, just dial the MTN short code *170# to 
       make the purchase.</p>
       <p>Remember, it is advisable to always read the offer prospectus and seek expert advice before buying shares.</p>
+       <p>Disclaimer: The content of this webpage is not financial advice.</p>

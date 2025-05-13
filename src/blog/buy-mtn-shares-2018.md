@@ -8,21 +8,23 @@ title: "How to Buy MTN Shares in Ghana / Invest in MTN Shares"
 
 <blockquote><a href="https://goldchestgh.com/blog/sell-mtn-ghana-shares">Learn how to sell your MTN Ghana shares</a></blockquote>
 
-<p>MTN Ghana is offering its shares to the general public. This means 
-       that you can own shares in MTN Ghana and enjoy the benefits that come with the investment.
+<p>MTN Ghana offered its shares to the general public in 2018 during its initial public offering. That meant 
+       that you could own shares in MTN Ghana and enjoy the benefits that come with the investment.
        This is a great opportunity for individuals and corporate bodies who 
        want to be shareholders of the largest telecommunications network in Ghana.
       </p>
       <h2>When can I buy the MTN Ghana (IPO) shares?</h2>
       <p>You can start buying the MTN shares from 29th May, 2018 to 31st July, 2018.</p>
       <p>Find out more about the <a href="/blog/mtn-ipo-timetable">MTN IPO activity dates here</a>.</p>
-       <p>For first time users, if the process below doesn't work, visit <a href="https://onboarding.ic.africa/register" target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your MTN Shares in Ghana.</p>      
+       <p>For first time users, if the process below doesn't work, visit <a href="https://onboarding.ic.africa/register" target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your MTN Shares in Ghana.</p>
+       <p>Disclaimer: The content of this webpage is not financial advice.</p>
 
 <h2>How many MTN shares can I buy?</h2>
-      <p>A share costs 75 Ghana pesewas and you can buy a minimum of 10 shares (costing you just GHC 7.50).</p>
+      <p>A share costs 75 Ghana pesewas (2018 price) and you can buy a minimum of 10 shares.</p>
       <h2>How do I buy the MTN Ghana shares using MTN Mobile Money?</h2>
       <p>For the first time ever anywhere, you can use mobile money wallet to buy shares. Follow the steps below to buy MTN Ghana shares:</p>
-
+  <p>Alternatively, if you are a first time buyer, visit <a href="https://onboarding.ic.africa/register" 
+       target="_blank" rel="noopener"> ICSecurities' website (IC Wealth)</a> to register and buy your shares.</p>
 <p>1. Dial MTN Mobile Money short code: *170# </p>
       <p>2. Select <em> Trade Shares</em> and enter your PIN.</p>
       <p>3. Choose Option 1 to <em>Buy MTN Shares</em></p>
@@ -39,11 +41,10 @@ title: "How to Buy MTN Shares in Ghana / Invest in MTN Shares"
       <p>That's it, you have successfully completed the process.</p>
       <p>For first time users, if the process above doesn't work, visit <a href="https://onboarding.ic.africa/register" 
         target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your MTN Shares.</p>
-      
-      <p>Have your Ghana Card ID details ready to complete the sign up form.</p>
+            
 
 <h2>Other places where you can buy the MTN shares / stocks </h2>
-      <p>Alternatively, you may buy the MTN Ghana shares online by visiting the
+      <p>You may buy the MTN Ghana shares online by visiting the
         <a href="https://onboarding.ic.africa/register" target="_blank" rel="noopener">MTN Ghana Share Offer website</a>, reading the terms and conditions, and
         following the directions on the site.</p>
       <p>Or... </p>
@@ -52,5 +53,5 @@ title: "How to Buy MTN Shares in Ghana / Invest in MTN Shares"
         GTBank, UBA, UMB, Zenith, Standard Chartered, or FBNBank), or any GSE Licensed stockbroker.</p>
       <h2>Can I buy more MTN Ghana shares after my first buy?</h2>
      <p>Yes, you can buy additional shares after your initial purchase, just dial the MTN short code *170# to 
-      make the purchase. Take note of the offer dates above.</p>
+      make the purchase.</p>
       <p>Remember, it is advisable to always read the offer prospectus and seek expert advice before buying shares.</p>

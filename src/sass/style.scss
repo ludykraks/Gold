@@ -454,6 +454,72 @@ ul.author li  { color: #7d7d7d;
   text-decoration: underline;
 }
 
+/* about content here */
+
+.about-page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.about-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.about-header h1 {
+  font-size: 2.5em;
+  color: #ff4200;
+}
+
+.about-header .tagline {
+  font-size: 1.2em;
+  color: #848484;
+}
+
+.about-section {
+  margin-bottom: 30px;
+}
+
+.about-section h2 {
+  font-size: 1.8em;
+  color: #ff4200;
+  margin-bottom: 10px;
+}
+
+.about-section p {
+  font-size: 1.1em;
+  line-height: 1.6em;
+}
+
+.services-list,
+.values-list,
+.why-choose-list {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.services-list li,
+.values-list li,
+.why-choose-list li {
+  margin-bottom: 10px;
+  font-size: 1.1em;
+}
+
+.contact-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ff4200;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.contact-button:hover {
+  background-color: #e63e00;
+}
 
 
 

@@ -20,7 +20,7 @@ title: "Holidays in Ghana 2025"
        <li>Good Friday - <span style="color:#ff4200">Friday, 18th April</span></li>
        <li>Easter Monday - <span style="color:#ff4200">Monday, 21st April</span></li>
        <li>May Day/Workers' Day - <span style="color:#ff4200">Thursday, 1st May</span></li>
-       <li>Eid al-Adha - <span style="color:#ff4200">Saturday, 7th June</span>*</li>
+       <li>Eid al-Adha - <span style="color:#ff4200">Friday, 6th June</span>*</li>
        <li>Founders' Day - <span style="color:#ff4200">Monday, 4th August</span></li>
        <li>Kwame Nkrumah Memorial Day - <span style="color:#ff4200">Sunday, 21st September</span></li>
        <li>Farmers' Day - <span style="color:#ff4200">Friday, 5th December</span></li>
@@ -51,6 +51,8 @@ title: "Holidays in Ghana 2025"
      <hr>
 
 <h2>FAQs</h2>
+      <h3>Is 6th June, 2025 a holiday in Ghana?</h3>
+      <p>Yes, it is Eid al-Adha.</p>
       <h3>Is 1st april 2025 a public holiday?</h3>
       <p>Yes, Tuesday, 1st April 2025 is a holiday; Eid al-Fitr. </p>
       <h3>When are the Easter Holidays in Ghana?</h3>

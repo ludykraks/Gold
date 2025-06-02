@@ -31,7 +31,7 @@ title: "Holidays in Ghana 2025"
   <p> * Subject to visibility of the moon.</p>
 
 
-  <blockquote>Popular Post: <a href= "shortcodes-for-mobile-networks"><em>Short Codes for All Mobile Networks in Ghana</em></a>
+  <blockquote>Popular Post: <a href= "https://goldchestgh.com/blog/shortcodes-for-mobile-networks"><em>Short Codes for All Mobile Networks in Ghana</em></a>
      </blockquote>
 
 <h2>Other notable days in Ghana 2025</h2>

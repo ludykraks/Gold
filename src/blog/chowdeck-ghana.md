@@ -39,4 +39,3 @@ title: "ChowDeck Enters Ghana with Fresh Competition for Bolt Food"
 
 <p>Whether you're team Bolt or riding with ChowDeck, one thing’s certain, Accra’s taste buds have never had it so good.</p>
 
----

@@ -4,12 +4,12 @@ title: "US VISA Lottery Registration"
 
 ---
 
-  <p><strong>Check the <a href="https://dvprogram.state.gov//" target="_blank"> 2020/2021 US Visa Lottery results </a> here.</strong></p>
-      <p><strong>Begin the <a href="https://dvprogram.state.gov/" rel="noopener" target="_blank"> 2021 US VISA Lottery registration </a> here.</strong></p>
+  <p><strong>Check the <a href="https://dvprogram.state.gov/" target="_blank"> the current US Visa Lottery results </a> here.</strong></p>
+      <p><strong>Begin the <a href="https://dvprogram.state.gov/" rel="noopener" target="_blank"> current US VISA Lottery registration </a> here.</strong></p>
     <p>Have you ever registered for the US Diversity Visa Lottery in the past? How was your experience?</p>
       <p>The US Visa lottery registration is here again and if you want to stand the chance of
         going to the US to live and fulfill your dreams, then here is your opportunity to do so.</p>
-      <h2>How to Register for US Visa lottery (DV-2020 Programme) in Ghana</h2>
+      <h2>How to Register for US Visa lottery (DV-2026 Programme) in Ghana</h2>
       <p>To register, visit the US DV lottery website, fill out the application form, upload your passport
         size picture and submit your application.</p>
       <p>You can do this all by yourself...</p>

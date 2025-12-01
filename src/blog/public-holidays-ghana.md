@@ -27,6 +27,24 @@ title: "Holidays in Ghana 2025"
        <li>Christmas Day - <span style="color:#ff4200">Thursday, 25th December</span></li>
        <li>Boxing Day - <span style="color:#ff4200">Friday, 26th December</span></li>
      </ol>
+
+       <p>The following are the official public holidays in Ghana <strong>2026</strong>.</p>
+
+  <ol>
+       <li>New Year's Day - <span style="color:#ff4200">Thursday, 1st January</span></li>
+       <li>Constitution Day - <span style="color:#ff4200">Wednesday, 7th January</span></li>
+       <li>Independence Day - <span style="color:#ff4200">Friday, 6th March</span></li>
+       <li>Eid al-Fitr - <span style="color:#ff4200">Monday, 20th March</span>*</li>
+       <li>Good Friday - <span style="color:#ff4200">Friday, 3rd April</span></li>
+       <li>Easter Monday - <span style="color:#ff4200">Monday, 6th April</span></li>
+       <li>May Day/Workers' Day - <span style="color:#ff4200">Friday, 1st May</span></li>
+       <li>Eid al-Adha - <span style="color:#ff4200">Wed, 27th June</span>*</li>
+       <li>Republic Day - <span style="color:#ff4200">Wednesday, 1st July</span></li>
+       <li>Founder's Day - <span style="color:#ff4200">Monday, 21st September</span></li>
+       <li>Farmers' Day - <span style="color:#ff4200">Friday, 4th December</span></li>
+       <li>Christmas Day - <span style="color:#ff4200">Friday, 25th December</span></li>
+       <li>Boxing Day - <span style="color:#ff4200">Saturday, 26th December</span></li>
+     </ol>    
      
   <p> * Subject to visibility of the moon.</p>
 

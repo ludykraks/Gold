@@ -3,8 +3,8 @@ layout: "layouts/blog-base.html"
 title: "Holidays in Ghana 2025"
 
 ---
- <p>1st July - Republic Day is now back as an official public holiday in Ghana and will be observed on Friday, 4th July, 2025 .</p>
-  <p>Looking for all the official public holidays in Ghana (2025) at one place? Find them here.</p>
+ <p>1st July - Republic Day is now back as an official public holiday in Ghana and will be observed as such.</p>
+  <p>Looking for all the official public holidays in Ghana (2025 and 2026) at one place? Find them here.</p>
       <p>In 2025, Ghana will have 14 public holidays.</p> 
         <p>The <a href="https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Public-Holidays-Bill-passed-Minority-walks-out-again-728171" target="_blank" rel="noopener"> 25th May AU Day and 4th August Founders' Day </a> are no longer holidays in Ghana.</p>
       <p><em>Note:</em> When a public holiday falls on a Saturday or Sunday in Ghana, 
@@ -52,15 +52,15 @@ title: "Holidays in Ghana 2025"
   <blockquote>Popular Post: <a href= "https://goldchestgh.com/blog/shortcodes-for-mobile-networks"><em>Short Codes for All Mobile Networks in Ghana</em></a>
      </blockquote>
 
-<h2>Other notable days in Ghana 2025</h2>
+<h2>Other notable days in Ghana 2026</h2>
      <p>The holidays below are not official public holidays in Ghana.</p>
      <ul>
-      <li>Valentine's/Chocolate Day - <span style="color:#ff4200">Friday, 14th February</span></li>
+      <li>Valentine's/Chocolate Day - <span style="color:#ff4200">Sunday, 14th February</span></li>
       <li>7th March (Rest Holiday for only Primary and High School Students in Ghana)</li>
-      <li>April Fool's Day - <span style="color:#ff4200">Tuesday, 1st April</span></li>
-      <li>Mother's Day in Ghana- <span style="color:#ff4200">Sunday, 11th May</span></li> 
-      <li>African Union Day - <span style="color:#ff4200">Sunday, 25th May</span></li>
-      <li>Father's Day in Ghana - <span style="color:#ff4200">Sunday, 15th June</span></li>
+      <li>April Fool's Day - <span style="color:#ff4200">Wednesday, 1st April</span></li>
+      <li>Mother's Day in Ghana- <span style="color:#ff4200">Sunday, 10th May</span></li> 
+      <li>African Union Day - <span style="color:#ff4200">Monday, 25th May</span></li>
+      <li>Father's Day in Ghana - <span style="color:#ff4200">Sunday, 21st June</span></li>
      </ul>
      <p>Click on the image below to save it</p>
      <p><a href="/images/blogpics/holidays-2025.jpg" download= "Ghana Holidays 2025" rel= "noopener"> <img src= "/images/blogpics/holidays-ghana-2025.jpg" alt= "Holidays in Ghana 2025" class= "img-responsive center-block" title="Click to save holidays" loading="lazy"></a></p>

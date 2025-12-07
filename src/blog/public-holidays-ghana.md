@@ -13,16 +13,6 @@ title: "Holidays in Ghana 2026"
       <p>The following are the official public holidays in Ghana <strong>2025</strong>.</p>
 
   <ol>
-       <li>New Year's Day - <span style="color:#ff4200">Wednesday, 1st January</span></li>
-       <li>Constitution Day - <span style="color:#ff4200">Tuesday, 7th January</span></li>
-       <li>Independence Day - <span style="color:#ff4200">Thursday, 6th March</span></li>
-       <li>Eid al-Fitr - <span style="color:#ff4200">Monday, 31st March and Tuesday, 1st April</span>*</li>
-       <li>Good Friday - <span style="color:#ff4200">Friday, 18th April</span></li>
-       <li>Easter Monday - <span style="color:#ff4200">Monday, 21st April</span></li>
-       <li>May Day/Workers' Day - <span style="color:#ff4200">Thursday, 1st May</span></li>
-       <li>Eid al-Adha - <span style="color:#ff4200">Friday, 6th June</span>*</li>
-       <li>Republic Day - <span style="color:#ff4200">Tuesday, 1st July (observed on Friday, July 4)</span></li>
-       <li>Founder's Day - <span style="color:#ff4200">Sunday, 21st September</span></li>
        <li>Farmers' Day - <span style="color:#ff4200">Friday, 5th December</span></li>
        <li>Christmas Day - <span style="color:#ff4200">Thursday, 25th December</span></li>
        <li>Boxing Day - <span style="color:#ff4200">Friday, 26th December</span></li>

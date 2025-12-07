@@ -63,22 +63,15 @@ title: "Holidays in Ghana 2025"
       <li>Father's Day in Ghana - <span style="color:#ff4200">Sunday, 21st June</span></li>
      </ul>
      <p>Click on the image below to save it</p>
-     <p><a href="/images/blogpics/holidays-2025.jpg" download= "Ghana Holidays 2025" rel= "noopener"> <img src= "/images/blogpics/holidays-ghana-2025.jpg" alt= "Holidays in Ghana 2025" class= "img-responsive center-block" title="Click to save holidays" loading="lazy"></a></p>
+     <p><a href="/images/blogpics/holidays-2026.jpg" download= "Ghana Holidays 2026" rel= "noopener"> <img src= "/images/blogpics/holidays-ghana-2026.jpg" alt= "Holidays in Ghana 2026" class= "img-responsive center-block" title="Click to save holidays" loading="lazy"></a></p>
    
      <hr>
 
 <h2>FAQs</h2>
       <h3>Is 1st July a holiday in Ghana?</h3>
-      <p>Yes, it is back as an official holiday, it will be observed on Friday, July 4, 2025</p>
-      <h3>Is 6th June, 2025 a holiday in Ghana?</h3>
-      <p>Yes, it is Eid al-Adha.</p>
-      <h3>Is 1st april 2025 a public holiday?</h3>
-      <p>Yes, Tuesday, 1st April 2025 is a holiday; Eid al-Fitr. </p>
+      <p>Yes, it is back as an official holiday, it will be observed on Wednesday, July 1, 2026</p>
       <h3>When are the Easter Holidays in Ghana?</h3>
-      <p>The Easter holidays in Ghana start on Good Friday, 18th April and ends on Easter Monday, 21st April, 2025</p>  
-      <h3>When are the Eid al Fitr holidays in Ghana?</h3>
-      <p>There will be 2 public holidays for 2025's Eid al-Fitr, these days are Monday, 
-        31st March and Tuesday, 1st April 2025</p>  
+      <p>The Easter holidays in Ghana start on Good Friday, 3rd April and ends on Easter Monday, 6th April, 2026</p>  
       <h3>Is 7th January a holiday in Ghana?</h3>
       <p>Yes, 7th January is a holiday in Ghana - Constitution Day.</p>
       <h3>Is 4th August a holiday in Ghana?</h3>
@@ -87,5 +80,5 @@ title: "Holidays in Ghana 2025"
       <p>No, it's no longer an official public holiday. Therefore it will not be observed.</p>
       <h3>Do Banks in Ghana work on holidays?</h3>
       <p>No, banks in Ghana don't work on holidays.</p>
-      <h3>When is Farmers Day 2025?</h3>
-      <p>This year's Farmers' Day statutory public holiday is on Friday 5th December, 2025.</p>
+      <h3>When is Farmers Day 2026?</h3>
+      <p>This year's Farmers' Day statutory public holiday is on Friday 4th December, 2025.</p>

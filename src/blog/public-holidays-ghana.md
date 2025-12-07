@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Holidays in Ghana 2025"
+title: "Holidays in Ghana 2026"
 
 ---
  <p>1st July - Republic Day is now back as an official public holiday in Ghana and will be observed as such.</p>

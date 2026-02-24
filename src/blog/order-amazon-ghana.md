@@ -38,7 +38,7 @@ title: "How to Order from Amazon to Ghana"
        <p>5. Select your shipping address and place your order. You can 
        place it in US Dollar or Ghana Cedi. It's better to order in Ghana Cedis.</p> 
        <p>6. You will then receive an email confirming your order.</p> 
-       <p>7. Money from you debit card will be deducted when you items are shipped. 
+       <p>7. Money from you debit card will be deducted when your items are shipped. 
        <p>After your order has been successfully placed, visit Amazon.com, click on on menu and select <em>Order</em> to track your order.</p>
        <p>Copy the tracking number and visit DHL Ghana's website to track your order.</p> 
        <p>You can now relax and wait for DHL to call you for the delivery of your items.</p>
@@ -51,5 +51,6 @@ title: "How to Order from Amazon to Ghana"
        to add a supporting document. You can choose not to add any document.</p>
        <p>Your account should be reviewed within 24hrs. If your payment card is genuine, your 
         account will be approved and you can to continue with your order.</p>
+        <p>All the best shopping from Amazon Ghana!</p>
 
    

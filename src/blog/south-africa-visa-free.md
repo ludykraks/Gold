@@ -30,6 +30,6 @@ title: "Travel from Ghana to South Africa Visa Free"
         <li>Johannesburg Zoo</li>
         <li>Nelson Mandela Square</li>
         <li>Stellenbosch and the Winelands</li>
-        <li>Cape Town and Table Mountain</li>
+        <li>Cape Town: Table Mountain</li>
         <li>Montecasino</li>
       </ul>

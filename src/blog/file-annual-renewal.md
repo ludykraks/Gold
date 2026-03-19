@@ -28,7 +28,7 @@ title: "Renew Business Registration Ghana"
         to the payment till (currently Fidelity Bank) to make the final payment</p>
       <p>That's it, you are done.</p>
       <h2>How much will I pay to renew my business for the current year?</h2>
-      <p>It costs Ghc 25.00 to pay for the current year (Sole Proprietorship/Enterprise/Venture).</p>
+      <p>It costs Ghc 70.00 to pay for the current year (Sole Proprietorship/Enterprise/Venture).</p>
       <p>Note: It's advisable to file your annual renewal at the beginning of the year so 
        you avoid the huge traffic and inconvenience at the RGD office during the last days of April.</p>
       <p>And do so annually to avoid trouble.<p>

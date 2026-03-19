@@ -8,6 +8,8 @@ title: "How to Buy MTN Shares in Ghana / Invest in MTN Shares"
 
 <blockquote><a href="https://goldchestgh.com/blog/sell-mtn-ghana-shares">Learn how to sell your MTN Ghana shares</a></blockquote>
 
+<p>UPDATE: The MTN Mobile Money USSD option was mainly introduced during the MTN IPO in 2018.</p> 
+<p>In 2026, first time investors can buy shares on the Ghana Stock Exchange through IC Securities using platforms like IC Wealth or a other licensed GSE brokers.</p>
 <p>MTN Ghana offered its shares to the general public in 2018 during its initial public offering. That meant 
        that you could own shares in MTN Ghana and enjoy the benefits that come with the investment.
        This is a great opportunity for individuals and corporate bodies who 

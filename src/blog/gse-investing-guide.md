@@ -3,7 +3,7 @@ layout: "layouts/blog-base.html"
 title: "How to Buy Shares on the Ghana Stock Exchange in 2026 (Beginner Guide)"
 ---
 
-<img src="/images/blogpics/gse-investing-guide.png" alt="Ghana Stock Exchange Investing Guide" class="img-responsive center-block" loading="lazy">
+<img src="/images/blogpics/gse-investing-guide.jpg" alt="Ghana Stock Exchange Investing Guide" class="img-responsive center-block" loading="lazy">
 
 Investing in shares is one of the most effective ways to build wealth over time. If you are in Ghana and want to start investing, the good news is that it is easier than many people think.
 

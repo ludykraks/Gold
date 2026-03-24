@@ -63,7 +63,7 @@ Most brokers allow funding through:
 - Bank deposit
 - Sometimes Mobile Money
 
-For example, investors using IC Securities (Ghana) Limited can fund their accounts and place orders through the IC Wealth platform web app.
+For example, investors using IC Securities (Ghana) Limited can fund their accounts and place orders through the [IC Wealth platform web](https://wealth.ic.africa/register) app.
 
 ## Step 3: Choose the Company You Want to Invest In
 
@@ -111,4 +111,4 @@ With the help of brokers like IC Securities (Ghana) Limited, hPetra Securities L
 
 If you are new to investing, start small, learn how the market works, and gradually build your portfolio over time.
 
-You can also check the latest share prices directly on the GSE website.
+You can also check the latest share prices directly on the [Ghana Stock Exchange](https://gse.com.gh).

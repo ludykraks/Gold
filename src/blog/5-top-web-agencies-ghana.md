@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "5 Top Website Design Companies in Ghana 2022 (Kava Ghana, WopeDigital...)"
+title: "5 Top Website Design Companies in Ghana 2026 (Kava Ghana, WopeDigital...)"
 
 
 ---

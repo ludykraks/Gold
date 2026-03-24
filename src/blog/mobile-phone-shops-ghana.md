@@ -27,3 +27,5 @@ title: "Best Shops to Buy Mobile Phones In Ghana: Telefonika, Frankophones"
        <p>On their Jumia Mall page, you will find official brand stores like Samsung, Nasco</p>
        <p></p>
        <p>One advantage you get from shopping on Jumia is the competitive prices you get to choose from. </p>
+
+<h2>Telefonika</h2>

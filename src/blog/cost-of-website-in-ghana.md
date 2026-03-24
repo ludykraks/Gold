@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Cost of Website Design in Ghana: A 2025 Guide"
+title: "Cost of Website Design in Ghana: A 2026 Guide"
 
 ---
 

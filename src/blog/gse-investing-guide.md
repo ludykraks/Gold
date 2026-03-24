@@ -11,7 +11,7 @@ This beginner guide explains how to buy shares on the Ghana Stock Exchange and w
 
 ## What is the Ghana Stock Exchange?
 
-The Ghana Stock Exchange (GSE) is the main stock market in Ghana where companies list their shares for the public to buy and sell.
+The [Ghana Stock Exchange (GSE)](https://gse.com.gh/listed-companies/) is the main stock market in Ghana where companies list their shares for the public to buy and sell.
 
 When you buy shares of a company listed on the exchange, you become a part owner of that company.
 

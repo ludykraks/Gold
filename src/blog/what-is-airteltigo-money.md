@@ -4,7 +4,7 @@ title: "What is AT Money? Registration, Uses & Everything You Need to Know (2026
 
 ---
 
-![AT Money Ghana, formerly AirtelTigo Money](/images/blogpics/at-money-ghana.jpg)
+![AT Money Ghana, formerly AirtelTigo Money](/images/blogpics/airteltigo-money-code.jpg)
 
 If you've been asking *"what happened to AirtelTigo Money?"* the answer is simple: it's now called **AT Money**.
 

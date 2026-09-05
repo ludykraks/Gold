@@ -2,6 +2,7 @@
 layout: "layouts/blog-base.html"
 title: "How to Register a Sole Proprietorship Business in Ghana in 2026"
 ---
+  <img src= "/images/blogpics/register-sole-proprietorship-ghana.jpg" alt= "Register Sole Proprietorship Business in Ghana" class= "img-responsive center-block" loading="lazy">
 
 Registering a business name is one of the first formal steps you can take when starting a small business in Ghana.
 

@@ -1,17 +1,17 @@
 ---
 layout: "layouts/blog-base.html"
-title: "How to Register a Business Name in Ghana in 2026: Cost and Steps"
+title: "How to Register a Sole Proprietorship Business in Ghana in 2026"
 ---
 
 Registering a business name is one of the first formal steps you can take when starting a small business in Ghana.
 
-The Office of the Registrar of Companies (ORC) refers to this type of registration as a **Business Name** or **sole proprietorship**. It is designed for a business owned by one person.
+The Office of the Registrar of Companies (ORC) refers to this type of registration as a **Business Name** or **Sole proprietorship**. It is designed for a business owned by one person.
 
-This guide explains the current registration process, how much it costs and what you should do after receiving your certificate.
+This simple guide will show you how to register, how much it costs and what you should do after receiving your certificate.
 
-> **Quick answer:** The ORC currently lists the standard processing fee for registering a business name as **GH₵130**. An optional VIP service costs an additional **GH₵650**. The registered name must then be renewed every year for **GH₵70**. Check the [official ORC business registration page](https://orc.gov.gh/service-business-registration.php) before paying because fees and procedures may change.
+> **Note:** The standard processing fee for registering a business name as **GH₵130**. An optional VIP service costs an additional **GH₵650**. The registered name must then be renewed every year for **GH₵70**. Check the [official ORC business registration page](https://orc.gov.gh/service-business-registration.php) before paying because fees and procedures may change.
 
-## Is a Business Name the Right Registration for You?
+## Should I register a Sole Proprietorship Business in Ghana?
 
 A business name is suitable when one person owns and controls the business. It is commonly used by freelancers, traders, artisans, consultants and other small business owners.
 
@@ -21,7 +21,7 @@ If the business will have more than one owner, outside investors or significant 
 
 ## How Much Does It Cost to Register a Business Name in Ghana?
 
-According to the ORC, the current fees are:
+According to the Registrar's General Department, the current fees are:
 
 | Service | Current fee |
 | --- | ---: |
@@ -29,11 +29,11 @@ According to the ORC, the current fees are:
 | Optional VIP service | GH₵650 in addition to the processing fee |
 | Annual business name renewal | GH₵70 |
 
-These are official fees listed by the ORC as of September 2026. They do not include any amount you may pay a consultant or agent to help you complete the process.
+These are official fees listed by the office as of September 2026.
 
 ## Step 1: Choose Your Business Name
 
-Prepare two or three possible names before you begin. Having alternatives will help if your first choice is unavailable or too similar to an existing name.
+Prepare two or three possible names before you begin. Having different names ready will help if your first choice is unavailable or too similar to an existing name.
 
 The ORC states that a proposed name should not be the same as, or confusingly similar in sound or appearance to, an existing business name. It should also not be misleading or undesirable.
 
@@ -44,10 +44,9 @@ Choose a name that is:
 - Easy to spell and remember
 - Relevant to the business
 - Distinct from competitors
-- Suitable for a website and social media accounts
-- Flexible enough to remain useful if the business grows
+- Suitable for a website and social media accounts, you can check online if the domain exists already
+- Flexible enough to remain useful if the business grows, should you want to branch out into different things
 
-It is also sensible to check whether a matching domain name is available before completing the registration.
 
 ## Step 2: Search for the Name Online
 
@@ -59,9 +58,9 @@ An online search is helpful, but the Registrar makes the final decision on wheth
 
 ## Step 3: Obtain and Complete Form A
 
-The prescribed form for a sole proprietorship is **Form A**. The ORC says applicants may obtain it from the in-house bank or download it when the current form is available online.
+The prescribed form for a sole proprietorship is **Form A**. Applicants may obtain it from the bank within their offices or download it when the current form is available online.
 
-Read every section carefully and make sure the information is correct before signing it. Use the current version of Form A as your definitive checklist because the required fields can change.
+Read every section carefully and make sure the information is correct before signing it.
 
 It helps to have your proposed business name, the nature of the business, the principal business address and the owner's details ready before completing the form.
 
@@ -77,7 +76,7 @@ Small errors can become inconvenient later when you need to open a business bank
 
 Pay the **GH₵130 processing fee** through the payment channel specified by the ORC.
 
-If you choose the optional VIP service, the ORC currently lists an additional fee of **GH₵650**. Confirm the available service, total amount and expected turnaround before making payment.
+If you choose the optional VIP service, it would cost you an additional fee of **GH₵650**. 
 
 Keep your receipt and any application reference you receive.
 

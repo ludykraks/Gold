@@ -3,6 +3,9 @@ layout: "layouts/blog-base.html"
 title: "How to Activate an MTN eSIM in Ghana: Cost and Setup Steps"
 ---
 
+<img src= "/images/blogpics/activate-mtn-esim.jpg" alt= "Get MTN eSIM" class= "img-responsive center-block">
+
+
 You can request an MTN eSIM in Ghana through the **myMTN app** or the [MTN eSIM request website](https://esimrequest.mtn.com.gh/Request/). If you do not have the app, use the website to start your request. Your phone must support eSIM before you can use it.
 
 You can upgrade your current SIM card to an MTN eSIM. Follow the steps in this guide.

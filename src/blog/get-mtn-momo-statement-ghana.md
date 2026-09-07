@@ -8,7 +8,7 @@ title: "How to Get Your MTN MoMo Statement in Ghana: Online and Shortcode"
 
 You can request your MTN MoMo statement through the [MTN statements website](https://statements.mtn.com.gh/) or by dialling the MTN Momo code`*170#` and selecting **My Wallet > Statements > Statement Request**.
 
-If you haven't signed up for the MTN Statement, use the link below to register[for your statement](https://statements.mtn.com.gh/signup).
+If you haven't signed up for the MTN Statement, use the link below to register [for your statement](https://statements.mtn.com.gh/signup).
 
 To register, you will need your mobile money account number and a new password.
 

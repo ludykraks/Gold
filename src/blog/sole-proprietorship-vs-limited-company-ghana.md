@@ -3,6 +3,8 @@ layout: "layouts/blog-base.html"
 title: "Sole Proprietorship vs Limited Liability Company in Ghana: Which Should You Choose?"
 ---
 
+<img src= "/images/blogpics/register-sole-proprietorship-ghana.jpg" loading="lazy" alt= "Sole Proprietorship Ghana" class= "img-responsive center-block">
+
 A sole proprietorship is important if you are the only owner and want a straightforward business structure.This is what people usually term one-man business.
 
 A private company limited by shares deserves a closer look if you want shared ownership or legal separation between yourself and the business.

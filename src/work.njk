@@ -1,0 +1,14 @@
+---
+layout: layouts/studio.html
+title: Our Work | GoldChest Technologies
+description: Explore GoldChest’s approach to client work, from the business goal to the details of delivery.
+permalink: /work/index.html
+---
+<section class="page-hero shell"><p class="eyebrow">Our work</p><h1>The goal. The details.<br>The work that follows.</h1><p>Every business starts somewhere different. We focus on understanding what you need, making thoughtful decisions and following through carefully.</p></section>
+<div class="light-section"><div class="shell">
+{% for project in projects %}
+  <article class="project-entry"><p class="eyebrow">{{ project.service }}</p><h2>{{ project.name }}</h2>{% if project.image %}<img src="{{ project.image }}" alt="{{ project.imageAlt }}" loading="lazy">{% endif %}<dl><dt>The goal</dt><dd>{{ project.goal }}</dd><dt>What we did</dt><dd>{{ project.work }}</dd><dt>What changed</dt><dd>{{ project.result }}</dd></dl>{% if project.url %}<a class="text-link" href="{{ project.url }}">Visit the website ↗</a>{% endif %}</article>
+{% else %}
+  <section class="work-empty"><h2>We’re putting our project stories together.</h2><p>We’ll share the goals, decisions and details behind our client work here. In the meantime, tell us what you’re planning and we can discuss relevant examples with you.</p><a class="text-link" href="/contact/">Let’s talk about your project ↗</a></section>
+{% endfor %}
+</div></div>

@@ -1,0 +1,7 @@
+{% macro icon(name) %}<svg class="line-icon" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+{% if name == 'web' %}<rect x="3" y="4" width="26" height="19" rx="1"/><path d="M12 28h8M16 23v5M6 7h20v13H6z"/>
+{% elif name == 'shop' %}<path d="M2 4h4l5 17h15l4-12H8M13 14h13"/><circle cx="13" cy="27" r="2"/><circle cx="25" cy="27" r="2"/>
+{% elif name == 'growth' %}<path d="M3 28h27M6 28V17h5v11M15 28V10h5v18M24 28V3h5v25"/>
+{% elif name == 'chat' %}<path d="M27 14c0 6-5 10-11 10h-3l-7 4 2-7C5 19 4 17 4 14 4 8 9 4 16 4s11 4 11 10Z"/><path d="M10 14h.1M16 14h.1M22 14h.1"/>
+{% elif name == 'people' %}<circle cx="16" cy="10" r="4"/><path d="M8 27v-3a8 8 0 0 1 16 0v3M5 7a4 4 0 0 0 0 8M27 7a4 4 0 0 1 0 8M2 25v-3a5 5 0 0 1 4-5M30 25v-3a5 5 0 0 0-4-5"/>
+{% else %}<path d="M8 3h11l6 6v20H8zM19 3v7h6M12 15h9M12 20h9M12 25h6"/>{% endif %}</svg>{% endmacro %}

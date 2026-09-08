@@ -1,6 +1,7 @@
 ---
 
-title: "GoldChest Technologies - Digital Marketing Agency"
+title: "Web Design & Digital Marketing | GoldChest Technologies"
+description: "Thoughtful websites and digital marketing for your business. Based in Ghana, working with businesses in the UK, US and South Africa."
 layout: "layouts/home.html"
 intro:
   main: "Your Business Deserves an Online Presence That Works"

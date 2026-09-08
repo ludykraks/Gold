@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ description or 'Thoughtful websites and digital marketing, with clear communication and care for the details. Based in Ghana, working internationally.' }}">
+    <meta name="theme-color" content="#222625">
+    <meta name="google-site-verification" content="3h28Suj_WGh5KXQEqKp34a4fJV2k3v0oSjCOgDVhq2Y">
+    <link rel="stylesheet" href="/css/home.css">
+    <script src="/js/studio.js" defer></script>
+  </head>
+  <body class="studio">
+    <a class="skip" href="#main-content">Skip to content</a>
+    {% include "partials/studio-header.html" %}
+    <main id="main-content" tabindex="-1">{% block content %}{{ content | safe }}{% endblock %}</main>
+    {% include "partials/studio-footer.html" %}
+  </body>
+</html>

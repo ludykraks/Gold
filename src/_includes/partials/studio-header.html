@@ -1,0 +1,21 @@
+<header class="studio-header">
+  <div class="shell header-inner">
+    <a class="studio-brand" href="/" aria-label="GoldChest Technologies home"><span class="brand-symbol" aria-hidden="true"></span><span><strong>GoldChest</strong><small>TECHNOLOGIES</small></span></a>
+    <details class="mobile-navigation">
+      <summary aria-label="Toggle navigation menu"><span>Menu</span><span class="menu-lines" aria-hidden="true"></span></summary>
+      <nav aria-label="Mobile navigation">
+        <a href="/services/"{% if page.url == '/services/' %} aria-current="page"{% endif %}>Services</a>
+        <a href="/work/"{% if page.url == '/work/' %} aria-current="page"{% endif %}>Our work</a>
+        <a href="/about/"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
+        <a href="/blog/">Insights</a>
+        <a class="button" href="/contact/">Let’s talk <span aria-hidden="true">↗</span></a>
+      </nav>
+    </details>
+    <nav class="desktop-navigation" aria-label="Main navigation">
+      <a href="/services/"{% if page.url == '/services/' %} aria-current="page"{% endif %}>Services</a>
+      <a href="/work/"{% if page.url == '/work/' %} aria-current="page"{% endif %}>Our work</a>
+      <a href="/about/"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
+      <a class="button button-small" href="/contact/">Let’s talk <span aria-hidden="true">↗</span></a>
+    </nav>
+  </div>
+</header>

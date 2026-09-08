@@ -1,0 +1,11 @@
+{% macro example(phone) %}
+<div class="demo-browser {% if phone %}demo-phone{% else %}demo-desktop{% endif %}">
+  <div class="demo-toolbar"><i></i><i></i><i></i><span>yourbusiness.com</span></div>
+  <div class="demo-page">
+    <div class="demo-nav"><b>◇ Your Business</b><span>{% if phone %}☰{% else %}Home &nbsp; Services &nbsp; About &nbsp; Contact{% endif %}</span></div>
+    <div class="demo-content"><span class="demo-tag">A BUSINESS BUILT AROUND YOU</span><strong>Make it easy to choose your business.</strong><p>Clear services. A simple process.<br>A brighter future.</p><span class="demo-cta">Get in touch →</span></div>
+    <div class="demo-services"><div><b>Professional service</b><span>Focused on your needs.</span></div><div><b>Expert support</b><span>We’re here to help.</span></div><div><b>A simpler process</b><span>From start to finish.</span></div></div>
+  </div>
+</div>
+{% endmacro %}
+<figure class="website-demo"><div class="demo-devices" aria-hidden="true">{{ example(false) }}{{ example(true) }}</div><figcaption>Illustrative website layout — not client work</figcaption></figure>

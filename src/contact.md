@@ -1,5 +1,5 @@
 ---
-title: 'About GoldChest Technologies'
+title: 'Contact GoldChest | Let’s Talk About Your Project'
 layout: 'layouts/contact.html'
 
 

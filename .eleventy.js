@@ -5,6 +5,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/sass/");
 
     eleventyConfig.addPassthroughCopy('./src/images/');
+    eleventyConfig.addPassthroughCopy('./src/js/');
+    eleventyConfig.addPassthroughCopy('./src/fonts/');
 
     return {
      markdownTemplateEngine: 'njk',

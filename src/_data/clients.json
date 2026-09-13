@@ -6,5 +6,13 @@
     {
         "name": "KraftGurus",
         "logo": "/images/clients/kraftgurus-logo.png"
+    },
+    {
+        "name": "EOD Accounting",
+        "logo": "/images/clients/eod-accounting-logo.png"
+    },
+    {
+        "name": "Odotastic Stickers",
+        "logo": "/images/clients/odotastic-logo.png"
     }
 ]

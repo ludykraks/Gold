@@ -92,9 +92,11 @@ body.studio { margin: 0; padding-top: var(--header-height); background: var(--ch
 .placeholder-note { font-size: .75rem; color: #69716d; text-align: right; margin: 12px 0 0 !important; }
 .services-section { padding-block: 22px 56px; }
 .services-section h2 { margin-bottom: 26px; font-size: 1.45rem; }
-.service-grid { display: grid; grid-template-columns: repeat(3, 1fr); }
+.service-grid { display: grid; grid-template-columns: repeat(2, 1fr); row-gap: 32px; }
 .service-grid article { display: flex; align-items: flex-start; gap: 22px; padding: 4px 28px; border-left: 1px solid #dce0dd; }
 .service-grid article:first-child { border-left: 0; padding-left: 0; }.service-grid article:last-child { padding-right: 0; }
+.service-grid article:nth-child(odd) { border-left: 0; padding-left: 0; }
+.service-grid article:nth-child(even) { padding-right: 0; }
 .line-icon { flex-shrink: 0; width: 36px; height: 36px; color: #a77a16; }
 .service-grid h3 { font-size: 1.03rem; margin-bottom: 9px; letter-spacing: -.025em; }
 .service-grid p { font-size: .97rem; line-height: 1.5; color: #535a56; margin-bottom: 10px; }

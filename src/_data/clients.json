@@ -4,10 +4,6 @@
         "logo": "/images/clients/bigoh-coaching-logo.png"
     },
     {
-        "name": "Eddys Pizza",
-        "logo": "/images/clients/eddys-pizza-logo.png"
-    },
-    {
         "name": "KraftGurus",
         "logo": "/images/clients/kraftgurus-logo.png",
         "url": "https://kraftgurus.com"
@@ -26,6 +22,10 @@
         "name": "Ultra Education",
         "logo": "/images/clients/ultra-education-logo.png",
         "url": "https://ultra.education/"
+    },
+    {
+        "name": "Eddys Pizza",
+        "logo": "/images/clients/eddys-pizza-logo.png"
     },
     {
         "name": "Cups and Cones",

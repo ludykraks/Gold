@@ -11,7 +11,8 @@
     },
     {
         "name": "KraftGurus",
-        "logo": "/images/clients/kraftgurus-logo.png"
+        "logo": "/images/clients/kraftgurus-logo.png",
+        "url": "https://kraftgurus.com"
     },
     {
         "name": "EOD Accounting",
@@ -19,14 +20,17 @@
     },
     {
         "name": "Odotastic Stickers",
-        "logo": "/images/clients/odotastic-logo.png"
+        "logo": "/images/clients/odotastic-logo.png",
+        "url": "https://odotastic.com"
     },
     {
         "name": "Ultra Education",
-        "logo": "/images/clients/ultra-education-logo.png"
+        "logo": "/images/clients/ultra-education-logo.png",
+        "url": "https://ultraeducation.com"
     },
     {
         "name": "Cups and Cones",
-        "logo": "/images/clients/cupsandcones-logo.png"
+        "logo": "/images/clients/cupsandcones-logo.png",
+        "url": "https://cupsandconesgh.com"
     }
 ]

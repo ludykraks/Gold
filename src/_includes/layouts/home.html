@@ -18,11 +18,23 @@
   <div class="shell clients-section" aria-labelledby="clients-heading">
     <h2 id="clients-heading">A few of the businesses we’ve worked with.</h2>
     <div class="client-list">
-      {% for client in clients %}<div class="client-logo"><a href="{{ client.url }}" target="_blank"
-          rel="noopener noreferrer"><img src="{{ client.logo }}" alt="{{ client.name }}" width="180" height="72"
-            loading="lazy"></a></div>
-      {% else %}{% for number in [1, 2, 3, 4] %}<div class="client-placeholder">Client logo 0{{ number }}</div>{% endfor
-      %}{% endfor %}
+      {% for client in clients %}
+      <div class="client-logo">
+        {% if client.url %}
+        <a href="{{ client.url }}" target="_blank" rel="noopener noreferrer">
+          {% endif %}
+
+          <img src="{{ client.logo }}" alt="{{ client.name }}" width="180" height="72" loading="lazy">
+
+          {% if client.url %}
+        </a>
+        {% endif %}
+      </div>
+      {% else %}
+      {% for number in [1, 2, 3, 4] %}
+      <div class="client-placeholder">Client logo 0{{ number }}</div>
+      {% endfor %}
+      {% endfor %}
     </div>
     {% if clients.length == 0 %}<p class="placeholder-note">Client names and logos to be added.</p>{% endif %}
   </div>

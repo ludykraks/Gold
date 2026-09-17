@@ -1,13 +1,11 @@
 [
     {
         "name": "Bigoh Coaching",
-        "logo": "/images/clients/bigoh-coaching-logo.png",
-        "url": "https://bigohcoaching.com"
+        "logo": "/images/clients/bigoh-coaching-logo.png"
     },
     {
         "name": "Eddys Pizza",
-        "logo": "/images/clients/eddys-pizza-logo.png",
-        "url": "https://eddyspizza.com"
+        "logo": "/images/clients/eddys-pizza-logo.png"
     },
     {
         "name": "KraftGurus",
@@ -16,7 +14,8 @@
     },
     {
         "name": "EOD Accounting",
-        "logo": "/images/clients/eod-accounting-logo.png"
+        "logo": "/images/clients/eod-accounting-logo.png",
+        "url": "https://eodaccounting.com"
     },
     {
         "name": "Odotastic Stickers",
@@ -25,8 +24,7 @@
     },
     {
         "name": "Ultra Education",
-        "logo": "/images/clients/ultra-education-logo.png",
-        "url": "https://ultraeducation.com"
+        "logo": "/images/clients/ultra-education-logo.png"
     },
     {
         "name": "Cups and Cones",

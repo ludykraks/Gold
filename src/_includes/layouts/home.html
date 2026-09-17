@@ -18,8 +18,9 @@
   <div class="shell clients-section" aria-labelledby="clients-heading">
     <h2 id="clients-heading">A few of the businesses we’ve worked with.</h2>
     <div class="client-list">
-      {% for client in clients %}<div class="client-logo"><img src="{{ client.logo }}" alt="{{ client.name }}"
-          width="180" height="72" loading="lazy"></div>
+      {% for client in clients %}<div class="client-logo"><a href="{{ client.url }}" target="_blank"
+          rel="noopener noreferrer"><img src="{{ client.logo }}" alt="{{ client.name }}" width="180" height="72"
+            loading="lazy"></a></div>
       {% else %}{% for number in [1, 2, 3, 4] %}<div class="client-placeholder">Client logo 0{{ number }}</div>{% endfor
       %}{% endfor %}
     </div>
@@ -48,18 +49,21 @@
       </article>
       <article>{{ icon('chat') }}<div>
           <h3>Social media management</h3>
-          <p>Content strategy, planning and creation to keep your business showing up with purpose.</p><a href="/services/#social-media">Explore social media support <span aria-hidden="true">↗</span></a>
+          <p>Content strategy, planning and creation to keep your business showing up with purpose.</p><a
+            href="/services/#social-media">Explore social media support <span aria-hidden="true">↗</span></a>
         </div>
       </article>
       <article>{{ icon('growth') }}<div>
           <h3>Paid advertising</h3>
-          <p>Google, Meta and TikTok campaigns built around your goals, including ads that start WhatsApp conversations.</p><a href="/services/#paid-ads">Explore paid advertising <span aria-hidden="true">↗</span></a>
+          <p>Google, Meta and TikTok campaigns built around your goals, including ads that start WhatsApp conversations.
+          </p><a href="/services/#paid-ads">Explore paid advertising <span aria-hidden="true">↗</span></a>
         </div>
       </article>
       <article>{{ icon('detail') }}<div>
           <h3>Make AI work for your business</h3>
-          <p>Practical AI adoption and training to help your team get started and use AI safely.</p><a href="/services/#ai-adoption">Explore AI support <span
-              class="sr-only">and training</span><span aria-hidden="true">↗</span></a>
+          <p>Practical AI adoption and training to help your team get started and use AI safely.</p><a
+            href="/services/#ai-adoption">Explore AI support <span class="sr-only">and training</span><span
+              aria-hidden="true">↗</span></a>
         </div>
       </article>
     </div>

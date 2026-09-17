@@ -1,11 +1,13 @@
 [
     {
         "name": "Bigoh Coaching",
-        "logo": "/images/clients/bigoh-coaching-logo.png"
+        "logo": "/images/clients/bigoh-coaching-logo.png",
+        "url": "https://bigohcoaching.com"
     },
     {
         "name": "Eddys Pizza",
-        "logo": "/images/clients/eddys-pizza-logo.png"
+        "logo": "/images/clients/eddys-pizza-logo.png",
+        "url": "https://eddyspizza.com"
     },
     {
         "name": "KraftGurus",

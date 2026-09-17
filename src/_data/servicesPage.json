@@ -1,0 +1,200 @@
+{
+  "title": "Web Design, Social Media, Paid Ads & AI Training | GoldChest",
+  "description": "Explore web design, ecommerce, SEO, social media management, paid advertising and safe AI adoption with GoldChest. Practical support for your business goals.",
+  "hero": {
+    "label": "How we can help",
+    "heading": [
+      "Your business goals.",
+      "A practical digital plan."
+    ],
+    "description": "Starting fresh or improving what you already have? We’ll listen, explain your options and help you focus on the next useful step.",
+    "link": {
+      "text": "Tell us about your project ↗",
+      "url": "/contact/"
+    }
+  },
+  "services": [
+    {
+      "id": "websites",
+      "label": "Websites & redesigns",
+      "heading": [
+        "A website that feels like your business."
+      ],
+      "content": [
+        {
+          "text": "Your website should make it easy to understand what you do and why it matters. We work on the message, structure and experience together, so your customers can find their way."
+        },
+        {
+          "bullets": [
+            "Clear page structure and navigation",
+            "Layouts that work on phones, tablets and desktops",
+            "Helpful content and straightforward contact journeys",
+            "Careful attention to usability and performance"
+          ]
+        }
+      ],
+      "link": {
+        "text": "Let’s talk websites ↗",
+        "url": "/contact/?service=website"
+      }
+    },
+    {
+      "id": "ecommerce",
+      "label": "Ecommerce",
+      "heading": [
+        "Make browsing and buying easier."
+      ],
+      "content": [
+        {
+          "text": "Whether you’re launching a shop or improving an existing one, we help you think through the experience from the product page to checkout."
+        },
+        {
+          "bullets": [
+            "A clear product catalogue and useful product information",
+            "Simple navigation and a considered mobile experience",
+            "Payment and delivery requirements planned around your business",
+            "A practical approach to managing your store"
+          ]
+        }
+      ],
+      "link": {
+        "text": "Tell us about your shop ↗",
+        "url": "/contact/?service=ecommerce"
+      }
+    },
+    {
+      "id": "marketing",
+      "label": "SEO & digital marketing",
+      "heading": [
+        "Help the right people find you."
+      ],
+      "content": [
+        {
+          "text": "Your website and marketing should work towards the same goals. We help you identify who you want to reach, sharpen your message and choose where to put your effort."
+        },
+        {
+          "bullets": [
+            "Search-friendly website structure and useful content",
+            "SEO and performance improvements",
+            "Digital and social media marketing direction",
+            "Clear goals and a plan for reviewing progress"
+          ]
+        }
+      ],
+      "link": {
+        "text": "Talk about your goals ↗",
+        "url": "/contact/?service=marketing"
+      }
+    },
+    {
+      "id": "social-media",
+      "label": "Social media management",
+      "heading": [
+        "Good content.",
+        "A plan behind every post."
+      ],
+      "content": [
+        {
+          "text": "Keeping up with social media takes more than finding something to post. We help you decide what to say, who to reach and how to show up consistently, with content that sounds like your business."
+        },
+        {
+          "bullets": [
+            "A social media strategy shaped around your audience and goals",
+            "Content planning and calendars, so you know what’s coming",
+            "Content creation, from captions and graphics to short-form video",
+            "Scheduling and publishing across your agreed channels",
+            "Performance reviews to learn what connects and improve the next plan"
+          ]
+        }
+      ],
+      "link": {
+        "text": "Let’s plan your social media ↗",
+        "url": "/contact/?service=social-media"
+      }
+    },
+    {
+      "id": "paid-ads",
+      "label": "Paid advertising",
+      "heading": [
+        "Reach the right people.",
+        "Make your budget work harder."
+      ],
+      "content": [
+        {
+          "text": "Whether you want more enquiries, online sales or people discovering your business, we help you plan and manage campaigns around a clear goal. We’ll choose the channels that fit, agree a budget and keep you informed about performance."
+        },
+        {
+          "bullets": [
+            "Google Ads to connect with people looking for what you offer",
+            "Meta campaigns across Facebook and Instagram, including ads that open a WhatsApp conversation",
+            "TikTok advertising with creative suited to the platform",
+            "Audience research, campaign planning, ad copy and creative",
+            "Campaign setup, conversion tracking and ongoing testing",
+            "Clear reporting on spend, results and what to improve next"
+          ]
+        }
+      ],
+      "link": {
+        "text": "Let’s talk about your ad goals ↗",
+        "url": "/contact/?service=paid-ads"
+      }
+    },
+    {
+      "id": "ai-adoption",
+      "label": "AI Adoption & Training",
+      "heading": [
+        "Curious about AI?",
+        "Let’s find where it can help."
+      ],
+      "content": [
+        {
+          "text": "You don’t need to have it all figured out. We help you find practical ways to use AI, choose tools that fit your business and guide your team through getting started safely."
+        },
+        {
+          "heading": "Start with your business."
+        },
+        {
+          "text": "Explore where AI could save time, support your customers or make everyday tasks easier. We’ll help you choose a useful starting point around your goals and budget."
+        },
+        {
+          "heading": "Get set up and bring your team along."
+        },
+        {
+          "text": "Practical tool setup, onboarding and hands-on training built around the work your people actually do. Learn how to ask useful questions, review the answers and fit AI into your day-to-day work."
+        },
+        {
+          "heading": "Learn how to use it safely."
+        },
+        {
+          "text": "We’ll show your team how to protect business and customer information, check AI outputs and recognise when a person needs to make the final decision."
+        },
+        {
+          "bullets": [
+            "Understand what information to keep out of AI tools",
+            "Review privacy settings and who has access",
+            "Check facts, accuracy and suitability before using an answer",
+            "Set clear team guidelines for responsible use and human review"
+          ]
+        },
+        {
+          "heading": "Build confidence as you go."
+        },
+        {
+          "text": "Start with a manageable task, review what’s working and build on it. The aim is useful, responsible adoption that your team understands."
+        }
+      ],
+      "link": {
+        "text": "Let’s explore AI for your business ↗",
+        "url": "/contact/?service=ai-adoption"
+      }
+    }
+  ],
+  "closing": {
+    "heading": "Not sure where to start?",
+    "description": "Our free planning tool gives you three practical next steps based on your answers.",
+    "link": {
+      "text": "Find my next steps ↗",
+      "url": "/action-plan/"
+    }
+  }
+}

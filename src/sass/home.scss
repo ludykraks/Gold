@@ -610,7 +610,7 @@ body.studio {
   grid-template-columns: 1fr 1.2fr;
   gap: 45px;
   align-items: center;
-  padding-block: 42px;
+  padding-block: 100px;
 }
 
 .approach-section h2 {
@@ -619,7 +619,7 @@ body.studio {
 }
 
 .approach-section p {
-  font-size: .94rem;
+  font-size: 1.25rem;
   color: #d5d9d5;
   margin: 0;
 }
@@ -638,7 +638,7 @@ body.studio {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  font-size: .94rem;
+  font-size: 1.25rem;
   line-height: 1.4;
 }
 
@@ -658,7 +658,7 @@ body.studio {
   align-items: center;
   justify-content: space-between;
   gap: 30px;
-  padding-block: 28px;
+  padding-block: 60px;
 }
 
 .planner-intro h2 {

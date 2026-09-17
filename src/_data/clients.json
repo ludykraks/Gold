@@ -24,7 +24,8 @@
     },
     {
         "name": "Ultra Education",
-        "logo": "/images/clients/ultra-education-logo.png"
+        "logo": "/images/clients/ultra-education-logo.png",
+        "url": "https://ultra.education/"
     },
     {
         "name": "Cups and Cones",

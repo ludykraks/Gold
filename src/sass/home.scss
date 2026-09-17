@@ -787,8 +787,9 @@ body.studio {
   font-size: 2rem;
 }
 
-.detail-section p {
+.detail-section div p:nth-child(2) {
   color: #58605a;
+  font-size: 1.5em;
 }
 
 .detail-section ul {

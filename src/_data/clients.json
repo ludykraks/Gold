@@ -31,5 +31,10 @@
         "name": "Cups and Cones",
         "logo": "/images/clients/cupsandcones-logo.png",
         "url": "https://cupsandconesgh.com"
+    },
+    {
+        "name": "Frantomapa Educational Aid",
+        "logo": "/images/clients/frantomapa-educational-aid-logo.png",
+        "url": "https://frantomapa.org"
     }
 ]

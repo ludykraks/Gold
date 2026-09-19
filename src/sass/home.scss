@@ -522,8 +522,9 @@ body.studio {
 
 .client-logo img {
   object-fit: contain;
-  max-height: 64px;
+  max-height: 70px;
   padding: 10px;
+  display: block;
 }
 
 .placeholder-note {

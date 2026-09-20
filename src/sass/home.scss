@@ -709,6 +709,10 @@ body.studio {
   margin-top: 6px;
 }
 
+footer {
+  border-top: 1px solid var(--paper);
+}
+
 .footer-inner {
   display: flex;
   justify-content: space-between;

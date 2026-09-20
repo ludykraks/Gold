@@ -78,7 +78,7 @@ body.studio {
 }
 
 .studio h2 {
-  font-size: 1.7rem;
+  font-size: 2.1rem;
   font-weight: 700;
   margin: 0 0 14px;
 }
@@ -1012,6 +1012,10 @@ body.studio {
     font-size: 1.4rem;
   }
 
+  .studio h2 {
+    font-size: 1.4rem;
+  }
+
   .studio-brand small {
     font-size: .5rem;
   }
@@ -1316,6 +1320,10 @@ body.studio {
     font-size: 1rem;
   }
 
+  .approach-section p {
+    font-size: 1rem;
+  }
+
   .approach-points {
     grid-template-columns: 1fr;
     gap: 16px;
@@ -1325,6 +1333,7 @@ body.studio {
     flex-direction: row;
     align-items: center;
     gap: 16px;
+    font-size: 1rem;
   }
 
   .approach-points br {

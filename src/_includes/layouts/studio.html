@@ -6,6 +6,7 @@
     <title>{{ title }}</title>
     <meta name="description" content="{{ description or 'Thoughtful websites and digital marketing, with clear communication and care for the details. Based in Ghana, working internationally.' }}">
     <meta name="theme-color" content="#222625">
+    {% if noindex %}<meta name="robots" content="noindex, follow">{% endif %}
     <meta name="google-site-verification" content="3h28Suj_WGh5KXQEqKp34a4fJV2k3v0oSjCOgDVhq2Y">
     <link rel="stylesheet" href="/css/home.css">
     <script src="/js/studio.js" defer></script>

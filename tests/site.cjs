@@ -4,7 +4,7 @@ const vm = require('node:vm');
 const assert = require('node:assert/strict');
 
 async function main() {
-  const pages = ['/', '/services/', '/work/', '/about/', '/contact/', '/action-plan/'];
+  const pages = ['/', '/services/', '/work/', '/about/', '/contact/', '/action-plan/', '/start-a-project/', '/enquiry-received/'];
   for (const route of pages) {
     const html = fs.readFileSync(path.join('public', route, 'index.html'), 'utf8');
     assert.equal((html.match(/<h1[ >]/g) || []).length, 1, `${route}: one main heading`);
@@ -73,6 +73,6 @@ async function main() {
   menu.open = true; documentEvents.click({ target: {} }); assert.equal(menu.open, false);
   menu.open = true; link.handler(); assert.equal(menu.open, false);
   menu.open = true; mediaHandler({ matches: true }); assert.equal(menu.open, false);
-  console.log('Passed: 6 routes and local links/anchors, both fonts, separate navigation, 27 planner combinations and downloaded content, planner handoff/reset/focus, mobile menu handlers.');
+  console.log('Passed: 8 routes and local links/anchors, both fonts, separate navigation, 27 planner combinations and downloaded content, planner handoff/reset/focus, mobile menu handlers.');
 }
 main().catch(error => { console.error(error); process.exitCode = 1; });

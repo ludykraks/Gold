@@ -1,8 +1,7 @@
 ---
 layout: layouts/studio.html
 title: A Better Website & More Customer Enquiries | GoldChest
-description: Tell GoldChest about your website and business goals. Start a focused conversation about a new website, a
-redesign or reaching more customers.
+description: Tell GoldChest about your website and business goals. Start a focused conversation about a new website,a redesign or reaching more customers.
 permalink: /start-a-project/index.html
 ---
 <section class="shell page-hero enquiry-hero">
@@ -20,7 +19,7 @@ permalink: /start-a-project/index.html
       <h2 id="next-heading">You bring the goal.<br>We help with the plan.</h2>
       <ol class="enquiry-steps">
         <li><strong>Tell us a little.</strong>
-          <p>Where you are now, what isn’t working and what you want to achieve.</p>
+          <p>Where you are now, what isn't working and what you want to achieve.</p>
         </li>
         <li><strong>We review your brief.</strong>
           <p>We'll look at your goals and any website you share, then get back to you as soon as possible.</p>
@@ -31,7 +30,7 @@ permalink: /start-a-project/index.html
       </ol>
       <p>A few sentences in your own words are enough.</p>
       <div class="enquiry-proof">
-        <h3>A few businesses we’ve worked with</h3>
+        <h3>A few businesses we've worked with</h3>
         <ul>{% for client in clients %}<li>{{ client.name | escape }}</li>{% endfor %}</ul>
       </div>
     </aside>
@@ -61,7 +60,7 @@ permalink: /start-a-project/index.html
       <textarea id="enquiry-details" name="details" rows="4" maxlength="3000" required
         aria-describedby="details-hint"></textarea>
       <p class="enquiry-note" id="details-hint">Tell us what you do, who your customers are and the result you’re hoping
-        for. Please don’t include passwords or sensitive customer information.</p>
+        for. Please don't include passwords or sensitive customer information.</p>
       <div class="enquiry-fields">
         <div><label for="enquiry-name">Your name *</label><input id="enquiry-name" name="name" autocomplete="name"
             maxlength="120" required></div>
@@ -74,7 +73,7 @@ permalink: /start-a-project/index.html
         <select id="enquiry-timing" name="timing">
           <option value="">Select if you know</option>
           <option>As soon as possible</option>
-          <option>Within 1–3 months</option>
+          <option>Within 1-3 months</option>
           <option>Later this year</option>
           <option>Just exploring</option>
         </select>
@@ -82,7 +81,7 @@ permalink: /start-a-project/index.html
         <input id="enquiry-budget" name="budget" maxlength="120" aria-describedby="budget-hint">
         <p class="enquiry-note" id="budget-hint">Include your currency. It’s fine if you haven’t decided yet.</p>
       </details>
-      <p class="enquiry-note">We’ll use these details to respond to your enquiry and discuss your project. This form
+      <p class="enquiry-note">We'll use these details to respond to your enquiry and discuss your project. This form
         does not sign you up for marketing emails. <a href="/privacy/#project-enquiries">How we handle your
           information</a>.</p>
       <p id="enquiry-error" class="enquiry-error" role="alert" hidden></p>

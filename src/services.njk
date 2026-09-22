@@ -1,8 +1,11 @@
 ---
 layout: layouts/studio.html
 permalink: /services/index.html
-eleventyComputed: { title: "{{ servicesPage.title }}", description: "{{ servicesPage.description }}" }
+eleventyComputed:
+  title: "{{ servicesPage.title }}"
+  description: "{{ servicesPage.description }}"
 ---
+
 
 {# Edit page wording in src/_data/servicesPage.json. #}
 {% macro headingLines(lines) -%}

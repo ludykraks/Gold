@@ -1,10 +1,9 @@
 ---
 layout: layouts/studio.html
 permalink: /services/index.html
-eleventyComputed:
-title: "{{ servicesPage.title }}"
-description: "{{ servicesPage.description }}"
+eleventyComputed: { title: "{{ servicesPage.title }}", description: "{{ servicesPage.description }}" }
 ---
+
 {# Edit page wording in src/_data/servicesPage.json. #}
 {% macro headingLines(lines) -%}
 {% for line in lines %}{{ line | escape }}{% if not loop.last %}<br>{% endif %}{% endfor %}

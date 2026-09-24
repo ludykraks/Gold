@@ -1,7 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
 title: "Adidas Ghana - Order and Ship to Ghana (Official Website)"
-
 ---
 
 <img src= "/images/blogpics/adidas-ghana.png" alt= "Adidas Ghana" class= "img-responsive center-block" loading="lazy">

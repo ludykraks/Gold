@@ -5,11 +5,12 @@ title: "What to Do After Registering a Business in Ghana"
 
 <img src="/images/blogpics/after-registering-business-ghana.png" alt="Business registered in Ghana: organise taxes, permits, records and your online presence" width="743" height="416" class="img-responsive center-block" style="max-width:100%;height:auto;">
 
-After registering a business in Ghana, check your documents, arrange your tax affairs, find out which local and sector permits you need, separate the business's money, set up proper records and create a compliance calendar. If you employ workers, you should also address payroll and SSNIT registration.
+After registering a business in Ghana, check your documents, arrange your tax affairs, find out which local and sector permits you need, separate the business's money, set up proper records and create a compliance calendar.
+
+If you employ workers, you should also address payroll and SSNIT registration.
 
 Your ORC certificate is an important beginning, but it does not automatically complete every requirement for operating the business.
 
-*Official information checked on 13 September 2026. Requirements depend on your entity, location and activity, so confirm them with the relevant authority.*
 
 ## 1. Check and Safely Store Your Registration Documents
 
@@ -23,9 +24,8 @@ Read every document issued by the Office of the Registrar of Companies (ORC). Ch
 
 Ask the ORC how to correct an error before using the documents for a bank account, licence, contract or website.
 
-Keep the originals safely and create clear digital copies. Store the copies somewhere protected by a strong password and recovery method. Avoid sending identity documents through an unverified WhatsApp number or email address.
+Keep the originals safely and create clear digital copies. 
 
-If you have not completed this stage yet, follow our guide to [registering a sole proprietorship business in Ghana](/blog/register-business-name-ghana/).
 
 ## 2. Confirm Your Tax Registration and Obligations
 
@@ -37,11 +37,8 @@ Contact the Ghana Revenue Authority (GRA) or visit a Taxpayer Service Centre to 
 - The filing and payment deadlines
 - Whether you must register for VAT or another specific tax
 
-Do not assume that every registered business has identical tax obligations. The answer can depend on the legal structure, turnover, employees and type of activity.
 
 The GRA lists filing returns on time, paying taxes on time, keeping proper business records and informing it about business changes among a taxpayer's obligations. See the [GRA's taxpayer rights and obligations](https://gra.gov.gh/domestic-tax/taxpayer-rights-and-obligations/).
-
-Keep tax-registration confirmations, returns and payment receipts in the same organised record system as your ORC documents.
 
 ## 3. Ask Your Local Assembly About a Business Operating Permit
 
@@ -49,9 +46,8 @@ Business registration and permission to operate from a particular location are n
 
 Contact the Metropolitan, Municipal or District Assembly responsible for your business location. Ask whether you need a Business Operating Permit, signage approval, environmental-health inspection or another local permit.
 
-For example, the Accra Metropolitan Assembly lists an ORC business certificate or certificate of incorporation, the business name, owner's name, location and contact details in its [Business Operating Permit checklist](https://www.ama.gov.gh/bop.php). That checklist is specific to AMA, so a business outside its jurisdiction should contact its own assembly.
+For example, the Accra Metropolitan Assembly lists an ORC business certificate or certificate of incorporation, the business name, owner's name, location and contact details in its [Business Operating Permit checklist](https://www.ama.gov.gh/bop.php).
 
-Do not copy a fee or application route from another district. Local requirements and annual fee-fixing resolutions can differ.
 
 ## 4. Check for Industry-Specific Licences
 
@@ -66,7 +62,7 @@ Make a short description of exactly what the business will sell and how it will 
 3. What must be completed before trading begins
 4. Whether the approval must be renewed
 
-Use the regulator's official website and payment channels. A registration certificate should not be treated as proof that a regulated activity has been authorised.
+A registration certificate should not be treated as proof that a regulated activity has been authorised.
 
 ## 5. Separate Business and Personal Money
 

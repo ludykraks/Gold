@@ -3,8 +3,6 @@ layout: "layouts/blog-base.html"
 title: "How to Download Website Files Faster Using FTP"
 ---
 
-# How to Download Website Files Faster Using FTP
-
 Downloading a website through FTP can take hours, even when the site is only a few gigabytes. The problem is often not your internet speed.
 
 Websites, especially WordPress sites, can contain thousands of small files. Your FTP client has to process each one individually.
@@ -101,3 +99,7 @@ These two files contain the core components needed for a manual WordPress backup
 Before downloading a large website through FTP, check whether your hosting provider lets you compress the website folder first.
 
 Spending a few minutes creating an archive on the server can save a significant amount of transfer time.
+
+## Safety
+
+Delete the Archived and Database Files from Your Public Folder after downloading them locally for your safety. 

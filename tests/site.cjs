@@ -23,6 +23,19 @@ async function main() {
   const header = fs.readFileSync('src/_includes/partials/studio-header.html', 'utf8');
   assert(!/href="(?:#|\/#)/.test(header), 'Header uses individual pages');
   assert(fs.existsSync('public/blog/index.html'), 'Blog retained');
+  const blogIndex = fs.readFileSync('public/blog/index.html', 'utf8');
+  for (const image of ['adidas-ghana.png', 'mtn-statement.jpg', 'chowdeck-ghana-launch.jpg']) {
+    assert(blogIndex.includes(`src="/images/blogpics/${image}"`), `Blog covers support spaced HTML attributes and Markdown: ${image}`);
+  }
+  assert.equal((blogIndex.match(/class="blog-card"/g) || []).length, 102, 'Every article appears as a blog card');
+  const blogDates = [...blogIndex.matchAll(/<time datetime="([^"]+)"/g)].map(match => Date.parse(match[1]));
+  assert(blogDates.every((date, index) => index === 0 || blogDates[index - 1] >= date), 'Blog cards are newest first');
+  for (const match of blogIndex.matchAll(/<img src="(\/images\/blogpics\/[^"]+)"/g)) {
+    assert(fs.existsSync(path.join('public', match[1])), `Blog card image exists: ${match[1]}`);
+  }
+  const sampleArticle = fs.readFileSync('public/blog/chowdeck-ghana/index.html', 'utf8');
+  assert(sampleArticle.includes('studio-header'), 'Articles use the main site header');
+  assert(sampleArticle.includes('class="blog-prose"'), 'Articles use the redesigned reading layout');
 
   const source = fs.readFileSync('src/js/home.js', 'utf8');
   let answers, downloaded, downloadedBlob;
@@ -76,3 +89,4 @@ async function main() {
   console.log('Passed: 8 routes and local links/anchors, both fonts, separate navigation, 27 planner combinations and downloaded content, planner handoff/reset/focus, mobile menu handlers.');
 }
 main().catch(error => { console.error(error); process.exitCode = 1; });
+

@@ -1631,6 +1631,21 @@ footer {
   gap: 28px;
 }
 
+.blog-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem 2rem;
+  margin-top: 3rem;
+}
+
+.blog-pagination a {
+  padding: .75rem;
+  color: inherit;
+  text-underline-offset: .25em;
+}
+
 .blog-card {
   display: flex;
   min-width: 0;

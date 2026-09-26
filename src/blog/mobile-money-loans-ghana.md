@@ -1,62 +1,41 @@
 ---
 layout: "layouts/blog-base.html"
 title: "Mobile Money Loans in Ghana: MTN QwikLoan, FIDO Code"
-
 ---
+
   <img src= "/images/blogpics/mobile-money-loan.jpg" alt= "FIDO loan, MTN QwikLoan, MTN Quick Loan" class= "img-responsive center-block" loading="lazy">
  
-  <p>Mobile Money has been a blessing to a lot of people since its introduction to Ghana some years ago.</p>
-      <p>And aside from being able to use <a href="/blog/transfer-mobile-money-to-bank">mobile money to conveniently save money and seamlessly transfer</a>
-        money to family and friends, users can also get loans from their mobile money service operators.</p>
-      <p>Below are ways you can get loans using your mobile money account in Ghana.</p>
-      <h2>1. MTN Mobile Money QwikLoan</h2>
-      <p>If you are an active MTN Mobile Money user, you can easily apply for a
-        short term loan by using the QWIKLOAN service on your mobile phone. The loan is very quick.</p>
-      <p>Dial the <a href="/blog/what-is-mtn-momo" target="_blank">MTN Mobile Money</a> short code *170#, choose <em>Financial services</em>, <em>Loan</em>
-        and select <em>Option 1</em> to register and apply for loan.</p>
-      <p>If your application is successful, you will instantly receive the money into your MTN MoMo wallet.</p>
-      <p>This method of receiving loans is fast, convenient and requires no paperwork.</p>
-      <h2>What you need to know about MTN QwikLoan</h2>
-      <ul>
-        <li>You don't need any previous savings to access the loan</li>
-        <li>You have 30 days to repay the loan</li>
-        <li>Minimum loan is GHc 50 and maximum is GHc 1000</li>
-        <li>You can only have one loan at a time</li>
-        <li>You cannot apply for a new loan if you haven't paid the existing loan</li>
-      </ul>
-      <h2>2. FIDO Loans</h2>
-      <p><a href="https://www.fidocredit.com" rel="noreferrer noopener" target="_blank">FIDO</a>
-        connects people to fast and easy loans and all you have to do is apply for
-        the instant loan on your mobile phone in simple steps, no collateral, no guarantor.</p>
-      <h2>Short Code for FIDO loan (MTN, Vodafone)</h2> 
-      <p>Dial the MTN short code for FIDO loan *711*999#.</p>
-      <h3>Get Your FIDO loan now</h3>
-      <ol>
-        <li>Visit your app store and download the FIDO app</li>
-        <li>Fill out the loan application in the FIDO app</li>
-        <li>Wait for some few minutes to receive your money</li>
-      </ol>
-      <h3>Download FIDO Loan app </h3>
-      <ul>
-       <li><a href="https://play.google.com/store/apps/details?id=com.fidocredit" rel="noopener" target="_blank">FIDO Loan App (Android)</a></li>
-      </ul>
-      <p>Note: Make sure to repay on time to be eligible for another loan next time.</p>
-      <p>Call FIDO on 030 220 8058 / 024 243 6885 for further details.</p>
+# Mobile Money Loans in Ghana: MTN QwikLoan, Fido and Telecel Ready Loan
 
-  <h2>Vodafone Loan (Ready Loan)</h2>
-      <p>Customers of Vodafone Cash can now get access to loans and additional funds. 
-       Dial *110#, select option 5 (and choose Loans for Ready Loan and Overdraft for Vodafone Overdraft) 
-       from the menu and follow the prompts.</p>
-      <p>These credit facilities are available to all Vodafone customers who are active on Vodafone network
-       and Vodafone Cash. Terms and Conditions apply.</p>
-      <h2>How to Access Vodafone Loan</h2>
-      <ol>
-        <li>Dial Vodafone short code #110</li>
-        <li>Choose <em>Financial Services</em></li>
-        <li>And select <em>Ready Loan</em></li>
-        <li>Continue by choosing <em>Opt In</em> to access your loan</li>
-      </ol>
+Mobile Money has been a blessing to a lot of people since its introduction to Ghana some years ago.
 
-  <h2>Some Requirements for Receiving Mobile Money Loans</h2>
-      <p>A valid ID : Driver’s License, NHIA Membership, Voter ID, National ID or Passport</p>
-      <p>An active mobile money account</p>
+You can apply for some loans in Ghana using your phone and receive the money in a mobile money wallet. 
+
+The application steps, loan amount, fees and repayment date depend on the provider and your eligibility.
+
+## MTN MoMo QwikLoan
+
+If you use [MTN Mobile Money](https://goldchestgh.com/blog/what-is-mtn-momo), dial `*170#` and open **Financial Services → Loans**. Select **QwikLoan** if it appears, then follow the prompts to check your eligibility.
+
+Review the total repayment amount and due date before accepting. Loan limits and terms can change, so rely on the offer displayed on your phone.
+
+## Fido loans and short code
+
+Fido offers personal loans paid into a mobile money wallet. First-time applicants can visit the [official Fido website](https://gh.fido.money/) to find the app, create an account and complete identity verification. Fido says you will need your Ghana Card, a selfie and your address.
+
+Fido’s current short code is `*998#`. Returning customers can use it to apply for credit, and customers can use it to repay. 
+
+## Telecel Cash Ready Loan
+
+Telecel lists **Ready Loan** as a Telecel Cash service.
+
+Dial `*110#` and check **Financial Services** for the loan options available to your account. Follow the prompts on your phone, as menu positions can change.
+
+## Before you accept a mobile money loan
+
+- Check the **total repayment amount**, including interest and fees.
+- Confirm the **due date** and repayment method.
+- Borrow only what you can repay on time.
+- Use the provider’s official app, website or short code. Never share your mobile money PIN.
+
+An active mobile money wallet does not guarantee loan approval. Each provider assesses eligibility and displays the terms available to you when you apply.

@@ -6,7 +6,7 @@ title: "Use AirtelTigo Money to Buy Apps on Google Play Store"
    <img src= "/images/blogpics/google-play-airteltigo.jpg" alt= "AirtelTigo Money: Google Play Buy Apps" class= "img-responsive center-block">
   
   <p>It took some time but AirtelTigo Ghana now lets you buy apps and games
-        from Google Play Store using their <a href= "what-is-airteltigo-money">mobile money service; AirtelTigo Money</a>.</p>
+        from Google Play Store using their <a href= "/blog/what-is-airteltigo-money">mobile money service; AirtelTigo Money</a>.</p>
       <p>Follow the steps below to set up your method of payment on Google Play and make your first purchase.</p>
       <p>1. Open <em>Google Play Store</em> app on your phone</p>
       <p>2. Tap the menu icon and select <em>Payment Methods</em> to add your AirtelTigo Money account</p>
@@ -18,7 +18,7 @@ title: "Use AirtelTigo Money to Buy Apps on Google Play Store"
       <h2>Make your first purchase using AirtelTigo Money on Play Store</h2>
       <p>Open Google Play Store, find the app you want to buy, tap on the
         price and simply select AirtelTigoMoney as your preferred payment method.</p>
-      <blockquote>Related Post: <a href= "transfer-mobile-money-to-bank">
+      <blockquote>Related Post: <a href= "/blog/transfer-mobile-money-to-bank">
         <em>How to Send Money from Mobile Money to a Bank Account</em></a>
       </blockquote>
    

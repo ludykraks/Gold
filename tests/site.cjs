@@ -24,6 +24,9 @@ async function main() {
   assert(!/href="(?:#|\/#)/.test(header), 'Header uses individual pages');
   assert(fs.existsSync('public/blog/index.html'), 'Blog retained');
   const blogIndex = fs.readFileSync('public/blog/index.html', 'utf8');
+  for (const image of ['adidas-ghana.png', 'mtn-statement.jpg', 'chowdeck-ghana-launch.jpg']) {
+    assert(blogIndex.includes(`src="/images/blogpics/${image}"`), `Blog covers support spaced HTML attributes and Markdown: ${image}`);
+  }
   assert.equal((blogIndex.match(/class="blog-card"/g) || []).length, 102, 'Every article appears as a blog card');
   const blogDates = [...blogIndex.matchAll(/<time datetime="([^"]+)"/g)].map(match => Date.parse(match[1]));
   assert(blogDates.every((date, index) => index === 0 || blogDates[index - 1] >= date), 'Blog cards are newest first');

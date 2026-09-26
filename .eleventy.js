@@ -49,8 +49,9 @@ module.exports = function (eleventyConfig) {
         const absolutePath = path.resolve(process.cwd(), inputPath);
         const blogRoot = path.resolve(process.cwd(), 'src/blog') + path.sep;
         if (absolutePath.startsWith(blogRoot)) {
-          const match = fs.readFileSync(absolutePath, 'utf8').match(/<img[^>]+src=["']([^"']+)["']/i);
-          if (match) image = match[1];
+          const source = fs.readFileSync(absolutePath, 'utf8');
+          const match = source.match(/<img\b[^>]*?\bsrc\s*=\s*["']([^"']+)["']|!\[[^\]]*\]\(\s*<?([^\s>)]+)>?(?:\s+["'][^"']*["'])?\s*\)/i);
+          if (match) image = match[1] || match[2];
         }
       } catch {}
       postImageCache.set(inputPath, image);

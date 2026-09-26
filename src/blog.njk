@@ -2,7 +2,11 @@
 title: "GoldChest Blog"
 description: "Practical guides and useful ideas about websites, digital business, technology and everyday services in Ghana."
 layout: "layouts/studio.html"
-permalink: "/blog/index.html"
+pagination:
+  data: collections.blogPosts
+  size: 12
+  alias: posts
+permalink: "/blog/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 ---
 
 <section class="page-hero shell blog-hero">
@@ -15,12 +19,12 @@ permalink: "/blog/index.html"
   <div class="shell blog-index" aria-labelledby="latest-articles">
     <h2 id="latest-articles">Latest articles</h2>
     <div class="blog-grid">
-      {% for post in collections.blogPosts %}
+      {% for post in posts %}
         {% set image = post | postImage %}
         <article class="blog-card">
           <a class="blog-card-image" href="{{ post.url }}" tabindex="-1" aria-hidden="true">
             {% if image %}
-              <img src="{{ image }}" alt="" width="640" height="360" loading="lazy">
+              <img src="{{ image }}" alt="" width="640" height="360" loading="lazy" decoding="async">
             {% else %}
               <span class="blog-card-fallback"><span class="brand-symbol" aria-hidden="true"></span>GoldChest</span>
             {% endif %}
@@ -33,6 +37,11 @@ permalink: "/blog/index.html"
         </article>
       {% endfor %}
     </div>
+    <nav class="blog-pagination" aria-label="Blog pages">
+      {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}" rel="prev">← Newer articles</a>{% endif %}
+      <span>Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
+      {% if pagination.href.next %}<a href="{{ pagination.href.next }}" rel="next">Older articles →</a>{% endif %}
+    </nav>
   </div>
 </section>
 

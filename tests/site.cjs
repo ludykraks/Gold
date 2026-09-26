@@ -23,7 +23,16 @@ async function main() {
   const header = fs.readFileSync('src/_includes/partials/studio-header.html', 'utf8');
   assert(!/href="(?:#|\/#)/.test(header), 'Header uses individual pages');
   assert(fs.existsSync('public/blog/index.html'), 'Blog retained');
-  const blogIndex = fs.readFileSync('public/blog/index.html', 'utf8');
+  const blogPages = Array.from({ length: 9 }, (_, index) => {
+    const html = fs.readFileSync(index === 0 ? 'public/blog/index.html' : `public/blog/page/${index + 1}/index.html`, 'utf8');
+    assert.equal((html.match(/class="blog-card"/g) || []).length, index === 8 ? 6 : 12, 'Blog pages limit cards to 12');
+    if (index < 8) assert(html.includes(`href="/blog/page/${index + 2}/" rel="next"`), 'Next page is linked');
+    if (index > 0) assert(html.includes(`href="${index === 1 ? '/blog/' : `/blog/page/${index}/`}" rel="prev"`), 'Previous page is linked');
+    return html;
+  });
+  const blogIndex = blogPages.join('\n');
+  const articleUrls = [...blogIndex.matchAll(/class="blog-card-image" href="([^"]+)"/g)].map(match => match[1]);
+  assert.equal(new Set(articleUrls).size, 102, 'Pagination preserves every article without duplicates');
   for (const image of ['adidas-ghana.png', 'mtn-statement.jpg', 'chowdeck-ghana-launch.jpg']) {
     assert(blogIndex.includes(`src="/images/blogpics/${image}"`), `Blog covers support spaced HTML attributes and Markdown: ${image}`);
   }

@@ -1847,3 +1847,54 @@ footer {
   }
 }
 
+
+/* Keep long article content inside its column at every screen size. */
+.blog-article,
+.blog-card {
+  overflow-wrap: anywhere;
+}
+
+.blog-article-layout > *,
+.blog-card-body {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.blog-prose pre {
+  max-width: 100%;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.blog-prose pre code {
+  white-space: inherit;
+}
+
+.blog-prose :not(pre) > code {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.blog-prose :is(img, video, audio, iframe, embed, object, svg, canvas) {
+  max-width: 100%;
+}
+
+.blog-prose :is(video, svg, canvas) {
+  height: auto;
+}
+
+.blog-prose figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+
+.blog-prose table {
+  width: 100%;
+  min-width: 0;
+}
+
+@media (max-width: 980px) {
+  .blog-article-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

@@ -43,7 +43,7 @@ title: "Mobile Banking Apps in Ghana: StanChart, GCB, UMB, Ecobank, NIB ..."
        <li>Mobile banking code for Fidelity Bank *776#</li>
       </ul>
 
-<blockquote>Popular Post: <a href="/blog/pay-for-android-apps-mtn-mobile-money"><em>How to Buy 
+<blockquote>Popular Post: <a href="https://goldchestgh.com/blog/pay-for-android-apps-mtn-mobile-money"><em>How to Buy 
        Apps and Games Using MTN Mobile Money on Google Play Store </em></a>
       </blockquote>
 

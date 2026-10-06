@@ -48,7 +48,7 @@ title: "Cost of Website Design in Ghana: A 2026 Guide"
         Registering a domain name that ends with a <em>.com or .org</em> should cost you
         between GH₵ 260 and GH₵ 320 per year, .com.gh however costs more.</p>
       <p>You can personally purchase your domain name on any of the above sites or let
-        a <a href="/blog/5-top-web-agencies-ghana">web agency in Ghana</a> take care of it for you.</p>
+        a <a href="https://goldchestgh.com/blog/5-top-web-agencies-ghana">web agency in Ghana</a> take care of it for you.</p>
       <p>There are other local Ghanaian companies like Nacrotek and WopeDigital who can register a domain name for you.</p>
       <p>Note: Both GoDaddy and Namecheap offer discounts when you register your
         domain name for 3 years or more. Make sure you take advantage of such discounts during checkout.</p>
@@ -71,7 +71,7 @@ title: "Cost of Website Design in Ghana: A 2026 Guide"
        and customer care service when you are choosing your hosting partner as these 
        factors can make or break the success of your website.</p>
       <h2>Designing and Development of the Website</h2>
-      <p><a href="know-web-design-companies-ghana">Web design companies</a> will have to design and develop websites that suit your
+      <p><a href="https://goldchestgh.com/blog/know-web-design-companies-ghana">Web design companies</a> will have to design and develop websites that suit your
         desires.</p>
       <p>It takes skills and time to come up with design ideas. And a designer/developer will
         have to code and/or use paid-for software to turn those ideas into a beautiful and functional website.</p>

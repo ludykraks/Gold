@@ -43,7 +43,7 @@ title: "Mobile Money Loans in Ghana: MTN QwikLoan, FIDO Code"
       <p>Note: Make sure to repay on time to be eligible for another loan next time.</p>
       <p>Call FIDO on 030 220 8058 / 024 243 6885 for further details.</p>
 
-  <h2>Vodafone Loan (Ready Loan)</h2>
+  <h2>Telecel Loan (Ready Loan)</h2>
       <p>Customers of Vodafone Cash can now get access to loans and additional funds. 
        Dial *110#, select option 5 (and choose Loans for Ready Loan and Overdraft for Vodafone Overdraft) 
        from the menu and follow the prompts.</p>

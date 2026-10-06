@@ -57,8 +57,7 @@ title: "Websites you can Download Ghanaian and Other Ebooks for Free (Online Boo
        <em>Oniocha is no longer operating.</em>
       <p>Let's say, you are not a fan of digital books and you still prefer the good 
       old-fashioned hardcopy/paperback books. Well, worry not, online bookshop 
-      <a href= "https://oniocha.com/" target="_blank" rel="noopener">Oniocha 
-      digital bookshop</a> has got got you covered.</p> 
+      Oniocha digital bookshop has got got you covered.</p> 
       <p>Just visit their online bookstore, order a book/s and get it delivered to your doorstep.</p>
       <p>You can also browse their website to discover some new books.</p>
       <p>Hope this article saved you time and money from having 

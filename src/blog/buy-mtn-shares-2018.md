@@ -17,7 +17,7 @@ title: "How to Buy MTN Shares in Ghana / Invest in MTN Shares"
       </p>
       <h2>When can I buy the MTN Ghana (IPO) shares?</h2>
       <p>You can start buying the MTN shares from 29th May, 2018 to 31st July, 2018.</p>
-      <p>Find out more about the <a href="/blog/mtn-ipo-timetable">MTN IPO activity dates here</a>.</p>
+      <p>Find out more about the <a href="https://goldchestgh.com/blog/mtn-ipo-timetable">MTN IPO activity dates here</a>.</p>
        <p>For first time users, if the process below doesn't work, visit <a href="https://onboarding.ic.africa/register" target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your MTN Shares in Ghana.</p>
       <p>You will need your Ghana Card ID to complete the form.</p>
 

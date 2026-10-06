@@ -10,7 +10,7 @@ title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GOIL, GCB) in
       This new way of buying shares introduced by MTN Ghana and IC Securities is really
       exciting and novel.</p>
       <p>If you can recall, this method of using mobile money to purchase shares 
-       was first piloted <a href="/blog/buy-mtn-shares-2018">during the MTN IPO</a> in 2018.</p>
+       was first piloted <a href="https://goldchestgh.com/blog/buy-mtn-shares-2018">during the MTN IPO</a> in 2018.</p>
       <p>And it is great that this has been extended beyond just trading MTN Ghana shares.</p>
       <p>Follow the steps listed below to learn how to purchase shares on GSE.</p>
 <p>For first time users, if the process below doesn't work, visit <a href="https://onboarding.ic.africa/register" 
@@ -37,7 +37,7 @@ title: "Buy Shares Using MTN Mobile Money (Ecobank, MTN, CAL Bank, GOIL, GCB) in
        target="_blank" rel="noopener"> ICSecurities' website (IC Wealth)</a> to register and get your shares.</p>
       
    <h2>How to Sell Your MTN Shares Using MTN Mobile Money (MoMo)</h2>
-      <p>You can also easily <a href="/blog/sell-mtn-ghana-shares"> sell your MTN Shares</a> using 
+      <p>You can also easily <a href="https://goldchestgh.com/blog/sell-mtn-ghana-shares"> sell your MTN Shares</a> using 
        the same short code *170#. </p>
       <p>For first time users, if the process above doesn't work, visit <a href="https://onboarding.ic.africa/register" 
        target="_blank" rel="noopener"> ICSecurities website</a> to register and buy your shares.</p>

@@ -45,17 +45,15 @@ title: "COVID-19 Ghana Tracker App, Updates and Resources"
 <p>If you start experiencing a number of the above symptoms and you suspect you 
        may be infected with the virus, kindly call these Ghana Health Service helplines : 311, 050 949 7700, 055 843 9868 or 112.</p>
       
-<h2>GH COVID-19 Ghana Tracker App and USSD</h2>
+<h2>GH COVID-19 Ghana Tracker App and USSD (No longer available)</h2>
       <p>The Government of Ghana has launched a new app and a USSD code that will help 
        its citizens to assess and self report any symptoms on a mobile phone 
        and carry the information to the COVID-19 Ghana team.</p>
       <p>This initiative is important as it streamlines the process for all people in Ghana.</p>
       <p>Dial the GH COVID-19 tracker short code *769# to assess this system. 
        The app is currently not on the app stores, but it should appear next week.</p>
-      <p>You can however <a href="https://goldchestgh.com/other-files/GHCOVID19.apk">download 
+      <p>You can however <a href="https://goldchestgh.com/">download 
        the GH COVID-19 Tracker</a> apk file and install on your android phone.</p>
-      <p>Make sure you <a href="http://ghcovid19.com/" rel="noopener">read all the terms and 
-       conditions of the app</a> before installing it.</p>
       
 <h2>Official Resources for COVID-19 Cases in Ghana</h2>
       <p>It is very important that during these times, you keep up to date with appropriate

@@ -23,7 +23,7 @@ Here are some retailers worth checking:
 - CompuGhana
 - Franko Trading
 - Melcom
-- iStore Ghana at Accra Mall
+- iStore Ghana (Accra Mall)
 
 Stock varies, so a particular iPhone or Samsung model may be available at one shop and unavailable at another.
 

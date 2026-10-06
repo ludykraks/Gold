@@ -87,13 +87,13 @@ title: "MTN 4G: All You Need to Know [Code, Data Plan, Sim Card]"
 
   <h2>Cons</h2>
       <p>It's great that you can access MTN's 4G on the go, but currently,
-       the service is not available everywhere in Ghana.</p>
+       the service is not always available/stable everywhere in Ghana.</p>
       <p>MTN's 4G is available in most of our major cities though, and the good
         thing is that they are currently expanding.</p>
       <p>There are also a few locations where MTN's 4G switches to 3G because 4G
        is not accessible.</p>
-      <p>But all in all, we urge you to try MTN's 4G sim. If you are
+      <p>But all in all, we urge you to try MTN's 4G SIM. If you are
       not satisfied (which we doubt), you can always change your
       phone's settings to 3G or 2G (I'm  kidding, don't ever change to 2G
       if either 3G or 4G is available).</p>
-      <p>Meanwhile, you may find out about other 4G data operators in Ghana such as Surfline, Blu, Telesol etc.</p>
+      <p>Meanwhile, you may find out about other 4G data operators in Ghana such as Surfline, Blu, Telesol, Telecel etc.</p>

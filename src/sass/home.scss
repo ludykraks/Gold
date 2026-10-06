@@ -1621,7 +1621,7 @@ footer {
   padding-block: clamp(48px, 7vw, 88px);
 }
 
-.blog-index > h2 {
+.blog-index>h2 {
   margin-bottom: 28px;
 }
 
@@ -1735,13 +1735,13 @@ footer {
 
 .blog-article-header {
   max-width: 920px;
-  padding-block: clamp(64px, 10vw, 118px);
+  padding-block: clamp(15px, 3vw, 15px);
 }
 
 .blog-article-header h1 {
   max-width: 18ch;
   margin: 16px 0 22px;
-  font-size: clamp(2.35rem, 5vw, 4.7rem);
+  font-size: 3em;
   line-height: 1.04;
 }
 
@@ -1764,7 +1764,7 @@ footer {
   line-height: 1.78;
 }
 
-.blog-prose > :first-child {
+.blog-prose> :first-child {
   margin-top: 0;
 }
 
@@ -1844,6 +1844,7 @@ footer {
 
   .blog-article-header h1 {
     overflow-wrap: anywhere;
+    font-size: 2.2em;
   }
 }
 
@@ -1854,7 +1855,7 @@ footer {
   overflow-wrap: anywhere;
 }
 
-.blog-article-layout > *,
+.blog-article-layout>*,
 .blog-card-body {
   min-width: 0;
   max-width: 100%;
@@ -1870,7 +1871,7 @@ footer {
   white-space: inherit;
 }
 
-.blog-prose :not(pre) > code {
+.blog-prose :not(pre)>code {
   white-space: normal;
   overflow-wrap: anywhere;
 }

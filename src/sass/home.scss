@@ -1754,7 +1754,7 @@ footer {
   grid-template-columns: minmax(0, 720px) minmax(240px, 320px);
   justify-content: space-between;
   gap: clamp(42px, 7vw, 90px);
-  padding-block: clamp(48px, 7vw, 88px);
+  padding-block: clamp(15px, 1vw, 15px);
 }
 
 .blog-prose {
@@ -1844,7 +1844,7 @@ footer {
 
   .blog-article-header h1 {
     overflow-wrap: anywhere;
-    font-size: 2.2em;
+    font-size: 2.1em;
   }
 }
 

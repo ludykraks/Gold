@@ -1,7 +1,8 @@
 ---
 layout: "layouts/blog-base.html"
 title: "Best Shops to Buy Original iPhones and Samsung In Ghana: Telefonika, Frankophones"
-description: "Looking for a brand-new iPhone or Samsung phone in Ghana? Here are shops to check, plus what to look for before paying.
+description: "Looking for a brand-new iPhone or Samsung phone in Ghana?"
+
 ---
 
 # Where to Buy Original New iPhones and Samsung Phones in Ghana

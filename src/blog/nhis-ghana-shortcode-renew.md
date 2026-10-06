@@ -10,7 +10,7 @@ title: "NHIS Renewal Code"
       MTN or Vodafone networks.</p>
       <p>No more joining of endless and stressful queues at limited NHIS 
       centres to renew your NHIS membership.</p>
-      <p>As part of the <a href="transfer-mtn-mobile-money-to-vodafone-airteltigo">ongoing digitisation of Ghana's economy, Vice President 
+      <p>As part of the <a href="https://goldchestgh.com/blog/transfer-mtn-mobile-money-to-vodafone-airteltigo">ongoing digitisation of Ghana's economy, Vice President 
       Dr Mahamudu Bawumia</a> recently launched a digital innovation designed 
       to make the National Health Insurance Scheme (NHIS) more accessible to its members.<p>
       <p>This new NHIS innovation allows registered NHIS members to:</p> 
@@ -29,7 +29,7 @@ title: "NHIS Renewal Code"
       on your Membership ID below your Date of Birth</p>
      <p>5. Enter the NHIS number again to confirm it</p>
      <p>6. Press Send</p>
-     <p>7. Now follow prompts to pay using your <a href="transfer-mobile-money-to-bank">MTN Mobile Money, AirtelTigo Money or Vodafone Cash</a></p>
+     <p>7. Now follow prompts to pay using your <a href="https://goldchestgh.com/blog/transfer-mobile-money-to-bank">MTN Mobile Money, AirtelTigo Money or Vodafone Cash</a></p>
      <h2>What you should know about the NHIS</h2>
      <p>The renewal is valid for a year. You will need to renew it every year. 
       You are encouraged to renew your membership <strong>a month</strong> before it expires to get uninterrupted NHIS coverage.</p>

@@ -5,7 +5,7 @@ title: "What is NABCO? All you need to know"
 ---
   <img src= "/images/blogpics/nacob-ghana.jpg" alt= "Nation Builders Corps - NABCO" class= "img-responsive center-block">
     
-  <p>Update<em>: Find new NABCO updates, <a href="nabco-recruitment-process-interview">here</a></em></p>
+  <p>Update<em>: Find new NABCO updates, <a href="https://goldchestgh.com/blog/nabco-recruitment-process-interview">here</a></em></p>
 
   <p>President Nana Akufo-Addo on May 1, 2018 launched a new programme known as the Nation Builders Corps (NABCO).<p>
       <p>According to the President of Ghana, he was disturbed by the number of unemployed
@@ -64,7 +64,7 @@ title: "What is NABCO? All you need to know"
    </ul>
     <h2>When will the NABCO interviews begin?</h2>
     <p>The interviews will start on June 18, 2018 and end on July 31, 2018.
-      Check out the <a href="nabco-recruitment-process-interview">timelines for the whole NABCO's application process</a>.</p>
+      Check out the <a href="https://goldchestgh.com/blog/nabco-recruitment-process-interview">timelines for the whole NABCO's application process</a>.</p>
     <h2>When is the NABCO orientation starting? </h2>
     <p>The NABCO orientation will start on September 10, 2018 </p>
     <h2>When will I start working under the NABCO?</h2>

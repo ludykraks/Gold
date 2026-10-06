@@ -33,7 +33,7 @@ title: "5 Ways to Save Up to 60% of your Mobile Data in Ghana"
         <em>Auto-update apps over Wi-Fi only.</em></p>
       <p>On your iPhone, go to Settings, find <em>iTunes and App Store</em> and turn off <em>Automatic Downloads.</em></p>
 
-  <blockquote>Related: <a href= "pay-for-android-apps-mtn-mobile-money">
+  <blockquote>Related: <a href= "https://goldchestgh.com/blog/pay-for-android-apps-mtn-mobile-money">
         <em>Buy Apps on Google Play Store Using MTN Mobile Money</em></a>
       </blockquote>
 

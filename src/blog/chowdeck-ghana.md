@@ -1,7 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
 title: "ChowDeck Enters Ghana with Fresh Competition for Bolt Food"
-
 ---
 
 <img src="/images/blogpics/chowdeck-ghana-launch.jpg" alt="ChowDeck Ghana Launch" class="img-responsive center-block" loading="lazy">

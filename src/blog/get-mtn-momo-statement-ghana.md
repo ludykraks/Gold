@@ -12,7 +12,9 @@ If you haven't signed up for the MTN Statement, use the link below to register [
 
 To register, you will need your mobile money account number and a new password.
 
-The MTN Statement website lets you view and download your statement. The shortcode method asks for an email address. You do not need to install an app to use either method.
+The MTN Statement website lets you view and download your statement. 
+
+The shortcode method asks for an email address. You do not need to install an app to use either method.
 
 
 ## What Is a MoMo Statement?

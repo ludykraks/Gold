@@ -82,7 +82,7 @@ Avoid using one account for household spending, customer payments and supplier p
 
 ## 6. Create a Simple Bookkeeping System
 
-You do not need to wait until the business becomes large. Start recording transactions from the first sale.
+You don't need to wait until the business becomes large. Start recording transactions from the first sale.
 
 At minimum, capture:
 

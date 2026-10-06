@@ -1,8 +1,8 @@
 ---
 layout: "layouts/blog-base.html"
 title: "MTN 4G: All You Need to Know [Code, Data Plan, Sim Card]"
-
 ---
+
   <img src= "/images/blogpics/mtn-4g-network-code.jpg" alt= "MTN Ghana 4G LTE" class= "img-responsive center-block">
    
   <p><strong>Quick Tip: To enjoy MTN Ghana's 4G Data plan, just dial the MTN 4G code *138#, 

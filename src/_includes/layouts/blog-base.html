@@ -4,7 +4,8 @@ layout: layouts/studio.html
 <article class="blog-article">
   <header class="shell blog-article-header">
     <h1>{{ title }}</h1>
-    <p class="blog-article-meta"><time datetime="{{ (page | blogDate).toISOString() }}">{{ page | blogDate |
+    <p class="blog-article-meta">Last updated: <time datetime="{{ (page | blogDate).toISOString() }}">{{ page | blogDate
+        |
         readableBlogDate }}</time></p>
   </header>
   <div class="light-section">

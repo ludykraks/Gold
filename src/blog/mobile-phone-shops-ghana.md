@@ -121,7 +121,7 @@ If the phone is delivered, inspect the package as soon as you receive it and rep
 
 Don't automatically buy from the first shop you find.
 
-Check [Get4Less](https://get4lessghana.com/), [Electroland](https://electrolandgh.com/), Electromart, [Telefonika](https://telefonika.com/), [CompuGhana](https://compughana.com/), [Franko Trading](https://www.frankotrading.com/), [Melcom](https://melcom.com/) and [iStore Ghana](https://istore.com.gh/) and compare:
+Check [Get4Less](https://get4lessghana.com/), [Electroland](https://electrolandgh.com/), [Electromart](https://www.electromart.com.gh/), [Telefonika](https://telefonika.com/), [CompuGhana](https://compughana.com/), [Franko Trading](https://www.frankotrading.com/), [Melcom](https://melcom.com/) and [iStore Ghana](https://istore.com.gh/) and compare:
 
 **Price + exact model + warranty + after-sales support.**
 

@@ -17,7 +17,7 @@ portfolio: true
     {% for project in projects %}
       <article class="portfolio-card{% if loop.first %} portfolio-featured{% endif %}">
         <a class="portfolio-cover {{ project.slug }}" href="/work/{{ project.slug }}/" aria-label="View {{ project.name | escape }} case study">
-          <img src="/images/work/{{ project.slug }}-desktop.jpg" alt="{{ project.name | escape }} website on desktop" width="1440" height="1000" {% if loop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async">
+          <img src="/images/work/{{ project.slug }}-desktop.jpg" alt="{{ project.name | escape }} website on desktop" width="1425" height="926" {% if loop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async">
           <span class="portfolio-open" aria-hidden="true">↗</span>
         </a>
         <div class="portfolio-card-copy">

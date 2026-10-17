@@ -18,7 +18,7 @@ eleventyComputed:
     <p class="case-lead">{{ project.summary | escape }}</p>
     <dl class="case-facts"><div><dt>Client</dt><dd>{{ project.name | escape }}</dd></div><div><dt>Sector</dt><dd>{{ project.sector | escape }}</dd></div><div><dt>Our role</dt><dd>{{ project.service | escape }}</dd></div></dl>
   </header>
-  <div class="case-visual {{ project.slug }}"><div class="shell"><img src="/images/work/{{ project.slug }}-desktop.jpg" alt="{{ project.name | escape }} homepage on desktop" width="1440" height="1000" fetchpriority="high" decoding="async"></div></div>
+  <div class="case-visual {{ project.slug }}"><div class="shell"><img src="/images/work/{{ project.slug }}-desktop.jpg" alt="{{ project.name | escape }} homepage on desktop" width="1425" height="926" fetchpriority="high" decoding="async"></div></div>
   <div class="case-paper">
     <div class="shell case-body">
       <nav class="case-nav" aria-label="Case study sections"><p class="portfolio-meta">Inside the project</p><a href="#challenge">01 / The challenge</a><a href="#approach">02 / Our approach</a><a href="#delivered">03 / What we delivered</a><a href="{{ project.url | escape }}" target="_blank" rel="noopener noreferrer">Visit website <span aria-hidden="true">↗</span><span class="case-sr"> (opens in a new tab)</span></a></nav>
@@ -30,7 +30,7 @@ eleventyComputed:
       </div>
     </div>
     <section class="case-mobile shell" aria-labelledby="mobile-title">
-      <div class="case-phone {{ project.slug }}"><img src="/images/work/{{ project.slug }}-mobile.jpg" alt="{{ project.name | escape }} website at a mobile screen size" width="390" height="844" loading="lazy" decoding="async"></div>
+      <div class="case-phone {{ project.slug }}"><img src="/images/work/{{ project.slug }}-mobile.jpg" alt="{{ project.name | escape }} website at a mobile screen size" width="375" height="812" loading="lazy" decoding="async"></div>
       <div><p class="portfolio-meta">A closer look</p><h2 id="mobile-title">{{ project.detailTitle | escape }}</h2><p>{{ project.detail | escape }}</p><p class="case-caption">Desktop and mobile views of the project website.</p></div>
     </section>
     <section class="case-delivered shell" id="delivered" aria-labelledby="delivered-title"><p class="portfolio-meta">03 / What we delivered</p><h2 id="delivered-title">{{ project.deliveredTitle | escape }}</h2><div class="case-deliverables">{% for item in project.deliverables %}<div><span class="case-number">0{{ loop.index }}</span><h3>{{ item.title | escape }}</h3><p>{{ item.text | escape }}</p></div>{% endfor %}</div></section>

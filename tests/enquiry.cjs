@@ -3,6 +3,10 @@ const fs = require('node:fs');
 const vm = require('node:vm');
 
 const html = fs.readFileSync('public/start-a-project/index.html', 'utf8');
+const contact = fs.readFileSync('public/contact/index.html', 'utf8');
+assert.equal(contact.match(/<form[\s\S]*?<\/form>/)[0], html.match(/<form[\s\S]*?<\/form>/)[0], 'Contact and project pages share the same form');
+assert(contact.includes('src="/js/enquiry.js"'));
+assert.equal((contact.match(/id="website-enquiry"/g) || []).length, 1);
 assert(html.includes('name="website-enquiry"'));
 assert(html.includes('method="POST"'));
 assert(html.includes('data-netlify="true"'));

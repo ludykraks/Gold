@@ -13,10 +13,9 @@
 .privacy-copy a { color: #765300; text-decoration: underline; text-underline-offset: 3px; }
 .privacy-copy li { margin-bottom: 12px; }
 .privacy-copy ul { padding-left: 24px; }
-.privacy-summary, .privacy-review { padding: clamp(20px, 3vw, 32px); border-radius: 4px; }
+.privacy-summary { padding: clamp(20px, 3vw, 32px); border-radius: 4px; }
 .privacy-summary { background: #f7efd9; border-left: 4px solid #b38320; }
-.privacy-review { margin-bottom: 24px; border: 1px solid #b38320; }
-.privacy-summary p:last-child, .privacy-review p:last-child { margin-bottom: 0; }
+.privacy-summary p:last-child { margin-bottom: 0; }
 .privacy-copy dt { font-weight: 700; margin-top: 20px; }
 .privacy-copy dd { margin: 6px 0 0; }
 @media (max-width: 800px) {

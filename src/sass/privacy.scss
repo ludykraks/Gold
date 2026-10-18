@@ -1,4 +1,5 @@
-.privacy-hero .privacy-meta { font-size: .9rem; color: var(--gold); }
+.privacy-hero p.privacy-meta { font-size: .9rem; color: var(--gold); }
+.privacy-nav h2.eyebrow { font-size: .82rem; letter-spacing: .12em; }
 .privacy-layout { display: grid; grid-template-columns: minmax(180px, .7fr) minmax(0, 2fr); gap: clamp(32px, 6vw, 96px); padding-block: 64px 88px; }
 .privacy-nav { align-self: start; position: sticky; top: calc(var(--header-height) + 24px); }
 .privacy-nav ol { list-style: none; padding: 0; margin: 20px 0; }

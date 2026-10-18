@@ -1,9 +1,8 @@
 ---
-title: 'GoldChest Technologies - Privacy Statement'
+title: 'Privacy | Goldchest Technologies'
 layout: 'layouts/privacy.html'
-
-process: 
- intro: "This is our Privacy Policy"
- summary: "Know More About our Privacy Policy"
+description: 'How Goldchest handles project enquiries and business contact information, and how to exercise your privacy rights.'
+privacy: true
+noindex: true
 ---
 

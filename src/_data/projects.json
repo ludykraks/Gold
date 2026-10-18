@@ -1,1 +1,126 @@
-[]
+[
+  {
+    "slug": "kraftgurus",
+    "name": "KraftGurus",
+    "shortName": "KraftGurus",
+    "category": "Website & booking experience",
+    "sector": "Arts & learning",
+    "service": "Web design, development & integrations",
+    "url": "https://kraftgurus.com/",
+    "headline": "From discovering a workshop to booking a place.",
+    "summary": "A website for exploring Indian arts experiences, with scheduling, payment and online delivery connected around the way KraftGurus works.",
+    "challengeTitle": "A service worth discovering. A booking journey to match.",
+    "challenge": "KraftGurus offers workshops, lectures and courses in Indian arts. The website needed to introduce these experiences and give customers a way to choose a session, book and pay.",
+    "approachTitle": "A booking experience built around the service",
+    "approach": [
+      "KraftGurus needed customers to explore its workshops, lectures and courses, then book and pay for a session.",
+      "We used WordPress to showcase the experiences. For this project, the standard shopping-cart process didn’t offer the booking journey we wanted, so we connected Calendly for scheduling, Stripe for payments and Microsoft Teams for online delivery.",
+      "Each platform had a clear role, allowing us to shape the website around how KraftGurus delivers its services."
+    ],
+    "platforms": [
+      {
+        "name": "WordPress",
+        "role": "Explore the experiences"
+      },
+      {
+        "name": "Calendly",
+        "role": "Schedule a session"
+      },
+      {
+        "name": "Stripe",
+        "role": "Pay for the booking"
+      },
+      {
+        "name": "Microsoft Teams",
+        "role": "Join the online session"
+      }
+    ],
+    "detailTitle": "Room for the craft. Clarity for the customer.",
+    "detail": "Artwork and workshop imagery introduce the experiences. Dedicated pages bring the session format, duration and practical details together, so visitors can understand what they are booking.",
+    "deliveredTitle": "One experience, supported by the right tools.",
+    "deliverables": [
+      {
+        "title": "A home for the experiences",
+        "text": "A WordPress website presenting workshops, lectures and courses, with individual pages for the sessions."
+      },
+      {
+        "title": "Booking and payment setup",
+        "text": "Calendly scheduling connected with Stripe payments to support the session booking process."
+      },
+      {
+        "title": "Online session delivery",
+        "text": "Microsoft Teams integrated into the setup for delivering online learning sessions."
+      }
+    ]
+  },
+  {
+    "slug": "cheezzy-pizza",
+    "name": "Cheezzy Pizza",
+    "shortName": "Cheezzy Pizza",
+    "category": "Redesign & e-commerce",
+    "sector": "Food & hospitality",
+    "service": "Website redesign & e-commerce development",
+    "url": "https://cheezzypizza.com/",
+    "headline": "A fresh website for browsing the menu and ordering online.",
+    "summary": "An e-commerce redesign that brings the menu, product options and online ordering into the Cheezzy Pizza website.",
+    "challengeTitle": "Make the menu part of the shopping experience.",
+    "challenge": "Cheezzy Pizza needed a redesigned website that could present its food and support online orders. Customers needed to find their favourites, see the available options and know where to go next.",
+    "approachTitle": "Built around the appetite to order.",
+    "approach": [
+      "We redesigned and developed the website around the menu and shopping journey. Food imagery and direct ordering links make the products central to the experience.",
+      "Product categories organise pizzas, meals, starters and drinks. Product pages present the available choices, while branch information, contact details and FAQs support customers who need a little more information."
+    ],
+    "detailTitle": "The menu, wherever customers are.",
+    "detail": "The mobile website keeps food imagery, product names and ordering links within reach. Customers can browse the range and explore product options from their phone.",
+    "deliveredTitle": "From a website visit to an online order.",
+    "deliverables": [
+      {
+        "title": "A redesigned storefront",
+        "text": "A refreshed website with food imagery, featured products and direct links into the online shop."
+      },
+      {
+        "title": "An e-commerce catalogue",
+        "text": "Menu categories and product pages with options for customers to select before ordering."
+      },
+      {
+        "title": "Useful customer information",
+        "text": "Branch details, FAQs and contact information alongside the shopping experience."
+      }
+    ]
+  },
+  {
+    "slug": "frantomapa",
+    "name": "Frantomapa Educational Aid",
+    "shortName": "Frantomapa",
+    "category": "Website redesign & development",
+    "sector": "Education & nonprofit",
+    "service": "Full website redesign & development",
+    "url": "https://frantomapa.netlify.app/",
+    "headline": "An important mission, brought into focus.",
+    "summary": "A complete website redesign presenting Frantomapa’s education work, its programmes and the ways people can get involved.",
+    "challengeTitle": "Help visitors understand the work and how to support it.",
+    "challenge": "Frantomapa Educational Aid works to expand educational opportunity and STEM learning for underprivileged children in Ghana. Its website needed to bring that mission, its projects and ways to offer support together.",
+    "approachTitle": "Start with the mission. Make the next step clear.",
+    "approach": [
+      "We redesigned and developed the website to introduce Frantomapa’s purpose immediately, supported by photography of its education work.",
+      "Project highlights give visitors concrete examples of the organisation’s activities. Dedicated information about the team and programmes adds context, while donation information and contact routes give people a way to get involved."
+    ],
+    "detailTitle": "The people and purpose stay at the centre.",
+    "detail": "The mobile layout carries the mission and calls to action into a single-column reading experience. Visitors can discover the work, find donation information and contact the organisation.",
+    "deliveredTitle": "A clear home for the mission and the work.",
+    "deliverables": [
+      {
+        "title": "A complete website redesign",
+        "text": "A refreshed visual design and page structure for introducing the organisation and its purpose."
+      },
+      {
+        "title": "Projects and programmes",
+        "text": "Space to showcase education initiatives, the team and the Kidpreneurship programme."
+      },
+      {
+        "title": "Ways to get involved",
+        "text": "Donation information, contact details and a WhatsApp link for enquiries and support."
+      }
+    ]
+  }
+]

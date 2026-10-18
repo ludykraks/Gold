@@ -11,9 +11,7 @@ title: "How to Send Money from Vodafone/Telecel Cash to MTN Mobile Money and Air
         money accounts belonging to different mobile money operators or between
         a mobile money account and a bank account.</p>
       <p>Below are the steps to follow to transfer money from Vodafone Cash to MTN Mobile Money or AirtelTigo Money:</p>
-      <div class="videoWrapper">
-      <iframe width="1349" height="488" src="https://www.youtube.com/embed/gNm96sCKA-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      <p><a href="https://www.youtube.com/watch?v=gNm96sCKA-4" rel="noopener noreferrer">Watch the Vodafone/Telecel Cash transfer guide on YouTube</a> (opens YouTube).</p>
       <h2>Transfer money from Vodafone/Telecel Cash account to MTN Mobile Money account</h2>
       <p>1. Dial the Vodafone Cash short code *110# </p>
       <p>2. Select <em>Send Money</em></p>

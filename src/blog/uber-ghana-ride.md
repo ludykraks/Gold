@@ -55,7 +55,7 @@ title: "All you Need to Know About Uber Ghana as a Rider or Driver and Uber Conn
       <h2>Payment Method</h2>
       <p>Uber Ghana accepts:</p>
       <p>Cash and <br> Debit/Credit Card <br>
-        <a href="what-is-mtn-momo">Uber Cash</a>. You can now make payments using MTN MoMo, Vodafone Cash or AirtelTigo Money. </p>
+        <a href="https://goldchestgh.com/blog/what-is-mtn-momo">Uber Cash</a>. You can now make payments using MTN MoMo, Vodafone Cash or AirtelTigo Money. </p>
       <p>Cash payment: When you arrive at your destination, the driver will confirm the fare and you pay.</p>
       <p>You may rate the driver after the trip.</p>
       <h2>Uber Ghana Promo Codes & Free Rides</h2>
@@ -78,7 +78,7 @@ title: "All you Need to Know About Uber Ghana as a Rider or Driver and Uber Conn
       <p>When you get into your Uber car, make sure the driver starts the trip on his/her app.</p>
       <p>Wishing you a smooth ride. Let us know how your first Uber trip went.</p>
 
-<blockquote>Related Post: <a href= "glovo-food-app">
+<blockquote>Related Post: <a href="https://goldchestgh.com/blog/glovo-food-app">
        <em>Try Glovo Food App and Get Discounts</em></a>
       </blockquote>
     

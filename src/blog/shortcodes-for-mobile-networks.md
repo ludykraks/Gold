@@ -1,7 +1,7 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2025"
-
+title: "Short Codes for Vodafone/Telecel, MTN, AirtelTigo and Glo Ghana - 2026"
+description: "Below, you will find the various MTN short codes, Telecel short codes and AirtelTigo short codes in Ghana."
 ---
 
  <p>With most mobile users in Ghana using two or more sim cards from different mobile networks, it is

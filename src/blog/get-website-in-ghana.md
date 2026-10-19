@@ -64,7 +64,7 @@ title: "How to Get Your Website in Simple Steps in Ghana"
         hosting packages as they are mostly neither reliable nor secure. If you
         want a good one, you should be willing to pay at least GH₵ 400 per year.</p>
       <h2>Designing and Development of the Website</h2>
-      <p><a href="know-web-design-companies-ghana">Web design companies</a> will have to design and develop websites that suit your
+      <p><a href="https://goldchestgh.com/blog/know-web-design-companies-ghana">Web design companies</a> will have to design and develop websites that suit your
         desires.</p>
       <p>It takes skills and time to come up with design ideas. And a designer/developer will
         have to code and/or use paid-for software to turn those ideas into a beautiful and functional website.</p>

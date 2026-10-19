@@ -1,5 +1,36 @@
 {% extends "layouts/studio.html" %}
 {% block content %}
-<section class="page-hero shell"><p class="eyebrow">Let’s talk</p><h1>Tell us what you<br>have in mind.</h1><p>A new website, a better online shop or help reaching your customers. Tell us where you are and where you’d like to go.</p></section>
-<section class="light-section"><div class="shell contact-grid"><div><h2>Start a conversation.</h2><p>Call us on <a href="tel:+233207615706">+233 20 761 5706</a> or send us a message through our Facebook page.</p><a class="button button-dark" href="tel:+233207615706">Call GoldChest ↗</a><p style="margin-top:24px"><a href="https://www.facebook.com/goldchestgh/" target="_blank" rel="noopener noreferrer">Message us on Facebook ↗<span class="sr-only"> (opens in a new tab)</span></a></p><p>Based in Ghana. Working with businesses in the UK, US and South Africa.</p></div><div><h2>A few things to tell us.</h2><ul><li>What your business does and who you want to reach</li><li>Your existing website, if you have one</li><li>What you’d like to improve or build</li><li>Your preferred timing and any budget you have in mind</li></ul><p>You don’t need to have it all figured out. We’ll help you work through the options.</p></div></div></section>
+<section class="shell page-hero enquiry-hero">
+    <p class="eyebrow">Your next chapter starts here</p>
+    <h1>Let’s work through it together.</h1>
+    <p>Need a new website, a fresh look or help reaching more customers?</p>
+    <a class="button" href="#website-enquiry">Tell us about your project <span aria-hidden="true">↓</span></a>
+</section>
+<section class="light-section">
+    <div class="shell enquiry-layout">
+        <aside class="enquiry-expectations" aria-labelledby="next-heading">
+            <p class="eyebrow">Our partnership starts with a conversation</p>
+            <h2 id="next-heading">What would you like to do better?</h2>
+            <p>From websites and online shops to social media, paid ads and search, we help businesses turn their
+                digital presence into something that works for them.</p>
+            <ol class="enquiry-steps">
+                <li><strong>Tell us what you need.</strong>
+                    <p>Share your challenge, your goals and anything you’ve tried so far.</p>
+                </li>
+                <li><strong>We’ll take a closer look.</strong>
+                    <p>Our team will review your enquiry and get in touch to understand what matters most to you.</p>
+                </li>
+                <li><strong>Let’s agree on the next step.</strong>
+                    <p>We can arrange a call to talk through the options, timing and scope.</p>
+                </li>
+            </ol>
+            <h3>Prefer to get in touch directly?</h3>
+            <p><a href="mailto:hello@goldchestgh.com">hello@goldchestgh.com</a><br><a href="tel:+233207615706">+233 20
+                    761 5706</a></p>
+            <p>Based in Ghana. Working with businesses in the UK, US, South Africa and beyond.</p>
+        </aside>
+        {% include "partials/project-enquiry.html" %}
+    </div>
+</section>
+<script src="/js/enquiry.js" defer></script>
 {% endblock %}

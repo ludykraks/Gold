@@ -23,5 +23,5 @@ title: "How to Save WhatsApp Status Video and Picture on your Android Phone"
       
   <p>Note: WhatsApp Statuses are available for only 24 hours. Remember to save them while they are available. </p>
       
-  <blockquote>Related: <a href= "change-whatsapp-text-appearance"><em>How to Change Your WhatsApp Text Appearance</em></a>
+  <blockquote>Related: <a href= "https://goldchestgh.com/blog/change-whatsapp-text-appearance"><em>How to Change Your WhatsApp Text Appearance</em></a>
       </blockquote>

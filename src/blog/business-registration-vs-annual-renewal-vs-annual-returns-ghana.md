@@ -41,7 +41,7 @@ If you trade under a sole-proprietor business name, this is the recurring ORC pr
 
 Owners can file annual renewal without an app by dialling `*222#`. Follow the following steps:
 
-1. Dial `*222#` and choose **ORC**.
+1. Dial the ORC short code `*222#` and choose **ORC**.
 2. Enter the business registration number.
 3. Choose **File Annual Renewal**.
 4. Check the filing history and outstanding amount.

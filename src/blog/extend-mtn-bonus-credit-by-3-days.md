@@ -18,7 +18,7 @@ title: "MTN Promotions: Free After 1, Kokrokoo, Mashup, Special Data [2025]"
       select <em>Kokrooko</em> to subscribe now.</p>
 
 <h2>MTN Mashup</h2>
-      <p>Mashup is one of the most exciting features of <a href="mtn-pulse-app">MTN
+      <p>Mashup is one of the most exciting features of <a href="https://goldchestgh.com/blog/mtn-pulse-app">MTN
       Pulse.</a> This is for users who like to balance between making
       phone calls and browsing the internet.</p>
       <p>The Mashup comes in Daily, Weekly and Monthly bundles and they cost GH&#8373; 1,

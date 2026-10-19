@@ -27,7 +27,7 @@ title: "Glovo App: Food Delivery Service in Ghana"
 
   <h2>Why Should I Use Glovo App?</h2>
       <p>Yes, it's true there are other food delivery businesses in Accra you can use to order your food and drinks.</p>
-      <p>There is <a href="bolt-food-ghana">Bolt Food</a>, Jumia Food, ShopNaw App, Pizarea and slew of other apps, 
+      <p>There is <a href="https://goldchestgh.com/blog/bolt-food-ghana">Bolt Food</a>, Jumia Food, ShopNaw App, Pizarea and slew of other apps, 
       but here are why reasons you should try Glovo.</p>
       <ul>
        <li>Glovo's delivery prices are relatively low. You get to pay 

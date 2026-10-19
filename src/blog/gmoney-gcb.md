@@ -11,7 +11,7 @@ title: "G-Money: GCB's new Mobile Money Service"
       money to their friends and family members, pay bills, pay for goods 
       and service, buy airtime, link their bank account and transfer money to any mobile money service.</p>
      <h2>Which platforms can I use G-Money? </h2>
-     <p>GCB's G-Money service supports <a href="shortcodes-for-mobile-networks">MTN, Vodafone and AirtelTigo networks.</a></p>
+     <p>GCB's G-Money service supports <a href="https://goldchestgh.com/blog/shortcodes-for-mobile-networks">MTN, Vodafone and AirtelTigo networks.</a></p>
      <h2>What is the difference between G-Money and GCB Mobile Banking?</h2>
      <p>As a customer of GCB, you may be asking is this question. Well, 
      G-Money is an electronic wallet where anyone at all can register, 

@@ -1,7 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
 title: "What is AT Money? Registration, Uses & Everything You Need to Know (2026)"
-
 ---
 
 ![AT Money Ghana, formerly AirtelTigo Money](/images/blogpics/airteltigo-money-code.jpg)

@@ -1,7 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
 title: "What is MTN MoMo? How to Register & Uses"
-
 ---
   <img src= "/images/blogpics/mtn-momo.jpg" alt= "MTN MoMo, MTN Mobile Money" class= "img-responsive center-block">
      

@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Create Your First Paypal Account in Ghana (2024)"
+title: "Create Your First Paypal Account in Ghana (2026)"
 
 ---
 

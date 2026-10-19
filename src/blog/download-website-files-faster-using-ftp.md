@@ -99,3 +99,7 @@ These two files contain the core components needed for a manual WordPress backup
 Before downloading a large website through FTP, check whether your hosting provider lets you compress the website folder first.
 
 Spending a few minutes creating an archive on the server can save a significant amount of transfer time.
+
+## Safety
+
+Delete the Archived and Database Files from Your Public Folder after downloading them locally for your safety. 

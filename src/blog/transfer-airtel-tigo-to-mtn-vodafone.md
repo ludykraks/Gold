@@ -1,6 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
-title: "Send Money from AirtelTigo Money to Vodafone Cash or MTN MoMo"
+title: "Send Money from AirtelTigo Money to Telecel Cash or MTN MoMo"
 
 ---
   <img src= "/images/blogpics/mobile-money-interoperability.png" alt= "AirtelTigoMoney" class= "img-responsive center-block">

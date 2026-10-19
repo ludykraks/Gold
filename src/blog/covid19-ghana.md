@@ -6,11 +6,7 @@ title: "COVID-19 Ghana Tracker App, Updates and Resources"
 
  <p>Find below latest updates provided by the Ghana Health Service as at <span style="color:#ff4200; font-style: italics;"> <?php echo date("l, jS F Y"); ?> </span></p>
  
-<div style="width: 100%;">
-       <iframe width="100%" height="500" frameborder="0" scrolling="no" 
-       marginheight="0" marginwidth="0" title="COVID-19 Ghana Updates: Cases, Deaths" src="https://experience.arcgis.com/experience/df7c6fc5a5eb411f8957ff43ecbd9353"> 
-      </iframe>
-      </div>
+<p><a href="https://experience.arcgis.com/experience/df7c6fc5a5eb411f8957ff43ecbd9353" rel="noopener noreferrer">Open the Ghana COVID-19 dashboard on ArcGIS</a> (external website).</p>
       <hr>
       
 <p>The world is currently experiencing a global COVID-19 pandemic and Ghana 
@@ -64,5 +60,4 @@ title: "COVID-19 Ghana Tracker App, Updates and Resources"
       <p>1. <a href="https://ghanahealthservice.org/covid19/" rel="noopener">Ghana Health Service COVID-19</a> website</p>
       <p>2. <a href="https://www.google.com/covid19/" rel="noopener">Official Google COVID-19 Information and resources</a> website</p> 
       <p>3. <a href="https://www.cdc.gov/coronavirus/2019-nCoV/index.html" rel="noopener">CDC US COVID-19 Information Center</a> website</p>
-      <p>4. <a href="https://coronavirus.jhu.edu/map.html" rel="noopener noreferrer">John Hopkins University Resource Center</a> map</p> 
-       
+      <p>4. <a href="https://coronavirus.jhu.edu/map.html" rel="noopener noreferrer">John Hopkins University Resource Center</a> map</p>

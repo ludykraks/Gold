@@ -1,9 +1,11 @@
 ---
 layout: "layouts/blog-base.html"
+youtube: true
 title: "How to Send Money from Vodafone/Telecel Cash to MTN Mobile Money and AirtelTigo Money"
 
 ---
-  <img src= "/images/blogpics/mobile-money-interoperability.png" alt= "MTN, Vodafone,
+
+{% from "partials/youtube.njk" import youtube %}  <img src= "/images/blogpics/mobile-money-interoperability.png" alt= "MTN, Vodafone,
            AirtelTigo Mobile Money Interoperability" class= "img-responsive center-block">
      
    <p>Mobile money interoperability in Ghana started a few days ago and <a href="http://www.ghipss.net/news-and-events/143-mobile-money-made-easy" target="_blank">it is now more easy and seamless</a> to send money across all networks.</p>
@@ -11,7 +13,7 @@ title: "How to Send Money from Vodafone/Telecel Cash to MTN Mobile Money and Air
         money accounts belonging to different mobile money operators or between
         a mobile money account and a bank account.</p>
       <p>Below are the steps to follow to transfer money from Vodafone Cash to MTN Mobile Money or AirtelTigo Money:</p>
-      <p><a href="https://www.youtube.com/watch?v=gNm96sCKA-4" rel="noopener noreferrer">Watch the Vodafone/Telecel Cash transfer guide on YouTube</a> (opens YouTube).</p>
+      {{ youtube("gNm96sCKA-4", "Vodafone/Telecel Cash transfer guide") }}
       <h2>Transfer money from Vodafone/Telecel Cash account to MTN Mobile Money account</h2>
       <p>1. Dial the Vodafone Cash short code *110# </p>
       <p>2. Select <em>Send Money</em></p>

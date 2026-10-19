@@ -1,0 +1,10 @@
+{% macro youtube(id, title) %}
+<div class="youtube-embed" data-youtube-id="{{ id | escape }}" data-video-title="{{ title | escape }}">
+  <div class="youtube-placeholder">
+    <p><strong>{{ title | escape }}</strong></p>
+    <p>Loading this video connects to YouTube, which may use cookies and receive information about your visit.</p>
+    <button type="button" class="button button-dark" data-load-video hidden>Load YouTube video</button>
+    <p><a href="https://www.youtube.com/watch?v={{ id | urlencode }}" rel="noopener noreferrer">Watch on YouTube</a></p>
+  </div>
+</div>
+{% endmacro %}

@@ -1,9 +1,11 @@
 ---
 layout: "layouts/blog-base.html"
+youtube: true
 title: "How to Sell MTN Shares Using MTN Mobile Money"
 
 ---
 
+{% from "partials/youtube.njk" import youtube %}
   <img src= "/images/blogpics/trade-mtn-shares.jpg" alt= "Sell MTN Shares" class= "img-responsive center-block" loading="lazy">
      
   <p>Visit the following link to head straight to the 
@@ -40,7 +42,7 @@ title: "How to Sell MTN Shares Using MTN Mobile Money"
         only available to individual clients of IC Ghana Securities.</p>
               
   <h2>Buy Additional or new MTN Ghana Shares</h2>  
-      <p><a href="https://www.youtube.com/watch?v=CvJh_VFHsWU" rel="noopener noreferrer">Watch the guide to buying MTN Ghana shares on YouTube</a> (opens YouTube).</p>
+      {{ youtube("CvJh_VFHsWU", "guide to buying MTN Ghana shares") }}
       <p>1. Dial MTN Mobile Money short code: *170# </p>
       <p>2. Select <em>Financial Services</em> and choose <em>Trade MTN Shares</em></p>
       <p>3. Enter your MTN Mobile Money PIN to access the trading menu.</p>

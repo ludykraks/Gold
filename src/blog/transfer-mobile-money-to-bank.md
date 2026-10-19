@@ -1,15 +1,17 @@
 ---
 layout: "layouts/blog-base.html"
+youtube: true
 title: "How to Transfer Money from Mobile Money to a Bank Account"
 
 ---
 
+{% from "partials/youtube.njk" import youtube %}
   <p>The phase 1 of the mobile money interoperability in Ghana allows mobile money
         subscribers to send money from a mobile money wallet to a bank account (Wallet to Bank).</p>
       <p>Here is how you do it:</p>
 
   <h2>Transfer money from MTN Mobile Money wallet to bank account</h2>
-      <p><a href="https://www.youtube.com/watch?v=mHtnWgi5jlY" rel="noopener noreferrer">Watch the MTN Mobile Money to bank account guide on YouTube</a> (opens YouTube).</p>
+      {{ youtube("mHtnWgi5jlY", "MTN Mobile Money to bank account guide") }}
       <p>1. Dial MTN Mobile Money short code: *170#</p>
       <p>2. Select Transfer Money</p>
       <p>3. Select Bank Account</p>
@@ -20,7 +22,7 @@ title: "How to Transfer Money from Mobile Money to a Bank Account"
       <p>8. Enter your PIN to confirm and complete the transaction</p>
 
    <h2>Send money from Vodafone/Telecel Cash wallet to bank account</h2>
-       <p><a href="https://www.youtube.com/watch?v=v7N9AQV-8jM" rel="noopener noreferrer">Watch the Vodafone/Telecel Cash to bank account guide on YouTube</a> (opens YouTube).</p>
+       {{ youtube("v7N9AQV-8jM", "Vodafone/Telecel Cash to bank account guide") }}
       <p>1. Dial Vodafone / Telecel Cash short code: *110# </p>
       <p>2. Select Send Money</p>
       <p>3. Choose To Bank Account</p>

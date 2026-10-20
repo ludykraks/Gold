@@ -18,8 +18,6 @@
 .not-found-art { position: relative; min-width: 0; isolation: isolate; }
 .not-found-number { position: absolute; inset: 0; font: 800 clamp(7rem, 17vw, 17rem)/1.3 Manrope, sans-serif; letter-spacing: -.07em; color: #e9ddc1; text-align: center; z-index: -1; }
 .not-found-chest { display: block; width: 100%; height: auto; overflow: visible; }
-.chest-lid { transform-origin: 310px 260px; animation: chest-open 1.4s cubic-bezier(.22,.61,.36,1) both; }
-@keyframes chest-open { from { transform: translateY(17px) scaleY(.08); } to { transform: none; } }
 @media (max-width: 760px) {
   .not-found { padding: 24px 0 56px; }
   .not-found-inner { grid-template-columns: 1fr; gap: 0; text-align: center; }
@@ -30,4 +28,3 @@
   .not-found-actions .button { width: 100%; justify-content: center; }
   .not-found .not-found-label { margin-bottom: 16px; }
 }
-@media (prefers-reduced-motion: reduce) { .chest-lid { animation: none; } }

@@ -185,10 +185,10 @@
   ],
   "closing": {
     "heading": "Not sure where to start?",
-    "description": "Our free planning tool gives you three practical next steps based on your answers.",
+    "description": "Tell us about your business and what you’d like to improve. We’ll help you work out the next step.",
     "link": {
-      "text": "Find my next steps ↗",
-      "url": "/action-plan/"
+      "text": "Tell us about your project ↗",
+      "url": "/start-a-project/"
     }
   }
 }

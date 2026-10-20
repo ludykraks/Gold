@@ -1,10 +1,7 @@
 {% macro youtube(id, title) %}
-<div class="youtube-embed" data-youtube-id="{{ id | escape }}" data-video-title="{{ title | escape }}">
-  <div class="youtube-placeholder">
-    <p><strong>{{ title | escape }}</strong></p>
-    <p>Loading this video connects to YouTube, which may use cookies and receive information about your visit.</p>
-    <button type="button" class="button button-dark" data-load-video hidden>Load YouTube video</button>
-    <p><a href="https://www.youtube.com/watch?v={{ id | urlencode }}" rel="noopener noreferrer">Watch on YouTube</a></p>
-  </div>
+<div class="youtube-embed videoWrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ id | urlencode }}" title="{{ title | escape }}"
+    width="1280" height="720" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 {% endmacro %}

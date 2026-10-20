@@ -7,7 +7,7 @@ Updated 18 October 2026.
 - Goldchest Technologies, P.O. Box DS 470, Dansoman Estate, Accra, Ghana.
 - Zoho Mail is the current business email provider. Netlify hosts the website and handles enquiry forms. Google AdSense is enabled; the owner confirms a certified UK/EU consent message is enabled.
 - Delete unsuccessful enquiries within 12 months after the last meaningful contact. Delete unanswered prospect records within six months after the last outreach. Keep active discussions while relevant, and client records according to applicable contractual/accounting/claims needs. Retain minimal suppression records to honour objections.
-- Four YouTube iframes and one ArcGIS iframe have been replaced with ordinary external links. No external preview images, players, scripts or new dependencies were added.
+- Four YouTube videos use direct, lazy-loaded privacy-enhanced iframes. These can contact YouTube before playback when near the viewport; there is no separate load button. ArcGIS remains an external link. Verify regional consent handling with the configured consent provider.
 - Public draft labels and noindex have been removed. Speculative future tools are omitted. No claim of blanket legal compliance or EU-only storage is made.
 
 ## Simple operating routine

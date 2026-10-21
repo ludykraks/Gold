@@ -89,6 +89,51 @@
     ]
   },
   {
+    "slug": "odotastic",
+    "name": "Odotastic",
+    "shortName": "Odotastic",
+    "category": "E-commerce & digital marketing",
+    "sector": "Art & lifestyle retail",
+    "service": "E-commerce, social media, Meta ads & Google Business Profile",
+    "url": "https://odotastic.com/",
+    "socialUrl": "https://www.instagram.com/odotastic/",
+    "desktopWidth": 1424,
+    "desktopHeight": 940,
+    "mobileWidth": 374,
+    "mobileHeight": 784,
+    "headline": "A place to discover stickers. A way to make them yours.",
+    "summary": "An online store for sticker lovers, supported by social media strategy, content creation, Meta advertising and a Google Business Profile.",
+    "challengeTitle": "Bring the brand online. Make ordering straightforward.",
+    "challenge": "Odotastic needed an online presence and a place where art lovers could explore its stickers and place orders. Alongside the shop, the business needed a way to introduce its products to potential customers.",
+    "approachTitle": "Build the shop, then help people discover it.",
+    "approach": [
+      "We designed and developed an e-commerce website where customers could browse sticker collections, explore individual products and place an order. The shop gave Odotastic a dedicated home online and a destination to share through its marketing.",
+      "We also created a social media strategy and content for the brand, and supported its marketing with Meta ads. This work complemented the website by introducing the products through social channels.",
+      "To establish the business’s presence on Google Search, we created a Google Business Profile. The website, social media and business listing each played a part in making Odotastic accessible online."
+    ],
+    "detailTitle": "Let the stickers do the talking.",
+    "detail": "Product imagery puts the designs at the centre of the shopping experience. Collections help visitors explore styles that interest them, while product listings and ordering links give them a clear next step.",
+    "deliveredTitle": "A storefront and the marketing to support it.",
+    "deliverables": [
+      {
+        "title": "An e-commerce website",
+        "text": "A website for exploring sticker collections, viewing products and placing orders online."
+      },
+      {
+        "title": "Social strategy and content",
+        "text": "A social media strategy and content created to introduce the brand and showcase its products."
+      },
+      {
+        "title": "Meta advertising",
+        "text": "Support with Meta ads as part of the brand’s social media marketing."
+      },
+      {
+        "title": "Google Business Profile",
+        "text": "A business listing created to establish Odotastic’s presence on Google Search."
+      }
+    ]
+  },
+  {
     "slug": "frantomapa",
     "name": "Frantomapa Educational Aid",
     "shortName": "Frantomapa",

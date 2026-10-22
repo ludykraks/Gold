@@ -12,16 +12,17 @@
 .portfolio-section-label > span { font-size: .8rem; color: #5b615b; }
 .portfolio-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 64px 36px; }
 .portfolio-card { min-width: 0; }
-.portfolio-featured { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); background: #eae8df; }
+.portfolio-featured, .portfolio-wide { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); background: #eae8df; }
 .portfolio-cover { display: block; position: relative; padding: 42px 30px; overflow: hidden; }
 .kraftgurus { background: #c9d5c5; }
 .cheezzy-pizza { background: #e9c2ac; }
 .frantomapa { background: #e5d4b0; }
+.odotastic { background: #eee6b9; }
 .portfolio-cover img { display: block; width: 100%; height: auto; box-shadow: 0 18px 35px #16221b26; transition: transform .25s ease; }
 .portfolio-cover:hover img { transform: translateY(-5px); }
 .portfolio-open { position: absolute; right: 16px; bottom: 16px; display: grid; place-items: center; width: 44px; height: 44px; color: white; background: var(--charcoal); border-radius: 50%; font-size: 1.4rem; }
 .portfolio-card-copy { padding-top: 28px; }
-.portfolio-featured .portfolio-card-copy { padding: clamp(28px, 3vw, 48px); align-self: center; }
+.portfolio-featured .portfolio-card-copy, .portfolio-wide .portfolio-card-copy { padding: clamp(28px, 3vw, 48px); align-self: center; }
 .studio .portfolio-meta { text-transform: uppercase; letter-spacing: .1em; font-size: .7rem; font-weight: 700; color: #5a6058; margin-bottom: 22px; }
 .portfolio-meta span { margin-inline: 6px; }
 .studio .portfolio-client { font-size: .95rem; font-weight: 600; margin-bottom: 14px; }
@@ -74,9 +75,9 @@
 .case-more a:hover strong { color: var(--gold); }
 .case-sr { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 @media (max-width: 950px) {
-  .portfolio-featured { grid-template-columns: 1fr; }
-  .portfolio-featured .portfolio-cover { padding: 40px; }
-  .portfolio-featured .portfolio-card-copy { padding: 32px; }
+  .portfolio-featured, .portfolio-wide { grid-template-columns: 1fr; }
+  .portfolio-featured .portfolio-cover, .portfolio-wide .portfolio-cover { padding: 40px; }
+  .portfolio-featured .portfolio-card-copy, .portfolio-wide .portfolio-card-copy { padding: 32px; }
   .case-body { grid-template-columns: 180px minmax(0, 1fr); gap: 35px; }
 }
 @media (max-width: 650px) {
@@ -85,8 +86,8 @@
   .portfolio-intro .portfolio-link, .portfolio-cta .button { margin-top: 24px; }
   .portfolio-work { padding-block: 36px 55px; }
   .portfolio-grid { grid-template-columns: 1fr; gap: 45px; }
-  .portfolio-cover, .portfolio-featured .portfolio-cover { padding: 28px 18px; }
-  .portfolio-featured .portfolio-card-copy { padding: 26px 22px; }
+  .portfolio-cover, .portfolio-featured .portfolio-cover, .portfolio-wide .portfolio-cover { padding: 28px 18px; }
+  .portfolio-featured .portfolio-card-copy, .portfolio-wide .portfolio-card-copy { padding: 26px 22px; }
   .portfolio-cta { padding-block: 48px; }
   .case-hero { padding-block: 20px 40px; }
   .case-back { margin-bottom: 30px; }
@@ -104,4 +105,9 @@
 @media (prefers-reduced-motion: reduce) {
   .portfolio-cover img { transition: none; }
   .portfolio-cover:hover img { transform: none; }
+}
+
+@media (min-width: 651px) {
+  .case-deliverables-four { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .case-more > div { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
 }

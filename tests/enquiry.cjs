@@ -12,12 +12,13 @@ assert(html.includes('method="POST"'));
 assert(html.includes('data-netlify="true"'));
 assert(html.includes('netlify-honeypot="bot-field"'));
 assert.equal((html.match(/type="radio"/g) || []).length, 3);
-for (const name of ['goal', 'business', 'details', 'name', 'email']) {
-  assert(new RegExp('<(?:input|textarea)[^>]*name="' + name + '"[^>]*required').test(html));
+for (const name of ['goal', 'business', 'details', 'name', 'email', 'timing', 'budget']) {
+  assert(new RegExp('<(?:input|select|textarea)[^>]*name="' + name + '"[^>]*required').test(html));
 }
-for (const name of ['website', 'country', 'timing', 'budget']) {
+for (const name of ['website', 'country']) {
   assert(!new RegExp('<(?:input|select)[^>]*name="' + name + '"[^>]*required').test(html));
 }
+assert(html.includes('<summary>Timing and budget *</summary>'));
 assert(fs.readFileSync('public/enquiry-received/index.html', 'utf8').includes('noindex, follow'));
 assert(fs.readFileSync('public/privacy/index.html', 'utf8').includes('id="project-enquiries"'));
 

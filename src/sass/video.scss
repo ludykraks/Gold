@@ -1,0 +1,17 @@
+.youtube-embed.videoWrapper {
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  aspect-ratio: 16 / 9;
+  margin-block: 24px;
+  background: #222625;
+}
+.blog-prose .youtube-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  margin: 0;
+  border: 0;
+}

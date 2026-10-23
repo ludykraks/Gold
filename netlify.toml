@@ -5,4 +5,15 @@
 [[redirects]]
   from = "/process"
   to = "/services/"
-  status = 301  
+  status = 301
+
+# Temporary while the Digital Action Plan is retired.
+[[redirects]]
+  from = "/action-plan"
+  to = "/start-a-project/"
+  status = 302
+
+[[redirects]]
+  from = "/action-plan/*"
+  to = "/start-a-project/"
+  status = 302

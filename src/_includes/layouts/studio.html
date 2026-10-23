@@ -9,8 +9,13 @@
     {% if noindex %}<meta name="robots" content="noindex, follow">{% endif %}
     <meta name="google-site-verification" content="3h28Suj_WGh5KXQEqKp34a4fJV2k3v0oSjCOgDVhq2Y">
     <link rel="stylesheet" href="/css/home.css">
+    {% if notFound %}<link rel="stylesheet" href="/css/not-found.css">{% endif %}
     {% if privacy %}<link rel="stylesheet" href="/css/privacy.css">{% endif %}
+    {% if youtube %}<link rel="stylesheet" href="/css/video.css">{% endif %}
     {% if portfolio %}<link rel="stylesheet" href="/css/portfolio.css">{% endif %}
+    {% if adsense %}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2484041035631135" crossorigin="anonymous"></script>
+    {% endif %}
     <script src="/js/studio.js" defer></script>
   </head>
   <body class="studio">

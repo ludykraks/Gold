@@ -31,18 +31,18 @@
         autocomplete="email" maxlength="254" required></div>
   </div>
   <details class="enquiry-extra">
-    <summary>Add Timing or budget (optional)</summary>
-    <label for="enquiry-timing">When would you like to get started?</label>
-    <select id="enquiry-timing" name="timing">
-      <option value="">Select if you know</option>
+    <summary>Timing and budget *</summary>
+    <label for="enquiry-timing">When would you like to get started? *</label>
+    <select id="enquiry-timing" name="timing" required>
+      <option value="">Select a timeframe</option>
       <option>As soon as possible</option>
       <option>Within 1-3 months</option>
       <option>Later this year</option>
       <option>Just exploring</option>
     </select>
-    <label for="enquiry-budget">Budget range, if you have one</label>
-    <input id="enquiry-budget" name="budget" maxlength="120" aria-describedby="budget-hint">
-    <p class="enquiry-note" id="budget-hint">Include your currency. It’s fine if you haven’t decided yet.</p>
+    <label for="enquiry-budget">Budget range *</label>
+    <input id="enquiry-budget" name="budget" maxlength="120" required aria-describedby="budget-hint">
+    <p class="enquiry-note" id="budget-hint">Include your currency and your best estimate. If you’re unsure, say so.</p>
   </details>
   <p class="enquiry-note">We'll use these details to respond to your enquiry and discuss your project. This form
     does not sign you up for marketing emails. <a href="/privacy/#project-enquiries">How we handle your

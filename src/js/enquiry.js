@@ -7,6 +7,11 @@
   const originalLabel = button.textContent;
   let sending = false;
 
+  form.addEventListener('invalid', event => {
+    const section = event.target.closest('details');
+    if (section) section.open = true;
+  }, true);
+
   form.addEventListener('submit', async event => {
     event.preventDefault();
     if (sending || !form.reportValidity()) return;

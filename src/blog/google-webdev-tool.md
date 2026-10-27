@@ -1,7 +1,6 @@
 ---
 layout: "layouts/blog-base.html"
 title: "Web.dev: Google Introduces New Web Performance Tool"
-
 ---
 
 <p>Google has introduced a new modern web performance tool

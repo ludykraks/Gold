@@ -15,6 +15,8 @@ To renew in person, take your registration certificate or number and any previou
 
 ## How much does it cost?
 
-The [ORC’s 2026 fee schedule](https://orc.gov.gh/fees.php) lists **GH₵70** for a sole proprietorship’s annual renewal, **GH₵100** for a partnership renewal, and **GH₵175** for a company’s annual returns. Outstanding filings or penalties may increase the total.
+The [ORC’s 2026 fee schedule](https://orc.gov.gh/fees.php) lists **GH₵70** for a sole proprietorship’s annual renewal, **GH₵100** for a partnership renewal, and **GH₵175** for a company’s annual returns. 
+
+Outstanding filings or penalties may increase the total.
 
 File each year and check [ORC announcements](https://www.orc.gov.gh/) for the deadline that applies to you. Do not assume that a deadline extension from a previous year still applies.

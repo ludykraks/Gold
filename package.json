@@ -9,7 +9,7 @@
     "build:eleventy": "eleventy",
     "start": "npm-run-all build:sass --parallel watch:*",
     "build": "npm-run-all build:*",
-    "test": "node tests/site.cjs && node tests/enquiry.cjs && node tests/adsense.cjs"
+    "test": "node tests/site.cjs && node tests/enquiry.cjs && node tests/adsense.cjs && node tests/website-design.cjs"
   },
   "keywords": [],
   "author": "",

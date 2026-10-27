@@ -16,7 +16,7 @@
 
 :root {
   --charcoal: #222625;
-  --gold: #e9bd58;
+  --gold: #f4b731;
   --paper: #ffffff;
   --muted: #c9cdca;
   --ink: #202523;
@@ -167,8 +167,8 @@ body.studio {
   width: 25px;
   height: 27px;
   background: var(--gold);
-  border: 1px solid #f1cf7e;
-  box-shadow: -4px -3px 0 #bb902d;
+  border: 1px solid var(--gold);
+  box-shadow: -4px -3px 0 #ba8b25;
 }
 
 .desktop-navigation {
@@ -206,7 +206,7 @@ body.studio {
 }
 
 .button:hover {
-  background: #f4ce79;
+  background: #ffc845;
 }
 
 .button-small {
@@ -321,7 +321,7 @@ body.studio {
 .demo-toolbar i {
   width: 5px;
   height: 5px;
-  background: #e1b757;
+  background: var(--gold);
   border-radius: 50%;
 }
 

@@ -44,7 +44,9 @@ The GRA lists filing returns on time, paying taxes on time, keeping proper busin
 
 Business registration and permission to operate from a particular location are not necessarily the same thing.
 
-Contact the Metropolitan, Municipal or District Assembly responsible for your business location. Ask whether you need a Business Operating Permit, signage approval, environmental-health inspection or another local permit.
+Contact the Metropolitan, Municipal or District Assembly responsible for your business location. 
+
+Ask whether you need a Business Operating Permit, signage approval, environmental-health inspection or another local permit.
 
 For example, the Accra Metropolitan Assembly lists an ORC business certificate or certificate of incorporation, the business name, owner's name, location and contact details in its [Business Operating Permit checklist](https://www.ama.gov.gh/bop.php).
 

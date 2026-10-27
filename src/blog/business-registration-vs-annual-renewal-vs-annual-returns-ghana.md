@@ -29,7 +29,7 @@ Annual returns is mandatory for incorporated companies. It separately provides a
 
 Business registration is the first step. You apply to the ORC under the structure that fits the venture, such as a business name owned by one person or a private company limited by shares.
 
-Registration is just the beginning, It doesn't mean that once it's done, your business is in good satnding forever. You will need to renew every year to keep your business in the Registrar Generals's books. 
+Registration is just the beginning, it doesn't mean that once it's done, your business is in good satnding forever. You will need to renew every year to keep your business in the Registrar Generals's books. 
 
 Receiving a certificate does not remove annual obligations, tax obligations or licences that may apply to your activity.
 

@@ -74,9 +74,9 @@ Open **phpMyAdmin** from your hosting control panel, select that database and ch
 
 For a standard backup:
 
-1. Select **Quick** as the export method.
-2. Select **SQL** as the format.
-3. Click **Export** or **Go**.
+1. Select **Quick** as the export method
+2. Select **SQL** as the format
+3. Click **Export** or **Go**
 
 Your browser should download a file similar to:
 

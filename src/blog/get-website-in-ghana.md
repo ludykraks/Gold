@@ -39,11 +39,12 @@ title: "How to Get Your Website in Simple Steps in Ghana"
       <p>Because most single-word brand names have already been registered, the addition of <em>gh</em> to
          your brand name is encouraged when registering.</p>
       <p>You may also choose a domain name that ends with <em>.com.gh.</em></p>
-      <p><a href="https://www.godaddy.com" target="_blank">GoDaddy</a> and
-         <a href="https://www.namecheap.com" target="_blank">Namecheap</a>
+      <p><a href="https://www.godaddy.com" target="_blank">GoDaddy</a>,
+         <a href="https://www.namecheap.com" target="_blank">Namecheap</a> and
+         <a href="https://cloudflare.com" target="_blank">Cloudflare</a>
         are registrars where you can easily purchase your domain name.
         Registering a domain name that ends with a <em>.com or .org</em> should cost you
-        between GH₵ 50 and GH₵ 85 per year, .com.gh however costs more.</p>
+        between GH₵ 100 and GH₵ 200 per year, .com.gh however costs more.</p>
       <p>You can personally purchase your domain name on any of the above sites or let
         a web agency in Ghana take care of it for you.</p>
       <p>Note: Both GoDaddy and Namecheap offer discounts when you register your

@@ -55,7 +55,7 @@ Use the [ORC online name-search tool](https://rgdonline.gegov.gov.gh/orc-app/) t
 
 The search tool allows you to look for an exact match or names that start with, end with or contain particular words.
 
-An online search is helpful, but the Registrar makes the final decision on whether a name can be approved.
+The Registrar makes the final decision on whether a name can be approved.
 
 ## Step 3: Obtain and Complete Form A
 
